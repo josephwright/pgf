@@ -1,0 +1,27 @@
+\documentclass{article}
+
+\input{pgf-regression-test}
+\usepackage{tikz,fontspec}
+\setmainfont{DavidCLM}[Script=Hebrew]
+\usetikzlibrary{positioning,backgrounds}
+
+\begin{document}
+
+\START
+
+\textdirection=1
+\pardirection=1
+\noindent
+\BEGINBOXTEST{picture embedded in RTL paragraph}
+\tikzpicture[background rectangle/.style={fill=gray!33}, show background rectangle]
+\node [draw,text width=0.75\hsize, align=left, outer sep=0pt,inner sep=0pt](n1) {%
+לורם איפסום דולור סיט אמט.
+};
+\node [draw,below = 0pt of n1.south east,anchor=north east,outer sep=0pt,inner sep=0pt](n2) {%
+שלום עולם
+};
+\filldraw (n2) circle (1pt);
+\endtikzpicture
+\ENDBOXTEST
+
+\END

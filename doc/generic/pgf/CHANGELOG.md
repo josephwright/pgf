@@ -26,6 +26,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Fix mis-spelled Kellermann to Kellerman
 - Support an apply-all feature (suggested in issue #640) to
   apply a single definition of options to multiple examples.
+- Support directions in LuaTeX and LuaMetaTeX
 
 ### Added
 
@@ -50,6 +51,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Dominik Peters
 - Erin Cold
 - Hanson Char
+- Udi Fogiel
 
 ## [3.1.11a] - 2025-08-29 Henri Menke
 
