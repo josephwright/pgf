@@ -329,10 +329,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(4.30554+0.0)x6.43404, direction TLT
+.............\begindir TLT
 .............\mathon
 .............\OML/cmm/m/it/10 ^^K
 .............\kern0.03702 (italic)
 .............\mathoff
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -443,10 +445,12 @@ TEST 4: pgfmanual-en-library-angles-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(4.30554+0.0)x6.43404, direction TLT
+.............\begindir TLT
 .............\mathon
 .............\OML/cmm/m/it/10 ^^K
 .............\kern0.03702 (italic)
 .............\mathoff
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -558,10 +562,12 @@ TEST 5: pgfmanual-en-library-angles-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(4.30554+0.0)x6.43404, direction TLT
+.............\begindir TLT
 .............\mathon
 .............\OML/cmm/m/it/10 ^^K
 .............\kern0.03702 (italic)
 .............\mathoff
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -731,9 +737,11 @@ TEST 6: pgfmanual-en-library-angles-6
 ............\pdfliteral origin{1 0 0 RG }
 ............\pdfliteral origin{1 0 0 rg }
 ............\hbox(1.06+0.0)x2.78, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 .............\TU/lmr/m/n/10 .
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0

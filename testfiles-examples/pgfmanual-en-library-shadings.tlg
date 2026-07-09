@@ -35,8 +35,10 @@ TEST 1: pgfmanual-en-library-shadings-1
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -96,8 +98,10 @@ TEST 2: pgfmanual-en-library-shadings-2
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -157,8 +161,10 @@ TEST 3: pgfmanual-en-library-shadings-3
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -183,8 +189,10 @@ TEST 3: pgfmanual-en-library-shadings-3
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -209,8 +217,10 @@ TEST 3: pgfmanual-en-library-shadings-3
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -267,8 +277,10 @@ TEST 4: pgfmanual-en-library-shadings-4
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -325,9 +337,11 @@ TEST 5: pgfmanual-en-library-shadings-5
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
 .........\pdfrefobj attr  /FunctionType 4 /Domain [-50.00064 50.00064 -50.00064 50.00064] /Range [0 1 0 1 0 1]  stream { 2 copy abs exch abs add 0.0001 ge {atan 360.0 div} { pop } ifelse 1.0 1.0 3 2 roll 6.0 mul dup 4 1 roll floor cvr dup 5 1 roll 3 index sub neg 1.0 3 index sub 2 index mul 6 1 roll dup 3 index mul neg 1.0 add 2 index mul 7 1 roll neg 1.0 add 2 index mul neg 1.0 add 1 index mul 7 2 roll pop pop dup 0.5 le { pop exch pop } { dup 1.5 le { pop exch 4 1 roll exch pop } { dup 2.5 le { pop 4 1 roll pop } { dup 3.5 le { pop exch 4 2 roll pop } { dup 4.5 le { pop exch pop 3 -1 roll } { pop 3 1 roll exch pop } ifelse } ifelse } ifelse } ifelse } ifelse }
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -388,9 +402,11 @@ TEST 6: pgfmanual-en-library-shadings-6
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
 .........\pdfrefobj attr  /FunctionType 4 /Domain [-50.00064 50.00064 -50.00064 50.00064] /Range [0 1 0 1 0 1]  stream { 2 copy abs exch abs add 0.0001 ge {atan 360.0 div} { pop } ifelse 1.0 1.0 3 2 roll 6.0 mul dup 4 1 roll floor cvr dup 5 1 roll 3 index sub neg 1.0 3 index sub 2 index mul 6 1 roll dup 3 index mul neg 1.0 add 2 index mul 7 1 roll neg 1.0 add 2 index mul neg 1.0 add 1 index mul 7 2 roll pop pop dup 0.5 le { pop exch pop } { dup 1.5 le { pop exch 4 1 roll exch pop } { dup 2.5 le { pop 4 1 roll pop } { dup 3.5 le { pop exch 4 2 roll pop } { dup 4.5 le { pop exch pop 3 -1 roll } { pop 3 1 roll exch pop } ifelse } ifelse } ifelse } ifelse } ifelse }
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -443,9 +459,11 @@ TEST 7: pgfmanual-en-library-shadings-7
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
 .........\pdfrefobj attr  /FunctionType 4 /Domain [-50.00064 50.00064 -50.00064 50.00064] /Range [0 1 0 1 0 1]  stream { 2 copy 2 copy abs exch abs add 0.0001 ge {atan 360.0 div} { pop } ifelse 3 1 roll dup mul exch dup mul add sqrt 25.0 div dup 1.0 ge { pop 1.0 }{} ifelse 1.0 exch 3 2 roll 6.0 mul dup 4 1 roll floor cvr dup 5 1 roll 3 index sub neg 1.0 3 index sub 2 index mul 6 1 roll dup 3 index mul neg 1.0 add 2 index mul 7 1 roll neg 1.0 add 2 index mul neg 1.0 add 1 index mul 7 2 roll pop pop dup 0.5 le { pop exch pop } { dup 1.5 le { pop exch 4 1 roll exch pop } { dup 2.5 le { pop 4 1 roll pop } { dup 3.5 le { pop exch 4 2 roll pop } { dup 4.5 le { pop exch pop 3 -1 roll } { pop 3 1 roll exch pop } ifelse } ifelse } ifelse } ifelse } ifelse }
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -497,9 +515,11 @@ TEST 8: pgfmanual-en-library-shadings-8
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
 .........\pdfrefobj attr  /FunctionType 4 /Domain [-50.00064 50.00064 -50.00064 50.00064] /Range [0 1 0 1 0 1]  stream { 2 copy 2 copy abs exch abs add 0.0001 ge {atan 360.0 div} { pop } ifelse 3 1 roll dup mul exch dup mul add sqrt 25.0 div dup 1.0 ge { pop 1.0 }{} ifelse 1.0 3 2 roll 6.0 mul dup 4 1 roll floor cvr dup 5 1 roll 3 index sub neg 1.0 3 index sub 2 index mul 6 1 roll dup 3 index mul neg 1.0 add 2 index mul 7 1 roll neg 1.0 add 2 index mul neg 1.0 add 1 index mul 7 2 roll pop pop dup 0.5 le { pop exch pop } { dup 1.5 le { pop exch 4 1 roll exch pop } { dup 2.5 le { pop 4 1 roll pop } { dup 3.5 le { pop exch 4 2 roll pop } { dup 4.5 le { pop exch pop 3 -1 roll } { pop 3 1 roll exch pop } ifelse } ifelse } ifelse } ifelse } ifelse }
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -551,9 +571,11 @@ TEST 9: pgfmanual-en-library-shadings-9
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
 .........\pdfrefobj attr  /FunctionType 4 /Domain [-50.00064 50.00064 -50.00064 50.00064] /Range [0 1 0 1 0 1]  stream { 12.5 div exch 12.5 div exch 1 index 1 index 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul add 4 lt { 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul add 4 lt { 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add 1 index dup mul 1 index dup mul sub 4 index add 3 1 roll mul 2 mul 2 index add } { pop pop 1000.0 1000.0 } ifelse } { pop pop 1000.0 1000.0 } ifelse dup mul exch dup mul add sqrt dup 4 1 roll 2 gt { pop pop 2.0 exch div 1.0 exch sub dup dup} {pop pop pop 0.0 0.0 0.0} ifelse }
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -605,8 +627,10 @@ TEST 10: pgfmanual-en-library-shadings-10
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -666,8 +690,10 @@ TEST 11: pgfmanual-en-library-shadings-11
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }

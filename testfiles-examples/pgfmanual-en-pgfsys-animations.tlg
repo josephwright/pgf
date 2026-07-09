@@ -54,6 +54,7 @@ Package pgf Warning: Your graphic driver pgfsys-luatex.def does not support anim
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -80,6 +81,7 @@ Package pgf Warning: Your graphic driver pgfsys-luatex.def does not support anim
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -161,8 +163,10 @@ TEST 2: pgfmanual-en-pgfsys-animations-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -234,8 +238,10 @@ TEST 2: pgfmanual-en-pgfsys-animations-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -307,8 +313,10 @@ TEST 2: pgfmanual-en-pgfsys-animations-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -380,8 +388,10 @@ TEST 2: pgfmanual-en-pgfsys-animations-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -457,6 +467,7 @@ TEST 3: pgfmanual-en-pgfsys-animations-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -483,6 +494,7 @@ TEST 3: pgfmanual-en-pgfsys-animations-6
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -556,6 +568,7 @@ TEST 4: pgfmanual-en-pgfsys-animations-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -582,6 +595,7 @@ TEST 4: pgfmanual-en-pgfsys-animations-7
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -655,6 +669,7 @@ TEST 5: pgfmanual-en-pgfsys-animations-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -681,6 +696,7 @@ TEST 5: pgfmanual-en-pgfsys-animations-8
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -754,6 +770,7 @@ TEST 6: pgfmanual-en-pgfsys-animations-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -780,6 +797,7 @@ TEST 6: pgfmanual-en-pgfsys-animations-9
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -853,6 +871,7 @@ TEST 7: pgfmanual-en-pgfsys-animations-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -879,6 +898,7 @@ TEST 7: pgfmanual-en-pgfsys-animations-10
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -952,6 +972,7 @@ TEST 8: pgfmanual-en-pgfsys-animations-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -978,6 +999,7 @@ TEST 8: pgfmanual-en-pgfsys-animations-11
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1063,6 +1085,7 @@ TEST 9: pgfmanual-en-pgfsys-animations-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1089,6 +1112,7 @@ TEST 9: pgfmanual-en-pgfsys-animations-12
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1171,6 +1195,7 @@ TEST 10: pgfmanual-en-pgfsys-animations-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1197,6 +1222,7 @@ TEST 10: pgfmanual-en-pgfsys-animations-13
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1270,6 +1296,7 @@ TEST 11: pgfmanual-en-pgfsys-animations-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1296,6 +1323,7 @@ TEST 11: pgfmanual-en-pgfsys-animations-14
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1369,6 +1397,7 @@ TEST 12: pgfmanual-en-pgfsys-animations-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1395,6 +1424,7 @@ TEST 12: pgfmanual-en-pgfsys-animations-15
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1468,6 +1498,7 @@ TEST 13: pgfmanual-en-pgfsys-animations-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1494,6 +1525,7 @@ TEST 13: pgfmanual-en-pgfsys-animations-16
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1567,6 +1599,7 @@ TEST 14: pgfmanual-en-pgfsys-animations-17
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1593,6 +1626,7 @@ TEST 14: pgfmanual-en-pgfsys-animations-17
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1670,8 +1704,10 @@ TEST 15: pgfmanual-en-pgfsys-animations-19
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1700,6 +1736,7 @@ TEST 15: pgfmanual-en-pgfsys-animations-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1726,6 +1763,7 @@ TEST 15: pgfmanual-en-pgfsys-animations-19
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1792,8 +1830,10 @@ TEST 15: pgfmanual-en-pgfsys-animations-19
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1822,6 +1862,7 @@ TEST 15: pgfmanual-en-pgfsys-animations-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1848,6 +1889,7 @@ TEST 15: pgfmanual-en-pgfsys-animations-19
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1926,8 +1968,10 @@ TEST 16: pgfmanual-en-pgfsys-animations-20
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1956,6 +2000,7 @@ TEST 16: pgfmanual-en-pgfsys-animations-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -1982,6 +2027,7 @@ TEST 16: pgfmanual-en-pgfsys-animations-20
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2048,8 +2094,10 @@ TEST 16: pgfmanual-en-pgfsys-animations-20
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -2078,6 +2126,7 @@ TEST 16: pgfmanual-en-pgfsys-animations-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2104,6 +2153,7 @@ TEST 16: pgfmanual-en-pgfsys-animations-20
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2182,8 +2232,10 @@ TEST 17: pgfmanual-en-pgfsys-animations-21
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -2212,6 +2264,7 @@ TEST 17: pgfmanual-en-pgfsys-animations-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2238,6 +2291,7 @@ TEST 17: pgfmanual-en-pgfsys-animations-21
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2304,8 +2358,10 @@ TEST 17: pgfmanual-en-pgfsys-animations-21
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -2334,6 +2390,7 @@ TEST 17: pgfmanual-en-pgfsys-animations-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2360,6 +2417,7 @@ TEST 17: pgfmanual-en-pgfsys-animations-21
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2438,8 +2496,10 @@ TEST 18: pgfmanual-en-pgfsys-animations-22
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -2468,6 +2528,7 @@ TEST 18: pgfmanual-en-pgfsys-animations-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2494,6 +2555,7 @@ TEST 18: pgfmanual-en-pgfsys-animations-22
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2560,8 +2622,10 @@ TEST 18: pgfmanual-en-pgfsys-animations-22
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -2590,6 +2654,7 @@ TEST 18: pgfmanual-en-pgfsys-animations-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2616,6 +2681,7 @@ TEST 18: pgfmanual-en-pgfsys-animations-22
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2689,6 +2755,7 @@ TEST 19: pgfmanual-en-pgfsys-animations-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2715,6 +2782,7 @@ TEST 19: pgfmanual-en-pgfsys-animations-23
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2787,6 +2855,7 @@ TEST 20: pgfmanual-en-pgfsys-animations-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2813,6 +2882,7 @@ TEST 20: pgfmanual-en-pgfsys-animations-24
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2885,6 +2955,7 @@ TEST 21: pgfmanual-en-pgfsys-animations-25
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -2911,6 +2982,7 @@ TEST 21: pgfmanual-en-pgfsys-animations-25
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2983,6 +3055,7 @@ TEST 22: pgfmanual-en-pgfsys-animations-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3009,6 +3082,7 @@ TEST 22: pgfmanual-en-pgfsys-animations-26
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3083,6 +3157,7 @@ TEST 23: pgfmanual-en-pgfsys-animations-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3109,6 +3184,7 @@ TEST 23: pgfmanual-en-pgfsys-animations-27
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3183,6 +3259,7 @@ TEST 24: pgfmanual-en-pgfsys-animations-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3209,6 +3286,7 @@ TEST 24: pgfmanual-en-pgfsys-animations-28
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3286,6 +3364,7 @@ TEST 25: pgfmanual-en-pgfsys-animations-29
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(20.858+0.07)x26.27101, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\vbox(20.858+0.07)x26.27101, direction TLT
 ............\hbox(12.858+0.07)x26.27101, direction TLT
@@ -3336,6 +3415,7 @@ TEST 25: pgfmanual-en-pgfsys-animations-29
 ..............\TU/lmr/m/n/7 x
 .............\glue(\tabskip) 0.0
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3377,6 +3457,7 @@ TEST 25: pgfmanual-en-pgfsys-animations-29
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(20.305+0.07)x20.88799, direction TLT
+...........\begindir TLT
 ...........\vbox(20.305+0.07)x20.88799, direction TLT
 ............\hbox(12.305+0.07)x20.88799, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3421,6 +3502,7 @@ TEST 25: pgfmanual-en-pgfsys-animations-29
 ..............\kern-0.217 (font)
 ..............\TU/lmr/m/n/7 x
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3472,6 +3554,7 @@ TEST 25: pgfmanual-en-pgfsys-animations-29
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3498,6 +3581,7 @@ TEST 25: pgfmanual-en-pgfsys-animations-29
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3572,6 +3656,7 @@ TEST 26: pgfmanual-en-pgfsys-animations-31
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3598,6 +3683,7 @@ TEST 26: pgfmanual-en-pgfsys-animations-31
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3671,6 +3757,7 @@ TEST 27: pgfmanual-en-pgfsys-animations-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3697,6 +3784,7 @@ TEST 27: pgfmanual-en-pgfsys-animations-32
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3771,6 +3859,7 @@ TEST 28: pgfmanual-en-pgfsys-animations-33
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3797,6 +3886,7 @@ TEST 28: pgfmanual-en-pgfsys-animations-33
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3872,6 +3962,7 @@ TEST 29: pgfmanual-en-pgfsys-animations-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3898,6 +3989,7 @@ TEST 29: pgfmanual-en-pgfsys-animations-34
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3972,6 +4064,7 @@ TEST 30: pgfmanual-en-pgfsys-animations-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -3998,6 +4091,7 @@ TEST 30: pgfmanual-en-pgfsys-animations-35
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4072,6 +4166,7 @@ TEST 31: pgfmanual-en-pgfsys-animations-36
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4098,6 +4193,7 @@ TEST 31: pgfmanual-en-pgfsys-animations-36
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4172,6 +4268,7 @@ TEST 32: pgfmanual-en-pgfsys-animations-37
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4198,6 +4295,7 @@ TEST 32: pgfmanual-en-pgfsys-animations-37
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4272,6 +4370,7 @@ TEST 33: pgfmanual-en-pgfsys-animations-38
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4298,6 +4397,7 @@ TEST 33: pgfmanual-en-pgfsys-animations-38
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4372,6 +4472,7 @@ TEST 34: pgfmanual-en-pgfsys-animations-39
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4398,6 +4499,7 @@ TEST 34: pgfmanual-en-pgfsys-animations-39
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4474,6 +4576,7 @@ TEST 35: pgfmanual-en-pgfsys-animations-40
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4500,6 +4603,7 @@ TEST 35: pgfmanual-en-pgfsys-animations-40
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4561,6 +4665,7 @@ TEST 35: pgfmanual-en-pgfsys-animations-40
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x25.59, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 O
 ...........\TU/lmr/m/n/10 t
@@ -4568,6 +4673,7 @@ TEST 35: pgfmanual-en-pgfsys-animations-40
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4642,6 +4748,7 @@ TEST 36: pgfmanual-en-pgfsys-animations-41
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4668,6 +4775,7 @@ TEST 36: pgfmanual-en-pgfsys-animations-41
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4741,6 +4849,7 @@ TEST 37: pgfmanual-en-pgfsys-animations-42
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4767,6 +4876,7 @@ TEST 37: pgfmanual-en-pgfsys-animations-42
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4840,6 +4950,7 @@ TEST 38: pgfmanual-en-pgfsys-animations-43
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4866,6 +4977,7 @@ TEST 38: pgfmanual-en-pgfsys-animations-43
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4939,6 +5051,7 @@ TEST 39: pgfmanual-en-pgfsys-animations-44
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -4965,6 +5078,7 @@ TEST 39: pgfmanual-en-pgfsys-animations-44
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5038,6 +5152,7 @@ TEST 40: pgfmanual-en-pgfsys-animations-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -5064,6 +5179,7 @@ TEST 40: pgfmanual-en-pgfsys-animations-45
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5137,6 +5253,7 @@ TEST 41: pgfmanual-en-pgfsys-animations-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -5163,6 +5280,7 @@ TEST 41: pgfmanual-en-pgfsys-animations-46
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5237,6 +5355,7 @@ TEST 42: pgfmanual-en-pgfsys-animations-47
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -5263,6 +5382,7 @@ TEST 42: pgfmanual-en-pgfsys-animations-47
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5337,6 +5457,7 @@ TEST 43: pgfmanual-en-pgfsys-animations-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(15.132+0.08)x18.88, direction TLT
+...........\begindir TLT
 ...........\vbox(15.132+0.08)x18.88, direction TLT
 ............\hbox(5.632+0.168)x18.88, direction TLT
 .............\glue(\tabskip) 0.0
@@ -5363,6 +5484,7 @@ TEST 43: pgfmanual-en-pgfsys-animations-48
 ..............\TU/lmr/m/n/8 e
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

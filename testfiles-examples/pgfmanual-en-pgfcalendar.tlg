@@ -930,8 +930,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -968,8 +970,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1005,8 +1009,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1043,8 +1049,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1081,8 +1089,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.77+0.0)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1119,8 +1129,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1157,8 +1169,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1195,8 +1209,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.76+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1233,8 +1249,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1270,8 +1288,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1308,8 +1328,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1346,8 +1368,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1384,8 +1408,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1422,8 +1448,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1460,8 +1488,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1498,8 +1528,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.77+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1535,8 +1567,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1573,8 +1607,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1611,8 +1647,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.76+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1649,8 +1687,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1687,8 +1727,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
 ...........\TU/lmr/m/n/10 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1725,8 +1767,10 @@ TEST 5: pgfmanual-en-pgfcalendar-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

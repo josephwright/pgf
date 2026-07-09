@@ -224,8 +224,10 @@ TEST 1: pgfmanual-en-library-lsystems-1
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -3376,6 +3378,7 @@ TEST 6: pgfmanual-en-library-lsystems-9
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(48.89755+0.0)x55.525, direction TLT
+........\begindir TLT
 ........\hbox(48.89755+0.0)x55.525, direction TLT
 .........\glue 55.325
 .........\hbox(0.0+0.0)x0.0, shifted -0.2, direction TLT
@@ -3638,6 +3641,7 @@ TEST 6: pgfmanual-en-library-lsystems-9
 ..........\pdfliteral origin{n }
 ..........\pdfliteral origin{Q }
 ..........\glue 0.0 plus 1.0fil minus 1.0fil
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3658,6 +3662,7 @@ TEST 6: pgfmanual-en-library-lsystems-9
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(48.89755+0.0)x55.525, direction TLT
+........\begindir TLT
 ........\hbox(48.89755+0.0)x55.525, direction TLT
 .........\glue 0.2
 .........\hbox(0.0+0.0)x0.0, shifted -48.69756, direction TLT
@@ -3920,6 +3925,7 @@ TEST 6: pgfmanual-en-library-lsystems-9
 ..........\pdfliteral origin{n }
 ..........\pdfliteral origin{Q }
 ..........\glue 0.0 plus 1.0fil minus 1.0fil
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil

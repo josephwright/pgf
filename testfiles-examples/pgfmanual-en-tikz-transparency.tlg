@@ -662,7 +662,9 @@ TEST 12: pgfmanual-en-tikz-transparency-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(14.66318+0.0)x14.37282, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/20.74 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -694,7 +696,9 @@ TEST 12: pgfmanual-en-tikz-transparency-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(14.16542+0.0)x13.56396, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/20.74 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -797,6 +801,7 @@ TEST 13: pgfmanual-en-tikz-transparency-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+1.94)x51.43, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 U
 ...........\TU/lmr/m/n/10 p
 ...........\discretionary (penalty 50)
@@ -811,6 +816,7 @@ TEST 13: pgfmanual-en-tikz-transparency-13
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -846,6 +852,7 @@ TEST 13: pgfmanual-en-tikz-transparency-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x50.44, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\TU/lmr/m/n/10 L
@@ -861,6 +868,7 @@ TEST 13: pgfmanual-en-tikz-transparency-13
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1147,8 +1155,10 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line ...
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1597,8 +1607,10 @@ TEST 23: pgfmanual-en-tikz-transparency-23
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1679,8 +1691,10 @@ TEST 24: pgfmanual-en-tikz-transparency-24
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1711,8 +1725,10 @@ TEST 24: pgfmanual-en-tikz-transparency-24
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -1797,6 +1813,8 @@ TEST 25: pgfmanual-en-tikz-transparency-25
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2103,6 +2121,7 @@ TEST 28: pgfmanual-en-tikz-transparency-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+62.05)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(6.94+62.05)x99.58464, direction TLT
 ............\hbox(6.94+0.11)x99.58464, glue set 0.12413, direction TLT
 .............\localpar
@@ -2255,6 +2274,7 @@ TEST 28: pgfmanual-en-tikz-transparency-28
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0 plus 1.0fil
 .............\glue(\rightskip) 0.0 plus 20.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2367,6 +2387,7 @@ TEST 30: pgfmanual-en-tikz-transparency-30
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+2.06)x37.51, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 o
@@ -2376,6 +2397,7 @@ TEST 30: pgfmanual-en-tikz-transparency-30
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 g
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2433,6 +2455,7 @@ TEST 30: pgfmanual-en-tikz-transparency-30
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+2.06)x37.51, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 o
@@ -2442,6 +2465,7 @@ TEST 30: pgfmanual-en-tikz-transparency-30
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 g
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2561,6 +2585,7 @@ TEST 32: pgfmanual-en-tikz-transparency-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+2.06)x37.51, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 o
@@ -2570,6 +2595,7 @@ TEST 32: pgfmanual-en-tikz-transparency-32
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 g
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2672,6 +2698,7 @@ TEST 33: pgfmanual-en-tikz-transparency-33
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+2.06)x37.51, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 o
@@ -2681,6 +2708,7 @@ TEST 33: pgfmanual-en-tikz-transparency-33
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 g
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2783,6 +2811,7 @@ TEST 34: pgfmanual-en-tikz-transparency-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+2.06)x37.51, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 o
@@ -2792,6 +2821,7 @@ TEST 34: pgfmanual-en-tikz-transparency-34
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 g
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2870,8 +2900,10 @@ TEST 35: pgfmanual-en-tikz-transparency-35
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }

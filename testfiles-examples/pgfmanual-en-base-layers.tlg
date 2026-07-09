@@ -122,6 +122,7 @@ TEST 1: pgfmanual-en-base-layers-2
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+2.06)x47.01999, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 f
 ...........\TU/lmr/m/n/10 o
@@ -136,6 +137,7 @@ TEST 1: pgfmanual-en-base-layers-2
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 d
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

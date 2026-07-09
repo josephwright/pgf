@@ -344,9 +344,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x5.71527, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 x
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -382,6 +384,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.5+2.5)x19.46533, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
 ...........\kern1.0764 (italic)
@@ -389,6 +392,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...........\OML/cmm/m/it/10 x
 ...........\OT1/cmr/m/n/10 )
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -446,6 +450,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(7.5+2.5)x38.51382, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
@@ -459,6 +464,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...........\OML/cmm/m/it/10 x
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -517,6 +523,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(7.5+2.5)x52.45825, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
@@ -536,6 +543,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...........\OML/cmm/m/it/10 x
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -594,6 +602,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{1 0.5 0 RG }
 ..........\pdfliteral origin{1 0.5 0 rg }
 ..........\hbox(8.44843+3.44841)x52.64998, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0.5 0 rg 1 0.5 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
@@ -624,6 +633,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\OML/cmm/m/it/7 x
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -893,9 +903,11 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x5.71527, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 x
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -931,6 +943,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.5+2.5)x19.46533, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
 ...........\kern1.0764 (italic)
@@ -938,6 +951,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ...........\OML/cmm/m/it/10 x
 ...........\OT1/cmr/m/n/10 )
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -994,6 +1008,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(7.5+2.5)x38.51382, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
@@ -1007,6 +1022,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ...........\OML/cmm/m/it/10 x
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1064,6 +1080,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(7.5+2.5)x52.45825, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
@@ -1083,6 +1100,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ...........\OML/cmm/m/it/10 x
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1140,6 +1158,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ..........\pdfliteral origin{1 0.5 0 RG }
 ..........\pdfliteral origin{1 0.5 0 rg }
 ..........\hbox(8.44843+3.44841)x52.64998, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0.5 0 rg 1 0.5 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 f
@@ -1170,6 +1189,7 @@ runsystem(gnuplot pgfmanual-en-tikz-plots.exp.gnuplot)...executed.
 ............\OML/cmm/m/it/7 x
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

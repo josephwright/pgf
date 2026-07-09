@@ -83,8 +83,10 @@ TEST 1: pgfmanual-en-library-views-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -193,8 +195,10 @@ TEST 2: pgfmanual-en-library-views-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -317,8 +321,10 @@ Package pgf Warning: Your graphic driver pgfsys-luatex.def does not support anim
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -441,8 +447,10 @@ TEST 4: pgfmanual-en-library-views-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

@@ -1208,9 +1208,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1328,9 +1330,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1448,9 +1452,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1578,9 +1584,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1696,9 +1704,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1814,9 +1824,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2938,9 +2950,11 @@ TEST 2: pgfmanual-en-dv-formats-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3058,9 +3072,11 @@ TEST 2: pgfmanual-en-dv-formats-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3178,9 +3194,11 @@ TEST 2: pgfmanual-en-dv-formats-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3308,9 +3326,11 @@ TEST 2: pgfmanual-en-dv-formats-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3426,9 +3446,11 @@ TEST 2: pgfmanual-en-dv-formats-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4502,9 +4524,11 @@ TEST 3: pgfmanual-en-dv-formats-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4622,9 +4646,11 @@ TEST 3: pgfmanual-en-dv-formats-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4742,9 +4768,11 @@ TEST 3: pgfmanual-en-dv-formats-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4872,9 +4900,11 @@ TEST 3: pgfmanual-en-dv-formats-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4990,9 +5020,11 @@ TEST 3: pgfmanual-en-dv-formats-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7319,9 +7351,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7441,9 +7475,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7563,9 +7599,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7685,9 +7723,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7807,9 +7847,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 4
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7929,9 +7971,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8051,9 +8095,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 6
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8186,11 +8232,13 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\OML/cmm/m/it/8 :
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8308,9 +8356,11 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8428,11 +8478,13 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 7
 ...........\OML/cmm/m/it/8 :
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8550,10 +8602,12 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x8.50012, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8671,12 +8725,14 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x15.11133, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 2
 ...........\OML/cmm/m/it/8 :
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8794,10 +8850,12 @@ TEST 4: pgfmanual-en-dv-formats-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x8.50012, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9914,9 +9972,11 @@ TEST 5: pgfmanual-en-dv-formats-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10034,9 +10094,11 @@ TEST 5: pgfmanual-en-dv-formats-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10154,9 +10216,11 @@ TEST 5: pgfmanual-en-dv-formats-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10284,9 +10348,11 @@ TEST 5: pgfmanual-en-dv-formats-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10402,9 +10468,11 @@ TEST 5: pgfmanual-en-dv-formats-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12184,10 +12252,12 @@ TEST 6: pgfmanual-en-dv-formats-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12384,9 +12454,11 @@ TEST 6: pgfmanual-en-dv-formats-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12514,9 +12586,11 @@ TEST 6: pgfmanual-en-dv-formats-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12632,9 +12706,11 @@ TEST 6: pgfmanual-en-dv-formats-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12750,9 +12826,11 @@ TEST 6: pgfmanual-en-dv-formats-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14582,10 +14660,12 @@ TEST 7: pgfmanual-en-dv-formats-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14782,9 +14862,11 @@ TEST 7: pgfmanual-en-dv-formats-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14902,9 +14984,11 @@ TEST 7: pgfmanual-en-dv-formats-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 4
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15022,9 +15106,11 @@ TEST 7: pgfmanual-en-dv-formats-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 6
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15152,10 +15238,12 @@ TEST 7: pgfmanual-en-dv-formats-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 4
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15271,10 +15359,12 @@ TEST 7: pgfmanual-en-dv-formats-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15390,9 +15480,11 @@ TEST 7: pgfmanual-en-dv-formats-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24156,6 +24248,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.68442+0.0)x8.58337, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
@@ -24164,6 +24257,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\hbox(2.86108+0.0)x4.33331, shifted -2.82333, direction TLT
 ............\OMS/cmsy/m/n/6 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24283,6 +24377,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.68442+0.0)x12.83344, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 0
@@ -24292,6 +24387,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\hbox(2.86108+0.0)x4.33331, shifted -2.82333, direction TLT
 ............\OMS/cmsy/m/n/6 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24411,6 +24507,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.68442+0.0)x12.83344, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\OT1/cmr/m/n/8 0
@@ -24420,6 +24517,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\hbox(2.86108+0.0)x4.33331, shifted -2.82333, direction TLT
 ............\OMS/cmsy/m/n/6 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24539,6 +24637,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.68442+0.0)x12.83344, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\OT1/cmr/m/n/8 0
@@ -24548,6 +24647,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\hbox(2.86108+0.0)x4.33331, shifted -2.82333, direction TLT
 ............\OMS/cmsy/m/n/6 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24667,6 +24767,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.68442+0.0)x12.83344, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 4
 ...........\OT1/cmr/m/n/8 0
@@ -24676,6 +24777,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\hbox(2.86108+0.0)x4.33331, shifted -2.82333, direction TLT
 ............\OMS/cmsy/m/n/6 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24795,6 +24897,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.68442+0.0)x12.83344, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 5
 ...........\OT1/cmr/m/n/8 0
@@ -24804,6 +24907,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\hbox(2.86108+0.0)x4.33331, shifted -2.82333, direction TLT
 ............\OMS/cmsy/m/n/6 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24936,6 +25040,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x21.72253, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 0
@@ -24943,6 +25048,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -25060,6 +25166,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x21.72253, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 0
@@ -25067,6 +25174,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -25184,6 +25292,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x21.72253, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 0
@@ -25191,6 +25300,7 @@ TEST 8: pgfmanual-en-dv-formats-10
 ...........\OT1/cmr/m/n/8 0
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -25308,12 +25418,14 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x15.11133, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\OML/cmm/m/it/8 :
 ...........\OT1/cmr/m/n/8 0
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -25431,12 +25543,14 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x15.11133, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\OML/cmm/m/it/8 :
 ...........\OT1/cmr/m/n/8 0
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -25554,12 +25668,14 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x15.11133, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\OML/cmm/m/it/8 :
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -25677,12 +25793,14 @@ TEST 8: pgfmanual-en-dv-formats-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x15.11133, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\OML/cmm/m/it/8 :
 ...........\OT1/cmr/m/n/8 1
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

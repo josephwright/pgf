@@ -811,9 +811,11 @@ TEST 10: pgfmanual-en-base-transformations-10
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.57+1.94)x12.23, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 t
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 p
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -895,9 +897,11 @@ TEST 11: pgfmanual-en-base-transformations-11
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.16+0.0)x13.06, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 H
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 !
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -979,9 +983,11 @@ TEST 12: pgfmanual-en-base-transformations-12
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.16+0.0)x13.06, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 H
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 !
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1064,9 +1070,11 @@ TEST 13: pgfmanual-en-base-transformations-13
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.16+0.0)x13.06, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 H
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 !
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1149,9 +1157,11 @@ TEST 14: pgfmanual-en-base-transformations-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.16+0.0)x13.06, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 H
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 !
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1232,9 +1242,11 @@ TEST 15: pgfmanual-en-base-transformations-15
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.16+0.0)x13.06, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 H
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 !
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1315,9 +1327,11 @@ TEST 16: pgfmanual-en-base-transformations-16
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.16+0.0)x13.06, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 H
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 !
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1400,9 +1414,11 @@ TEST 17: pgfmanual-en-base-transformations-17
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.16+0.0)x13.06, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 H
 ........\TU/lmr/m/n/10 i
 ........\TU/lmr/m/n/10 !
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1567,6 +1583,7 @@ TEST 19: pgfmanual-en-base-transformations-19
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+0.11)x31.7, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 r
 ........\TU/lmr/m/n/10 o
 ........\discretionary (penalty 50)
@@ -1576,6 +1593,7 @@ TEST 19: pgfmanual-en-base-transformations-19
 ........\TU/lmr/m/n/10 t
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 d
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1589,6 +1607,7 @@ TEST 19: pgfmanual-en-base-transformations-19
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.05+2.05)x51.18, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 s
 ........\TU/lmr/m/n/10 h
 ........\TU/lmr/m/n/10 i
@@ -1601,6 +1620,7 @@ TEST 19: pgfmanual-en-base-transformations-19
 ........\TU/lmr/m/n/10 n
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -2280,8 +2300,10 @@ TEST 27: pgfmanual-en-base-transformations-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2387,8 +2409,10 @@ TEST 28: pgfmanual-en-base-transformations-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x10.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 i
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4037,12 +4061,14 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x9.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\mathon
 ........\hbox(0.0+0.0)x0.0, direction TLT
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4061,12 +4087,14 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x9.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\mathon
 ........\hbox(0.0+0.0)x0.0, direction TLT
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4085,6 +4113,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x14.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 3
 ........\TU/lmr/m/n/10 0
 ........\mathon
@@ -4092,6 +4121,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4110,6 +4140,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x14.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 3
 ........\TU/lmr/m/n/10 0
 ........\mathon
@@ -4117,6 +4148,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4135,6 +4167,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x14.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 6
 ........\TU/lmr/m/n/10 0
 ........\mathon
@@ -4142,6 +4175,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4160,6 +4194,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x14.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 6
 ........\TU/lmr/m/n/10 0
 ........\mathon
@@ -4167,6 +4202,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4185,6 +4221,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x14.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 9
 ........\TU/lmr/m/n/10 0
 ........\mathon
@@ -4192,6 +4229,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4210,6 +4248,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.88586+0.22)x14.59723, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 9
 ........\TU/lmr/m/n/10 0
 ........\mathon
@@ -4217,6 +4256,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 .........\OMS/cmsy/m/n/7 ^^N
 ........\mathoff
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -4934,10 +4974,12 @@ TEST 33: pgfmanual-en-base-transformations-36
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.05+0.11)x13.34, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 f
 ........\TU/lmr/m/n/10 o
 ........\kern0.28 (font)
 ........\TU/lmr/m/n/10 o
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -5653,10 +5695,12 @@ TEST 34: pgfmanual-en-base-transformations-37
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.05+0.11)x13.34, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 f
 ........\TU/lmr/m/n/10 o
 ........\kern0.28 (font)
 ........\TU/lmr/m/n/10 o
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil

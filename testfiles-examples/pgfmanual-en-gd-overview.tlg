@@ -643,7 +643,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.77+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 4
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -689,7 +691,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 3
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -735,7 +739,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 0
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -781,7 +787,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 1
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -827,8 +835,10 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x10.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 1
 .................\TU/lmr/m/n/10 0
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -874,7 +884,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 8
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -920,7 +932,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 6
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -966,7 +980,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 5
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -1012,7 +1028,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.76+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 7
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -1058,7 +1076,9 @@ TEST 1: pgfmanual-en-gd-overview-1
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 9
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -1531,9 +1551,11 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(4.781+0.07)x13.17401, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 D
 ................\TU/lmr/m/n/7 a
 ................\TU/lmr/m/n/7 s
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1589,9 +1611,11 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(4.62+0.07)x8.554, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 i
 ................\TU/lmr/m/n/7 s
 ................\TU/lmr/m/n/7 t
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1647,9 +1671,11 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(4.858+0.07)x11.57101, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 d
 ................\TU/lmr/m/n/7 a
 ................\TU/lmr/m/n/7 s
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1705,10 +1731,12 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(4.781+0.07)x17.47202, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 H
 ................\TU/lmr/m/n/7 a
 ................\TU/lmr/m/n/7 u
 ................\TU/lmr/m/n/7 s
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1764,10 +1792,12 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(3.122+0.07)x14.539, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 v
 ................\kern-0.217 (font)
 ................\TU/lmr/m/n/7 o
 ................\TU/lmr/m/n/7 m
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1823,8 +1853,10 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(4.781+0.0)x8.162, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 N
 ................\TU/lmr/m/n/7 i
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1880,9 +1912,11 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(4.858+0.07)x7.966, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 k
 ................\kern-0.217 (font)
 ................\TU/lmr/m/n/7 o
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1933,10 +1967,12 @@ TEST 2: pgfmanual-en-gd-overview-2
 ...............\pdfliteral origin{0 G }
 ...............\pdfliteral origin{0 g }
 ...............\hbox(4.858+0.07)x13.83202, direction TLT
+................\begindir TLT
 ................\TU/lmr/m/n/7 l
 ................\TU/lmr/m/n/7 a
 ................\TU/lmr/m/n/7 u
 ................\TU/lmr/m/n/7 s
+................\enddir TLT
 ...............\glue(\spaceskip) 0.0
 .............\pdfliteral origin{Q }
 .............\glue(\spaceskip) 0.0
@@ -1980,7 +2016,9 @@ TEST 2: pgfmanual-en-gd-overview-2
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 1
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -2026,7 +2064,9 @@ TEST 2: pgfmanual-en-gd-overview-2
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 2
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -2072,7 +2112,9 @@ TEST 2: pgfmanual-en-gd-overview-2
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 3
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -2118,7 +2160,9 @@ TEST 2: pgfmanual-en-gd-overview-2
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.77+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 4
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -2164,7 +2208,9 @@ TEST 2: pgfmanual-en-gd-overview-2
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 5
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3645,6 +3691,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(7.05+0.11)x38.73, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 ﬁ
 .................\TU/lmr/m/n/10 r
 .................\TU/lmr/m/n/10 s
@@ -3655,6 +3702,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 .................\kern0.28 (font)
 .................\TU/lmr/m/n/10 o
 .................\TU/lmr/m/n/10 t
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3702,7 +3750,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 1
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3750,7 +3800,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 2
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3798,7 +3850,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 3
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3846,7 +3900,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.76+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 7
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3894,7 +3950,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.77+0.0)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 4
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3942,7 +4000,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 5
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -3990,7 +4050,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.66+0.22)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 6
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4038,6 +4100,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.94+0.11)x50.36, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 s
 .................\TU/lmr/m/n/10 e
 .................\TU/lmr/m/n/10 c
@@ -4052,6 +4115,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 .................\kern0.28 (font)
 .................\TU/lmr/m/n/10 o
 .................\TU/lmr/m/n/10 t
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4099,7 +4163,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.31+0.0)x5.28, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 x
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4147,7 +4213,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.48+0.11)x5.0, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 a
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4195,7 +4263,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.42+0.11)x5.56, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 u
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4243,7 +4313,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.31+0.11)x5.28, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 v
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4291,7 +4363,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.94+0.11)x5.56, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 b
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4339,7 +4413,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.48+0.11)x4.44, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 c
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4387,7 +4463,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.94+0.11)x5.56, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 d
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4435,7 +4513,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.31+0.11)x7.22, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 w
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4483,7 +4563,9 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.31+0.0)x4.44, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 z
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4531,6 +4613,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.94+0.11)x43.12999, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 t
 .................\TU/lmr/m/n/10 h
 .................\TU/lmr/m/n/10 i
@@ -4542,6 +4625,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 .................\kern0.28 (font)
 .................\TU/lmr/m/n/10 o
 .................\TU/lmr/m/n/10 t
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4589,12 +4673,14 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.94+0.11)x20.84, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 c
 .................\kern-0.28 (font)
 .................\TU/lmr/m/n/10 h
 .................\TU/lmr/m/n/10 i
 .................\TU/lmr/m/n/10 l
 .................\TU/lmr/m/n/10 d
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4642,6 +4728,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.94+2.06)x45.87999, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 g
 .................\TU/lmr/m/n/10 r
 .................\TU/lmr/m/n/10 a
@@ -4655,6 +4742,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 .................\TU/lmr/m/n/10 i
 .................\TU/lmr/m/n/10 l
 .................\TU/lmr/m/n/10 d
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -4702,6 +4790,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(6.15+2.06)x42.31, direction TLT
+.................\begindir TLT
 .................\TU/lmr/m/n/10 y
 .................\kern-0.28 (font)
 .................\TU/lmr/m/n/10 o
@@ -4714,6 +4803,7 @@ TEST 3: pgfmanual-en-gd-overview-3
 .................\TU/lmr/m/n/10 t
 .................\TU/lmr/m/n/10 e
 .................\TU/lmr/m/n/10 r
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -5057,7 +5147,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.66+0.0)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 1
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5109,7 +5201,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.66+0.0)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 2
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5161,7 +5255,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 3
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5213,7 +5309,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.77+0.0)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 4
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5265,7 +5363,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 5
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5317,7 +5417,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 6
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5369,7 +5471,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.76+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 7
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5421,7 +5525,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 8
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5473,7 +5579,9 @@ TEST 4: pgfmanual-en-gd-overview-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 9
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6182,9 +6290,11 @@ TEST 5: pgfmanual-en-gd-overview-5
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.66+0.0)x5.0, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 1
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6239,9 +6349,11 @@ TEST 5: pgfmanual-en-gd-overview-5
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.66+0.0)x5.0, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 2
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6296,9 +6408,11 @@ TEST 5: pgfmanual-en-gd-overview-5
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 3
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6353,9 +6467,11 @@ TEST 5: pgfmanual-en-gd-overview-5
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.77+0.0)x5.0, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 4
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6410,9 +6526,11 @@ TEST 5: pgfmanual-en-gd-overview-5
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 5
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6467,9 +6585,11 @@ TEST 5: pgfmanual-en-gd-overview-5
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.66+0.22)x5.0, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 6
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0

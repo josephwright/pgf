@@ -751,9 +751,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x5.71527, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 x
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -789,10 +791,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x5.2616, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 y
 ...........\kern0.35878 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -826,10 +830,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x5.0903, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 z
 ...........\kern0.4398 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3007,7 +3013,9 @@ TEST 14: pgfmanual-en-base-points-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x5.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3020,10 +3028,12 @@ TEST 14: pgfmanual-en-base-points-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x17.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 2
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3036,9 +3046,11 @@ TEST 14: pgfmanual-en-base-points-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x12.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3051,10 +3063,12 @@ TEST 14: pgfmanual-en-base-points-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.76+0.22)x17.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 7
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3067,7 +3081,9 @@ TEST 14: pgfmanual-en-base-points-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.0)x5.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 1
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3080,10 +3096,12 @@ TEST 14: pgfmanual-en-base-points-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x17.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 1
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 2
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3167,9 +3185,11 @@ TEST 15: pgfmanual-en-base-points-15
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+1.94)x14.45, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 p
 ........\TU/lmr/m/n/10 t
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3182,10 +3202,12 @@ TEST 15: pgfmanual-en-base-points-15
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+1.94)x19.45, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 2
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 p
 ........\TU/lmr/m/n/10 t
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3198,10 +3220,12 @@ TEST 15: pgfmanual-en-base-points-15
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.77+1.94)x19.45, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 4
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 p
 ........\TU/lmr/m/n/10 t
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3214,10 +3238,12 @@ TEST 15: pgfmanual-en-base-points-15
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.76+1.94)x19.45, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 7
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 p
 ........\TU/lmr/m/n/10 t
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3301,7 +3327,9 @@ TEST 16: pgfmanual-en-base-points-16
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x5.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3314,10 +3342,12 @@ TEST 16: pgfmanual-en-base-points-16
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x17.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 2
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3330,9 +3360,11 @@ TEST 16: pgfmanual-en-base-points-16
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x12.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3345,10 +3377,12 @@ TEST 16: pgfmanual-en-base-points-16
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.76+0.22)x17.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 7
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3361,7 +3395,9 @@ TEST 16: pgfmanual-en-base-points-16
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.0)x5.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 1
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3445,7 +3481,9 @@ TEST 17: pgfmanual-en-base-points-17
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x5.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3458,10 +3496,12 @@ TEST 17: pgfmanual-en-base-points-17
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x17.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 2
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3474,9 +3514,11 @@ TEST 17: pgfmanual-en-base-points-17
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.22)x12.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3489,10 +3531,12 @@ TEST 17: pgfmanual-en-base-points-17
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.76+0.22)x17.78, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 0
 ........\TU/lmr/m/n/10 .
 ........\TU/lmr/m/n/10 7
 ........\TU/lmr/m/n/10 5
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3505,7 +3549,9 @@ TEST 17: pgfmanual-en-base-points-17
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.66+0.0)x5.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 1
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil

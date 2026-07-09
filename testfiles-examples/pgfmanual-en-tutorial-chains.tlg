@@ -41,8 +41,10 @@ TEST 1: pgfmanual-en-tutorial-chains-1
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -61,6 +63,7 @@ TEST 1: pgfmanual-en-tutorial-chains-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+2.05)x70.67004, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/it/10 u
 ...........\TU/lmr/m/it/10 n
 ...........\discretionary (penalty 50)
@@ -85,6 +88,7 @@ TEST 1: pgfmanual-en-tutorial-chains-1
 ...........\TU/lmr/m/it/10 g
 ...........\TU/lmr/m/it/10 e
 ...........\TU/lmr/m/it/10 r
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -156,8 +160,10 @@ TEST 2: pgfmanual-en-tutorial-chains-2
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -186,7 +192,9 @@ TEST 2: pgfmanual-en-tutorial-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.25+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -231,8 +239,10 @@ TEST 2: pgfmanual-en-tutorial-chains-2
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -261,11 +271,13 @@ TEST 2: pgfmanual-en-tutorial-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+2.29)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -310,8 +322,10 @@ TEST 2: pgfmanual-en-tutorial-chains-2
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -340,7 +354,9 @@ TEST 2: pgfmanual-en-tutorial-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -405,8 +421,10 @@ TEST 3: pgfmanual-en-tutorial-chains-3
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -432,7 +450,9 @@ TEST 3: pgfmanual-en-tutorial-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.25+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -468,8 +488,10 @@ TEST 3: pgfmanual-en-tutorial-chains-3
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -495,11 +517,13 @@ TEST 3: pgfmanual-en-tutorial-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+2.29)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -535,8 +559,10 @@ TEST 3: pgfmanual-en-tutorial-chains-3
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -562,7 +588,9 @@ TEST 3: pgfmanual-en-tutorial-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -627,8 +655,10 @@ TEST 4: pgfmanual-en-tutorial-chains-5
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -654,7 +684,9 @@ TEST 4: pgfmanual-en-tutorial-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.25+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -690,8 +722,10 @@ TEST 4: pgfmanual-en-tutorial-chains-5
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -717,11 +751,13 @@ TEST 4: pgfmanual-en-tutorial-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+2.29)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -757,8 +793,10 @@ TEST 4: pgfmanual-en-tutorial-chains-5
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -784,7 +822,9 @@ TEST 4: pgfmanual-en-tutorial-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -865,8 +905,10 @@ TEST 5: pgfmanual-en-tutorial-chains-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -892,7 +934,9 @@ TEST 5: pgfmanual-en-tutorial-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.25+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -928,8 +972,10 @@ TEST 5: pgfmanual-en-tutorial-chains-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -955,11 +1001,13 @@ TEST 5: pgfmanual-en-tutorial-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+2.29)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -995,8 +1043,10 @@ TEST 5: pgfmanual-en-tutorial-chains-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1022,7 +1072,9 @@ TEST 5: pgfmanual-en-tutorial-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.11+0.0)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1087,8 +1139,10 @@ TEST 6: pgfmanual-en-tutorial-chains-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1114,7 +1168,9 @@ TEST 6: pgfmanual-en-tutorial-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1150,8 +1206,10 @@ TEST 6: pgfmanual-en-tutorial-chains-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1177,11 +1235,13 @@ TEST 6: pgfmanual-en-tutorial-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1217,8 +1277,10 @@ TEST 6: pgfmanual-en-tutorial-chains-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1244,7 +1306,9 @@ TEST 6: pgfmanual-en-tutorial-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1306,8 +1370,10 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1326,6 +1392,7 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x70.67004, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/it/10 u
 ...........\TU/lmr/m/it/10 n
 ...........\discretionary (penalty 50)
@@ -1350,6 +1417,7 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ...........\TU/lmr/m/it/10 g
 ...........\TU/lmr/m/it/10 e
 ...........\TU/lmr/m/it/10 r
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1387,8 +1455,10 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1414,7 +1484,9 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1450,8 +1522,10 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1477,11 +1551,13 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1517,8 +1593,10 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1544,7 +1622,9 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1580,8 +1660,10 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1607,7 +1689,9 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 +
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1643,8 +1727,10 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1670,7 +1756,9 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 -
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1703,8 +1791,10 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1723,6 +1813,7 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x70.67004, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/it/10 u
 ...........\TU/lmr/m/it/10 n
 ...........\discretionary (penalty 50)
@@ -1747,6 +1838,7 @@ TEST 7: pgfmanual-en-tutorial-chains-9
 ...........\TU/lmr/m/it/10 g
 ...........\TU/lmr/m/it/10 e
 ...........\TU/lmr/m/it/10 r
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1811,8 +1903,10 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1838,7 +1932,9 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1874,8 +1970,10 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1901,7 +1999,9 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 +
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1937,8 +2037,10 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1964,7 +2066,9 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 -
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1997,8 +2101,10 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2017,6 +2123,7 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x70.67004, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/it/10 u
 ...........\TU/lmr/m/it/10 n
 ...........\discretionary (penalty 50)
@@ -2041,6 +2148,7 @@ TEST 8: pgfmanual-en-tutorial-chains-10
 ...........\TU/lmr/m/it/10 g
 ...........\TU/lmr/m/it/10 e
 ...........\TU/lmr/m/it/10 r
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2112,8 +2220,10 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2142,7 +2252,9 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2185,8 +2297,10 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2215,7 +2329,9 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 +
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2261,8 +2377,10 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2291,7 +2409,9 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 -
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2327,8 +2447,10 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2347,6 +2469,7 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x70.67004, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/it/10 u
 ...........\TU/lmr/m/it/10 n
 ...........\discretionary (penalty 50)
@@ -2371,6 +2494,7 @@ TEST 9: pgfmanual-en-tutorial-chains-11
 ...........\TU/lmr/m/it/10 g
 ...........\TU/lmr/m/it/10 e
 ...........\TU/lmr/m/it/10 r
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2435,8 +2559,10 @@ TEST 10: pgfmanual-en-tutorial-chains-12
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2462,7 +2588,9 @@ TEST 10: pgfmanual-en-tutorial-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2498,8 +2626,10 @@ TEST 10: pgfmanual-en-tutorial-chains-12
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2525,11 +2655,13 @@ TEST 10: pgfmanual-en-tutorial-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2565,8 +2697,10 @@ TEST 10: pgfmanual-en-tutorial-chains-12
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2592,7 +2726,9 @@ TEST 10: pgfmanual-en-tutorial-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2697,8 +2833,10 @@ TEST 11: pgfmanual-en-tutorial-chains-13
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2724,7 +2862,9 @@ TEST 11: pgfmanual-en-tutorial-chains-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2760,8 +2900,10 @@ TEST 11: pgfmanual-en-tutorial-chains-13
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2787,11 +2929,13 @@ TEST 11: pgfmanual-en-tutorial-chains-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2827,8 +2971,10 @@ TEST 11: pgfmanual-en-tutorial-chains-13
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2854,7 +3000,9 @@ TEST 11: pgfmanual-en-tutorial-chains-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2956,8 +3104,10 @@ TEST 12: pgfmanual-en-tutorial-chains-14
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -2983,7 +3133,9 @@ TEST 12: pgfmanual-en-tutorial-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3019,8 +3171,10 @@ TEST 12: pgfmanual-en-tutorial-chains-14
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -3046,11 +3200,13 @@ TEST 12: pgfmanual-en-tutorial-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x26.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 d
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 g
 ...........\TU/lmtt/m/n/10 i
 ...........\TU/lmtt/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3086,8 +3242,10 @@ TEST 12: pgfmanual-en-tutorial-chains-14
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -3113,7 +3271,9 @@ TEST 12: pgfmanual-en-tutorial-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.465+1.0775)x5.25, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3282,8 +3442,10 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -3309,7 +3471,9 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 +
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3369,8 +3533,10 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -3389,6 +3555,7 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
 .....................\discretionary (penalty 50)
@@ -3413,6 +3580,7 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 .....................\TU/lmr/m/it/10 g
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3460,8 +3628,10 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -3487,7 +3657,9 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 .
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3535,8 +3707,10 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -3562,11 +3736,13 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x26.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 d
 .....................\TU/lmtt/m/n/10 i
 .....................\TU/lmtt/m/n/10 g
 .....................\TU/lmtt/m/n/10 i
 .....................\TU/lmtt/m/n/10 t
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3614,8 +3790,10 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -3641,7 +3819,9 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 E
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3697,8 +3877,10 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -3717,6 +3899,7 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
 .....................\discretionary (penalty 50)
@@ -3741,6 +3924,7 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 .....................\TU/lmr/m/it/10 g
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3836,8 +4020,10 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -3863,7 +4049,9 @@ TEST 13: pgfmanual-en-tutorial-chains-15
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 -
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4097,8 +4285,10 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -4124,7 +4314,9 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 +
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4175,6 +4367,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4219,8 +4413,10 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -4239,6 +4435,7 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
 .....................\discretionary (penalty 50)
@@ -4263,6 +4460,7 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 .....................\TU/lmr/m/it/10 g
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4309,6 +4507,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4356,8 +4556,10 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -4383,7 +4585,9 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 .
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4430,6 +4634,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4477,8 +4683,10 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -4504,11 +4712,13 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x26.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 d
 .....................\TU/lmtt/m/n/10 i
 .....................\TU/lmtt/m/n/10 g
 .....................\TU/lmtt/m/n/10 i
 .....................\TU/lmtt/m/n/10 t
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4555,6 +4765,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4601,6 +4813,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4647,6 +4861,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4694,8 +4910,10 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -4721,7 +4939,9 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 E
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4768,6 +4988,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4825,6 +5047,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4869,8 +5093,10 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -4889,6 +5115,7 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
 .....................\discretionary (penalty 50)
@@ -4913,6 +5140,7 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 .....................\TU/lmr/m/it/10 g
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -4959,6 +5187,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5005,6 +5235,8 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5177,8 +5409,10 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -5204,7 +5438,9 @@ TEST 14: pgfmanual-en-tutorial-chains-16
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 -
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5458,8 +5694,10 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -5485,7 +5723,9 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 +
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5551,8 +5791,10 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -5571,6 +5813,7 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
 .....................\discretionary (penalty 50)
@@ -5595,6 +5838,7 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 .....................\TU/lmr/m/it/10 g
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5659,8 +5903,10 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -5686,7 +5932,9 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 .
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5751,8 +5999,10 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -5778,11 +6028,13 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x26.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 d
 .....................\TU/lmtt/m/n/10 i
 .....................\TU/lmtt/m/n/10 g
 .....................\TU/lmtt/m/n/10 i
 .....................\TU/lmtt/m/n/10 t
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5881,8 +6133,10 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -5908,7 +6162,9 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 E
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -5998,8 +6254,10 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -6018,6 +6276,7 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
 .....................\discretionary (penalty 50)
@@ -6042,6 +6301,7 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 .....................\TU/lmr/m/it/10 g
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -6248,8 +6508,10 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -6275,7 +6537,9 @@ TEST 15: pgfmanual-en-tutorial-chains-18
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmtt/m/n/10 -
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7664,8 +7928,10 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -7691,9 +7957,11 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\pdfcolorstack 0 push {0 g 0 G}
 .....................\TU/lmtt/m/n/10 +
 .....................\pdfcolorstack 0 pop
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7759,8 +8027,10 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -7779,6 +8049,7 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\pdfcolorstack 0 push {0 g 0 G}
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
@@ -7805,6 +8076,7 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
 .....................\pdfcolorstack 0 pop
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7869,8 +8141,10 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -7896,9 +8170,11 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\pdfcolorstack 0 push {0 g 0 G}
 .....................\TU/lmtt/m/n/10 .
 .....................\pdfcolorstack 0 pop
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7963,8 +8239,10 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -7990,6 +8268,7 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x26.25, direction TLT
+.....................\begindir TLT
 .....................\pdfcolorstack 0 push {0 g 0 G}
 .....................\TU/lmtt/m/n/10 d
 .....................\TU/lmtt/m/n/10 i
@@ -7997,6 +8276,7 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 .....................\TU/lmtt/m/n/10 i
 .....................\TU/lmtt/m/n/10 t
 .....................\pdfcolorstack 0 pop
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8095,8 +8375,10 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -8122,9 +8404,11 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\pdfcolorstack 0 push {0 g 0 G}
 .....................\TU/lmtt/m/n/10 E
 .....................\pdfcolorstack 0 pop
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8214,8 +8498,10 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -8234,6 +8520,7 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x70.67004, direction TLT
+.....................\begindir TLT
 .....................\pdfcolorstack 0 push {0 g 0 G}
 .....................\TU/lmr/m/it/10 u
 .....................\TU/lmr/m/it/10 n
@@ -8260,6 +8547,7 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 .....................\TU/lmr/m/it/10 e
 .....................\TU/lmr/m/it/10 r
 .....................\pdfcolorstack 0 pop
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8466,8 +8754,10 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ..................\glue -50.1875
 ..................\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...................\hbox(100.375+0.0)x100.375, direction TLT
+....................\begindir TLT
 ....................\hbox(100.375+0.0)x100.375, direction TLT
 .....................\box(100.375+0.0)x100.375
+....................\enddir TLT
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
@@ -8493,9 +8783,11 @@ TEST 16: pgfmanual-en-tutorial-chains-19
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.465+1.0775)x5.25, direction TLT
+.....................\begindir TLT
 .....................\pdfcolorstack 0 push {0 g 0 G}
 .....................\TU/lmtt/m/n/10 -
 .....................\pdfcolorstack 0 pop
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -9753,6 +10045,7 @@ TEST 17: pgfmanual-en-tutorial-chains-20
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.94+2.06)x71.48, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 u
 .............\TU/lmr/m/n/10 n
 .............\discretionary (penalty 50)
@@ -9776,6 +10069,7 @@ TEST 17: pgfmanual-en-tutorial-chains-20
 .............\TU/lmr/m/n/10 g
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 r
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -9817,7 +10111,9 @@ TEST 17: pgfmanual-en-tutorial-chains-20
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.94+0.11)x5.56, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 d
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -9892,11 +10188,13 @@ TEST 17: pgfmanual-en-tutorial-chains-20
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.94+2.06)x20.01, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 d
 .............\TU/lmr/m/n/10 i
 .............\TU/lmr/m/n/10 g
 .............\TU/lmr/m/n/10 i
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -9975,7 +10273,9 @@ TEST 17: pgfmanual-en-tutorial-chains-20
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.8+0.0)x6.81, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 E
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10102,8 +10402,10 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10122,6 +10424,7 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x70.67004, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/it/10 u
 .............\TU/lmr/m/it/10 n
 .............\discretionary (penalty 50)
@@ -10146,6 +10449,7 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 .............\TU/lmr/m/it/10 g
 .............\TU/lmr/m/it/10 e
 .............\TU/lmr/m/it/10 r
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10200,8 +10504,10 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10227,7 +10533,9 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 .
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10305,8 +10613,10 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10332,11 +10642,13 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x26.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 d
 .............\TU/lmtt/m/n/10 i
 .............\TU/lmtt/m/n/10 g
 .............\TU/lmtt/m/n/10 i
 .............\TU/lmtt/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10416,8 +10728,10 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10443,7 +10757,9 @@ TEST 18: pgfmanual-en-tutorial-chains-21
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 E
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10562,8 +10878,10 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10582,6 +10900,7 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x70.67004, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/it/10 u
 .............\TU/lmr/m/it/10 n
 .............\discretionary (penalty 50)
@@ -10606,6 +10925,7 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 .............\TU/lmr/m/it/10 g
 .............\TU/lmr/m/it/10 e
 .............\TU/lmr/m/it/10 r
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10660,8 +10980,10 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10687,7 +11009,9 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 .
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10765,8 +11089,10 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10792,11 +11118,13 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x26.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 d
 .............\TU/lmtt/m/n/10 i
 .............\TU/lmtt/m/n/10 g
 .............\TU/lmtt/m/n/10 i
 .............\TU/lmtt/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10876,8 +11204,10 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -10903,7 +11233,9 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 E
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10992,8 +11324,10 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -11019,7 +11353,9 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 +
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -11094,8 +11430,10 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -11121,7 +11459,9 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\TU/lmtt/m/n/10 -
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -11253,8 +11593,10 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -11273,6 +11615,7 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x70.67004, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/it/10 u
 .............\TU/lmr/m/it/10 n
 .............\discretionary (penalty 50)
@@ -11297,6 +11640,7 @@ TEST 19: pgfmanual-en-tutorial-chains-22
 .............\TU/lmr/m/it/10 g
 .............\TU/lmr/m/it/10 e
 .............\TU/lmr/m/it/10 r
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -11494,8 +11838,10 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -11514,6 +11860,7 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x70.67004, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmr/m/it/10 u
 .............\TU/lmr/m/it/10 n
@@ -11540,6 +11887,7 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 .............\TU/lmr/m/it/10 e
 .............\TU/lmr/m/it/10 r
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -11676,8 +12024,10 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -11703,9 +12053,11 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 .
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -11845,8 +12197,10 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -11872,6 +12226,7 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x26.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 d
 .............\TU/lmtt/m/n/10 i
@@ -11879,6 +12234,7 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 .............\TU/lmtt/m/n/10 i
 .............\TU/lmtt/m/n/10 t
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -12176,8 +12532,10 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -12203,9 +12561,11 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 E
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -12397,8 +12757,10 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -12424,9 +12786,11 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 +
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -12497,8 +12861,10 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -12524,9 +12890,11 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 -
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -12831,8 +13199,10 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -12851,6 +13221,7 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x70.67004, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmr/m/it/10 u
 .............\TU/lmr/m/it/10 n
@@ -12877,6 +13248,7 @@ TEST 20: pgfmanual-en-tutorial-chains-23
 .............\TU/lmr/m/it/10 e
 .............\TU/lmr/m/it/10 r
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -13454,8 +13826,10 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -13474,6 +13848,7 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x70.67004, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmr/m/it/10 u
 .............\TU/lmr/m/it/10 n
@@ -13500,6 +13875,7 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 .............\TU/lmr/m/it/10 e
 .............\TU/lmr/m/it/10 r
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -13608,8 +13984,10 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -13635,9 +14013,11 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 .
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -13756,8 +14136,10 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -13783,6 +14165,7 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x26.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 d
 .............\TU/lmtt/m/n/10 i
@@ -13790,6 +14173,7 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 .............\TU/lmtt/m/n/10 i
 .............\TU/lmtt/m/n/10 t
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -14046,8 +14430,10 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -14073,9 +14459,11 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 E
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -14246,8 +14634,10 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -14273,9 +14663,11 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 +
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -14345,8 +14737,10 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -14372,9 +14766,11 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x5.25, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmtt/m/n/10 -
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -14595,8 +14991,10 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -14615,6 +15013,7 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.465+1.0775)x70.67004, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\TU/lmr/m/it/10 u
 .............\TU/lmr/m/it/10 n
@@ -14641,6 +15040,7 @@ TEST 21: pgfmanual-en-tutorial-chains-24
 .............\TU/lmr/m/it/10 e
 .............\TU/lmr/m/it/10 r
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0

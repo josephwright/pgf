@@ -171,6 +171,8 @@ TEST 1: gh-1205-old
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -371,6 +373,8 @@ TEST 2: gh-1205-new
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

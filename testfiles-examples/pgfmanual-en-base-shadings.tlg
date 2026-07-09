@@ -225,8 +225,10 @@ TEST 9: pgfmanual-en-base-shadings-12
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(20.0+0.0)x20.0, direction TLT
+........\begindir TLT
 ........\hbox(20.0+0.0)x20.0, direction TLT
 .........\box(20.0+0.0)x20.0
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -239,8 +241,10 @@ TEST 9: pgfmanual-en-base-shadings-12
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(20.0+0.0)x20.0, direction TLT
+........\begindir TLT
 ........\hbox(20.0+0.0)x20.0, direction TLT
 .........\box(20.0+0.0)x20.0
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -288,8 +292,10 @@ TEST 10: pgfmanual-en-base-shadings-13
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -310,8 +316,10 @@ TEST 10: pgfmanual-en-base-shadings-13
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -332,8 +340,10 @@ TEST 10: pgfmanual-en-base-shadings-13
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -360,8 +370,10 @@ TEST 10: pgfmanual-en-base-shadings-13
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -421,8 +433,10 @@ TEST 11: pgfmanual-en-base-shadings-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(100.375+0.0)x100.375, direction TLT
+...........\begindir TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
 ............\box(100.375+0.0)x100.375
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -467,6 +481,7 @@ TEST 11: pgfmanual-en-base-shadings-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+1.94)x91.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 ﬁ
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 s
@@ -496,6 +511,7 @@ TEST 11: pgfmanual-en-base-shadings-14
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -527,8 +543,10 @@ TEST 11: pgfmanual-en-base-shadings-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(100.375+0.0)x100.375, direction TLT
+...........\begindir TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
 ............\box(100.375+0.0)x100.375
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -573,6 +591,7 @@ TEST 11: pgfmanual-en-base-shadings-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+1.94)x73.38998, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 i
@@ -596,6 +615,7 @@ TEST 11: pgfmanual-en-base-shadings-14
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 n
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -630,8 +650,10 @@ TEST 11: pgfmanual-en-base-shadings-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(100.375+0.0)x100.375, direction TLT
+...........\begindir TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
 ............\box(100.375+0.0)x100.375
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -676,6 +698,7 @@ TEST 11: pgfmanual-en-base-shadings-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+1.94)x78.66998, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 f
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 u
@@ -700,6 +723,7 @@ TEST 11: pgfmanual-en-base-shadings-14
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 n
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -756,8 +780,10 @@ TEST 12: pgfmanual-en-base-shadings-15
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -782,8 +808,10 @@ TEST 12: pgfmanual-en-base-shadings-15
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -808,8 +836,10 @@ TEST 12: pgfmanual-en-base-shadings-15
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -853,8 +883,10 @@ TEST 13: pgfmanual-en-base-shadings-16
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -875,8 +907,10 @@ TEST 13: pgfmanual-en-base-shadings-16
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -897,8 +931,10 @@ TEST 13: pgfmanual-en-base-shadings-16
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -952,8 +988,10 @@ TEST 14: pgfmanual-en-base-shadings-17
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -981,6 +1019,7 @@ TEST 14: pgfmanual-en-base-shadings-17
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(5.14+0.14)x26.44002, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/sc/10 p
 ...........\TU/lmr/m/sc/10 r
@@ -989,6 +1028,7 @@ TEST 14: pgfmanual-en-base-shadings-17
 ...........\TU/lmr/m/sc/10 e
 ...........\kern0.0 (italic)
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1018,8 +1058,10 @@ TEST 14: pgfmanual-en-base-shadings-17
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }

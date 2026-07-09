@@ -40,6 +40,8 @@ TEST 1: pgfmanual-en-tutorial-nodes-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -69,6 +71,8 @@ TEST 1: pgfmanual-en-tutorial-nodes-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -98,6 +102,8 @@ TEST 1: pgfmanual-en-tutorial-nodes-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -125,6 +131,8 @@ TEST 1: pgfmanual-en-tutorial-nodes-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -152,6 +160,8 @@ TEST 1: pgfmanual-en-tutorial-nodes-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -212,6 +222,8 @@ TEST 2: pgfmanual-en-tutorial-nodes-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -241,6 +253,8 @@ TEST 2: pgfmanual-en-tutorial-nodes-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -270,6 +284,8 @@ TEST 2: pgfmanual-en-tutorial-nodes-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -297,6 +313,8 @@ TEST 2: pgfmanual-en-tutorial-nodes-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -324,6 +342,8 @@ TEST 2: pgfmanual-en-tutorial-nodes-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -384,6 +404,8 @@ TEST 3: pgfmanual-en-tutorial-nodes-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -415,6 +437,8 @@ TEST 3: pgfmanual-en-tutorial-nodes-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -446,6 +470,8 @@ TEST 3: pgfmanual-en-tutorial-nodes-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -475,6 +501,8 @@ TEST 3: pgfmanual-en-tutorial-nodes-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -504,6 +532,8 @@ TEST 3: pgfmanual-en-tutorial-nodes-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -572,6 +602,8 @@ TEST 4: pgfmanual-en-tutorial-nodes-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -609,6 +641,8 @@ TEST 4: pgfmanual-en-tutorial-nodes-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -646,6 +680,8 @@ TEST 4: pgfmanual-en-tutorial-nodes-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -681,6 +717,8 @@ TEST 4: pgfmanual-en-tutorial-nodes-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -716,6 +754,8 @@ TEST 4: pgfmanual-en-tutorial-nodes-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -785,6 +825,8 @@ TEST 5: pgfmanual-en-tutorial-nodes-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -824,6 +866,8 @@ TEST 5: pgfmanual-en-tutorial-nodes-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -863,6 +907,8 @@ TEST 5: pgfmanual-en-tutorial-nodes-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -900,6 +946,8 @@ TEST 5: pgfmanual-en-tutorial-nodes-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -937,6 +985,8 @@ TEST 5: pgfmanual-en-tutorial-nodes-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1006,6 +1056,8 @@ TEST 6: pgfmanual-en-tutorial-nodes-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1045,6 +1097,8 @@ TEST 6: pgfmanual-en-tutorial-nodes-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1084,6 +1138,8 @@ TEST 6: pgfmanual-en-tutorial-nodes-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1121,6 +1177,8 @@ TEST 6: pgfmanual-en-tutorial-nodes-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1158,6 +1216,8 @@ TEST 6: pgfmanual-en-tutorial-nodes-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1227,6 +1287,8 @@ TEST 7: pgfmanual-en-tutorial-nodes-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1266,6 +1328,8 @@ TEST 7: pgfmanual-en-tutorial-nodes-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1305,6 +1369,8 @@ TEST 7: pgfmanual-en-tutorial-nodes-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1342,6 +1408,8 @@ TEST 7: pgfmanual-en-tutorial-nodes-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1379,6 +1447,8 @@ TEST 7: pgfmanual-en-tutorial-nodes-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1447,6 +1517,8 @@ TEST 8: pgfmanual-en-tutorial-nodes-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1486,6 +1558,8 @@ TEST 8: pgfmanual-en-tutorial-nodes-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1525,6 +1599,8 @@ TEST 8: pgfmanual-en-tutorial-nodes-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1562,6 +1638,8 @@ TEST 8: pgfmanual-en-tutorial-nodes-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1599,6 +1677,8 @@ TEST 8: pgfmanual-en-tutorial-nodes-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1667,6 +1747,8 @@ TEST 9: pgfmanual-en-tutorial-nodes-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1706,6 +1788,8 @@ TEST 9: pgfmanual-en-tutorial-nodes-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1745,6 +1829,8 @@ TEST 9: pgfmanual-en-tutorial-nodes-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1782,6 +1868,8 @@ TEST 9: pgfmanual-en-tutorial-nodes-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1819,6 +1907,8 @@ TEST 9: pgfmanual-en-tutorial-nodes-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1887,6 +1977,8 @@ TEST 10: pgfmanual-en-tutorial-nodes-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1926,6 +2018,8 @@ TEST 10: pgfmanual-en-tutorial-nodes-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1965,6 +2059,8 @@ TEST 10: pgfmanual-en-tutorial-nodes-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2002,6 +2098,8 @@ TEST 10: pgfmanual-en-tutorial-nodes-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2037,6 +2135,8 @@ TEST 10: pgfmanual-en-tutorial-nodes-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2107,6 +2207,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2146,6 +2248,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2185,6 +2289,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2222,6 +2328,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2257,6 +2365,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2289,6 +2399,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.44444+1.35971)x23.02074, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 s
@@ -2298,6 +2409,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...........\OT1/cmr/m/n/10 3
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2367,6 +2479,8 @@ TEST 12: pgfmanual-en-tutorial-nodes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2406,6 +2520,8 @@ TEST 12: pgfmanual-en-tutorial-nodes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2447,6 +2563,8 @@ TEST 12: pgfmanual-en-tutorial-nodes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2472,6 +2590,7 @@ TEST 12: pgfmanual-en-tutorial-nodes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.44444+1.35971)x23.02074, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 s
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
@@ -2479,6 +2598,7 @@ TEST 12: pgfmanual-en-tutorial-nodes-16
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OT1/cmr/m/n/10 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2516,6 +2636,8 @@ TEST 12: pgfmanual-en-tutorial-nodes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2551,6 +2673,8 @@ TEST 12: pgfmanual-en-tutorial-nodes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2615,6 +2739,7 @@ TEST 13: pgfmanual-en-tutorial-nodes-17
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+2.05)x39.46, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 m
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 y
@@ -2627,6 +2752,7 @@ TEST 13: pgfmanual-en-tutorial-nodes-17
 ...........\TU/lmr/m/n/10 c
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2650,12 +2776,14 @@ TEST 13: pgfmanual-en-tutorial-nodes-17
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.88586+0.0)x14.59726, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/10 6
 ...........\OT1/cmr/m/n/10 0
 ...........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 ............\OMS/cmsy/m/n/7 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2681,6 +2809,7 @@ TEST 13: pgfmanual-en-tutorial-nodes-17
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.88586+0.83333)x22.37506, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/10 ^^@
 ...........\OT1/cmr/m/n/10 9
@@ -2688,6 +2817,7 @@ TEST 13: pgfmanual-en-tutorial-nodes-17
 ...........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 ............\OMS/cmsy/m/n/7 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2757,6 +2887,8 @@ TEST 14: pgfmanual-en-tutorial-nodes-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2796,6 +2928,8 @@ TEST 14: pgfmanual-en-tutorial-nodes-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2837,6 +2971,8 @@ TEST 14: pgfmanual-en-tutorial-nodes-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2867,6 +3003,7 @@ TEST 14: pgfmanual-en-tutorial-nodes-18
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.44444+1.35971)x23.02074, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 s
@@ -2876,6 +3013,7 @@ TEST 14: pgfmanual-en-tutorial-nodes-18
 ...........\OT1/cmr/m/n/10 3
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2914,6 +3052,8 @@ TEST 14: pgfmanual-en-tutorial-nodes-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2949,6 +3089,8 @@ TEST 14: pgfmanual-en-tutorial-nodes-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3017,6 +3159,8 @@ TEST 15: pgfmanual-en-tutorial-nodes-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3056,6 +3200,8 @@ TEST 15: pgfmanual-en-tutorial-nodes-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3095,6 +3241,8 @@ TEST 15: pgfmanual-en-tutorial-nodes-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3132,6 +3280,8 @@ TEST 15: pgfmanual-en-tutorial-nodes-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3167,6 +3317,8 @@ TEST 15: pgfmanual-en-tutorial-nodes-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3251,6 +3403,8 @@ TEST 16: pgfmanual-en-tutorial-nodes-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3290,6 +3444,8 @@ TEST 16: pgfmanual-en-tutorial-nodes-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3329,6 +3485,8 @@ TEST 16: pgfmanual-en-tutorial-nodes-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3366,6 +3524,8 @@ TEST 16: pgfmanual-en-tutorial-nodes-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3401,6 +3561,8 @@ TEST 16: pgfmanual-en-tutorial-nodes-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3487,6 +3649,8 @@ TEST 17: pgfmanual-en-tutorial-nodes-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3526,6 +3690,8 @@ TEST 17: pgfmanual-en-tutorial-nodes-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3565,6 +3731,8 @@ TEST 17: pgfmanual-en-tutorial-nodes-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3602,6 +3770,8 @@ TEST 17: pgfmanual-en-tutorial-nodes-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3637,6 +3807,8 @@ TEST 17: pgfmanual-en-tutorial-nodes-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3726,6 +3898,8 @@ TEST 18: pgfmanual-en-tutorial-nodes-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3765,6 +3939,8 @@ TEST 18: pgfmanual-en-tutorial-nodes-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3804,6 +3980,8 @@ TEST 18: pgfmanual-en-tutorial-nodes-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3841,6 +4019,8 @@ TEST 18: pgfmanual-en-tutorial-nodes-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3876,6 +4056,8 @@ TEST 18: pgfmanual-en-tutorial-nodes-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3968,6 +4150,8 @@ TEST 19: pgfmanual-en-tutorial-nodes-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4007,6 +4191,8 @@ TEST 19: pgfmanual-en-tutorial-nodes-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4046,6 +4232,8 @@ TEST 19: pgfmanual-en-tutorial-nodes-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4083,6 +4271,8 @@ TEST 19: pgfmanual-en-tutorial-nodes-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4118,6 +4308,8 @@ TEST 19: pgfmanual-en-tutorial-nodes-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4230,6 +4422,8 @@ TEST 20: pgfmanual-en-tutorial-nodes-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4269,6 +4463,8 @@ TEST 20: pgfmanual-en-tutorial-nodes-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4308,6 +4504,8 @@ TEST 20: pgfmanual-en-tutorial-nodes-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4345,6 +4543,8 @@ TEST 20: pgfmanual-en-tutorial-nodes-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4380,6 +4580,8 @@ TEST 20: pgfmanual-en-tutorial-nodes-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4501,6 +4703,8 @@ TEST 21: pgfmanual-en-tutorial-nodes-25
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4540,6 +4744,8 @@ TEST 21: pgfmanual-en-tutorial-nodes-25
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4579,6 +4785,8 @@ TEST 21: pgfmanual-en-tutorial-nodes-25
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4616,6 +4824,8 @@ TEST 21: pgfmanual-en-tutorial-nodes-25
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4727,6 +4937,8 @@ TEST 21: pgfmanual-en-tutorial-nodes-25
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4847,11 +5059,13 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.88586+0.0)x9.59724, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/10 0
 ...........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 ............\OMS/cmsy/m/n/7 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4879,6 +5093,7 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.88586+0.0)x19.59727, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/10 1
 ...........\OT1/cmr/m/n/10 2
@@ -4886,6 +5101,7 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ...........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 ............\OMS/cmsy/m/n/7 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4913,6 +5129,7 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.88586+0.0)x19.59727, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/10 2
 ...........\OT1/cmr/m/n/10 4
@@ -4920,6 +5137,7 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ...........\hbox(3.25694+0.0)x4.59723, shifted -3.62892, direction TLT
 ............\OMS/cmsy/m/n/7 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4979,7 +5197,9 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5003,8 +5223,10 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.0)x7.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
 ...........\TU/lmr/m/n/10 ’
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5030,7 +5252,9 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5054,8 +5278,10 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.0)x7.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
 ...........\TU/lmr/m/n/10 ’
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5081,7 +5307,9 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5107,8 +5335,10 @@ TEST 22: pgfmanual-en-tutorial-nodes-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x7.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
 ...........\TU/lmr/m/n/10 ’
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5179,6 +5409,8 @@ TEST 23: pgfmanual-en-tutorial-nodes-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5218,6 +5450,8 @@ TEST 23: pgfmanual-en-tutorial-nodes-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5257,6 +5491,8 @@ TEST 23: pgfmanual-en-tutorial-nodes-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5294,6 +5530,8 @@ TEST 23: pgfmanual-en-tutorial-nodes-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5355,7 +5593,9 @@ TEST 23: pgfmanual-en-tutorial-nodes-27
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 2
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5415,6 +5655,8 @@ TEST 23: pgfmanual-en-tutorial-nodes-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5933,6 +6175,7 @@ TEST 26: pgfmanual-en-tutorial-nodes-30
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(31.05+2.05)x63.91, direction TLT
+...........\begindir TLT
 ...........\vbox(31.05+2.05)x63.91, direction TLT
 ............\hbox(19.05+2.05)x63.91, direction TLT
 .............\glue(\tabskip) 0.0
@@ -6020,6 +6263,7 @@ TEST 26: pgfmanual-en-tutorial-nodes-30
 ..............\pdfcolorstack 0 pop
 ..............\glue 0.0 plus 1.0fil
 .............\glue(\tabskip) 0.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6217,6 +6461,7 @@ TEST 27: pgfmanual-en-tutorial-nodes-31
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+26.05)x85.35826, direction TLT
+...........\begindir TLT
 ...........\vbox(7.05+26.05)x85.35826, direction TLT
 ............\hbox(7.05+1.94)x85.35826, glue set 0.53613, direction TLT
 .............\glue(\leftskip) 0.0 plus 20.0
@@ -6296,6 +6541,7 @@ TEST 27: pgfmanual-en-tutorial-nodes-31
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 20.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6367,6 +6613,7 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(55.26016+55.26016)x99.13922, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x99.13922, direction TLT
 ............\hbox(0.0+0.0)x99.13922, glue set 49.56961fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -6380,6 +6627,7 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6424,6 +6672,8 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6463,6 +6713,8 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6502,6 +6754,8 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6539,6 +6793,8 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6600,7 +6856,9 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 2
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6660,6 +6918,8 @@ TEST 28: pgfmanual-en-tutorial-nodes-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6794,6 +7054,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6833,8 +7095,10 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6879,6 +7143,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6920,6 +7186,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6950,6 +7218,7 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.44444+1.35971)x23.02074, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 s
@@ -6959,6 +7228,7 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ...........\OT1/cmr/m/n/10 3
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6999,6 +7269,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7038,6 +7310,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7077,8 +7351,10 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7121,6 +7397,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7225,6 +7503,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7314,6 +7594,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7388,7 +7670,9 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 2
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7428,6 +7712,8 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7504,7 +7790,9 @@ TEST 29: pgfmanual-en-tutorial-nodes-34
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 2
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7577,6 +7865,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7616,8 +7906,10 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7662,6 +7954,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7706,6 +8000,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7734,11 +8030,13 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(4.30554+0.0)x4.6875, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 s
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7784,6 +8082,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7823,8 +8123,10 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7869,8 +8171,10 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7915,8 +8219,10 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7952,6 +8258,7 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(5.67776+0.0)x4.6875, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\vbox(5.67776+0.0)x4.6875, direction TLT
@@ -7962,6 +8269,7 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 .............\OML/cmm/m/it/10 s
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8001,6 +8309,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8040,6 +8350,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8079,8 +8391,10 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -8123,6 +8437,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8220,6 +8536,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8319,6 +8637,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8403,7 +8723,9 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 2
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -8443,6 +8765,8 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8527,7 +8851,9 @@ TEST 30: pgfmanual-en-tutorial-nodes-35
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 2
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0

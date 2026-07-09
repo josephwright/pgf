@@ -48,6 +48,7 @@ TEST 1: pgfmanual-en-library-mindmaps-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -76,6 +77,7 @@ TEST 1: pgfmanual-en-library-mindmaps-1
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -117,6 +119,7 @@ TEST 1: pgfmanual-en-library-mindmaps-1
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+1.746)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+1.746)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, glue set 0.02663, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -145,6 +148,7 @@ TEST 1: pgfmanual-en-library-mindmaps-1
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -257,6 +261,7 @@ TEST 2: pgfmanual-en-library-mindmaps-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(9.83519+2.7936)x128.0374, direction TLT
+...........\begindir TLT
 ...........\vbox(9.83519+2.7936)x128.0374, direction TLT
 ............\hbox(9.83519+2.7936)x128.0374, glue set 0.7963, direction TLT
 .............\glue(\leftskip) 0.0 plus 28.79999
@@ -285,6 +290,7 @@ TEST 2: pgfmanual-en-library-mindmaps-2
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 28.79999
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -326,6 +332,7 @@ TEST 2: pgfmanual-en-library-mindmaps-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+1.94)x79.6678, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+1.94)x79.6678, direction TLT
 ..............\hbox(7.05+1.94)x79.6678, glue set 0.47762, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -354,6 +361,7 @@ TEST 2: pgfmanual-en-library-mindmaps-2
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -465,6 +473,7 @@ TEST 3: pgfmanual-en-library-mindmaps-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.448+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.448+2.328)x99.58464, direction TLT
 ............\hbox(8.448+2.328)x99.58464, glue set 0.60411, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -492,6 +501,7 @@ TEST 3: pgfmanual-en-library-mindmaps-3
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -561,6 +571,7 @@ TEST 4: pgfmanual-en-library-mindmaps-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -589,6 +600,7 @@ TEST 4: pgfmanual-en-library-mindmaps-4
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -627,6 +639,7 @@ TEST 4: pgfmanual-en-library-mindmaps-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.92+11.052)x42.67912, direction TLT
+...........\begindir TLT
 ...........\vbox(4.92+11.052)x42.67912, direction TLT
 ............\hbox(4.92+0.08)x42.67912, glue set 0.73598, direction TLT
 .............\glue(\leftskip) 0.0 plus 16.0
@@ -661,6 +674,7 @@ TEST 4: pgfmanual-en-library-mindmaps-4
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 16.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -729,6 +743,7 @@ TEST 5: pgfmanual-en-library-mindmaps-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -757,6 +772,7 @@ TEST 5: pgfmanual-en-library-mindmaps-5
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -826,6 +842,7 @@ TEST 6: pgfmanual-en-library-mindmaps-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -854,6 +871,7 @@ TEST 6: pgfmanual-en-library-mindmaps-6
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -895,6 +913,7 @@ TEST 6: pgfmanual-en-library-mindmaps-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 1.04521, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -914,6 +933,7 @@ TEST 6: pgfmanual-en-library-mindmaps-6
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1003,6 +1023,7 @@ TEST 6: pgfmanual-en-library-mindmaps-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 1.04521, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -1022,6 +1043,7 @@ TEST 6: pgfmanual-en-library-mindmaps-6
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1135,6 +1157,7 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -1163,6 +1186,7 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1205,6 +1229,7 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+1.746)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+1.746)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, glue set 0.02663, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -1233,6 +1258,7 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1327,8 +1353,10 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -1371,6 +1399,7 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+1.746)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+1.746)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, glue set 0.02663, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -1399,6 +1428,7 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1488,8 +1518,10 @@ TEST 7: pgfmanual-en-library-mindmaps-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -1559,6 +1591,7 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -1589,6 +1622,7 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1631,6 +1665,7 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 1.04521, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -1652,6 +1687,7 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1746,8 +1782,10 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -1790,6 +1828,7 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 1.04521, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -1811,6 +1850,7 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1900,8 +1940,10 @@ TEST 8: pgfmanual-en-library-mindmaps-8
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -2006,6 +2048,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -2034,6 +2077,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2076,6 +2120,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 1.04521, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -2095,6 +2140,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2185,6 +2231,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 1.04521, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -2204,6 +2251,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2289,6 +2337,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 1.04521, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -2308,6 +2357,7 @@ TEST 9: pgfmanual-en-library-mindmaps-9
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2711,8 +2761,10 @@ TEST 13: pgfmanual-en-library-mindmaps-13
 ..........\pdfliteral origin{0.5 0.5 1 RG }
 ..........\pdfliteral origin{0.5 0.5 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.5 0.5 1 rg 0.5 0.5 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2748,8 +2800,10 @@ TEST 13: pgfmanual-en-library-mindmaps-13
 ..........\pdfliteral origin{0.5 0.5 1 RG }
 ..........\pdfliteral origin{0.5 0.5 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.5 0.5 1 rg 0.5 0.5 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2859,8 +2913,10 @@ TEST 14: pgfmanual-en-library-mindmaps-14
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2900,8 +2956,10 @@ TEST 14: pgfmanual-en-library-mindmaps-14
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2996,8 +3054,10 @@ TEST 14: pgfmanual-en-library-mindmaps-14
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\glue(\spaceskip) 0.0
@@ -3070,6 +3130,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(8.448+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.448+2.328)x99.58464, direction TLT
 ............\hbox(8.448+2.328)x99.58464, glue set 0.14186, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -3105,6 +3166,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3147,6 +3209,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.246+1.746)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+1.746)x56.9055, direction TLT
 ..............\hbox(6.246+1.746)x56.9055, glue set 0.60896, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -3175,6 +3238,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3264,8 +3328,10 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3306,6 +3372,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+1.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+1.64)x42.67912, direction TLT
 ................\hbox(5.552+1.64)x42.67912, glue set 0.10773, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -3335,6 +3402,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3424,6 +3492,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.81747, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -3460,6 +3529,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3549,6 +3619,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(3.568+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(3.568+20.64)x42.67912, direction TLT
 ................\hbox(3.568+1.552)x42.67912, glue set 0.86147, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -3598,6 +3669,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3687,6 +3759,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.632+11.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+11.14)x42.67912, direction TLT
 ................\hbox(5.632+0.08)x42.67912, glue set 0.38072, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -3732,6 +3805,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3824,6 +3898,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.246+1.746)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+1.746)x56.9055, direction TLT
 ..............\hbox(6.246+1.746)x56.9055, glue set 0.76671, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -3848,6 +3923,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3942,8 +4018,10 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -3984,6 +4062,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+0.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+0.08)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.20972, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -4008,6 +4087,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4097,6 +4177,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.464+0.168)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+0.168)x42.67912, direction TLT
 ................\hbox(5.464+0.168)x42.67912, glue set 0.51547, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -4115,6 +4196,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4207,6 +4289,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 0.58821, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -4236,6 +4319,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4330,8 +4414,10 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -4374,6 +4460,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.246+0.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.246+0.099)x56.9055, direction TLT
 ..............\hbox(6.246+0.099)x56.9055, glue set 0.39471, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -4408,6 +4495,7 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4502,8 +4590,10 @@ TEST 15: pgfmanual-en-library-mindmaps-15
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -4574,6 +4664,7 @@ TEST 16: pgfmanual-en-library-mindmaps-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.196+2.328)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.196+2.328)x99.58464, direction TLT
 ............\hbox(8.196+2.328)x99.58464, glue set 0.6481, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -4602,6 +4693,7 @@ TEST 16: pgfmanual-en-library-mindmaps-16
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4645,6 +4737,7 @@ TEST 16: pgfmanual-en-library-mindmaps-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.47+6.97)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(3.47+6.97)x99.58464, direction TLT
 ............\hbox(3.47+1.03)x99.58464, glue set 5.05467fil, direction TLT
 .............\localpar
@@ -4733,6 +4826,7 @@ TEST 16: pgfmanual-en-library-mindmaps-16
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0 plus 1.0fil
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

@@ -48,6 +48,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -84,6 +86,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -121,6 +125,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -157,6 +163,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -194,6 +202,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -230,6 +240,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -267,6 +279,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -303,6 +317,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -340,6 +356,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -376,6 +394,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -463,6 +483,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -537,6 +559,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -578,12 +602,14 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.73488, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.73488, direction TLT
 ............\OT1/cmr/m/n/8 3
 ............\OT1/cmr/m/n/8 V
 ............\kern0.11806 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -639,6 +665,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -664,11 +692,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 3
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -758,6 +788,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -783,11 +815,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 4
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -867,6 +901,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -890,11 +926,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 3
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -976,6 +1014,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1015,12 +1055,14 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.73488, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.73488, direction TLT
 ............\OT1/cmr/m/n/8 8
 ............\OT1/cmr/m/n/8 V
 ............\kern0.11806 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1076,6 +1118,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1101,11 +1145,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 2
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1190,6 +1236,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1213,11 +1261,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 1
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1273,6 +1323,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1303,6 +1355,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(5.46666+1.1111)x9.33612, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/8 S
@@ -1310,6 +1363,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\OT1/cmr/m/n/6 1
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1409,9 +1463,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.44444+0.0)x3.0093, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/8 ^^S
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1469,6 +1525,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1494,6 +1552,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x28.174, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/8 R
 ...........\kern0.04965 (italic)
@@ -1503,6 +1562,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...........\OT1/cmr/m/n/8 4
 ...........\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1586,6 +1646,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1625,12 +1687,14 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.73488, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.73488, direction TLT
 ............\OT1/cmr/m/n/8 8
 ............\OT1/cmr/m/n/8 V
 ............\kern0.11806 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1686,6 +1750,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1711,11 +1777,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 2
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1797,6 +1865,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1820,11 +1890,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 1
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1904,6 +1976,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1927,11 +2001,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 3
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2011,6 +2087,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2036,11 +2114,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 4
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2133,6 +2213,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2207,6 +2289,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2246,12 +2330,14 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.73488, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.73488, direction TLT
 ............\OT1/cmr/m/n/8 3
 ............\OT1/cmr/m/n/8 V
 ............\kern0.11806 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2307,6 +2393,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2332,11 +2420,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.46666+0.0)x10.38904, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(5.46666+0.0)x10.38904, direction TLT
 ............\OT1/cmr/m/n/8 3
 ............\OT1/cmr/m/n/8 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2446,7 +2536,9 @@ TEST 2: pgfmanual-en-library-circuits-4
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2527,6 +2619,8 @@ TEST 2: pgfmanual-en-library-circuits-4
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2580,7 +2674,9 @@ TEST 2: pgfmanual-en-library-circuits-4
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2638,6 +2734,8 @@ TEST 2: pgfmanual-en-library-circuits-4
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2702,6 +2800,8 @@ TEST 2: pgfmanual-en-library-circuits-4
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2755,7 +2855,9 @@ TEST 2: pgfmanual-en-library-circuits-4
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.0)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 1
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2917,7 +3019,9 @@ TEST 3: pgfmanual-en-library-circuits-5
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2993,6 +3097,8 @@ TEST 3: pgfmanual-en-library-circuits-5
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3006,9 +3112,11 @@ TEST 3: pgfmanual-en-library-circuits-5
 ..................\pdfliteral origin{q }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
 ...................\hbox(4.8611+0.0)x6.13892, direction TLT
+....................\begindir TLT
 ....................\mathon
 ....................\OT1/cmr/m/n/7 &
 ....................\mathoff
+....................\enddir TLT
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
 .................\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3063,7 +3171,9 @@ TEST 3: pgfmanual-en-library-circuits-5
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3113,6 +3223,8 @@ TEST 3: pgfmanual-en-library-circuits-5
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3126,10 +3238,12 @@ TEST 3: pgfmanual-en-library-circuits-5
 ..................\pdfliteral origin{q }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
 ...................\hbox(4.79828+1.29828)x10.23615, direction TLT
+....................\begindir TLT
 ....................\mathon
 ....................\OMS/cmsy/m/n/7 ^^U
 ....................\OT1/cmr/m/n/7 1
 ....................\mathoff
+....................\enddir TLT
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
 .................\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3191,6 +3305,8 @@ TEST 3: pgfmanual-en-library-circuits-5
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3204,9 +3320,11 @@ TEST 3: pgfmanual-en-library-circuits-5
 ..................\pdfliteral origin{q }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
 ...................\hbox(4.8611+0.0)x6.13892, direction TLT
+....................\begindir TLT
 ....................\mathon
 ....................\OT1/cmr/m/n/7 &
 ....................\mathoff
+....................\enddir TLT
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
 .................\glue 0.0 plus 1.0fil minus 1.0fil
@@ -3261,7 +3379,9 @@ TEST 3: pgfmanual-en-library-circuits-5
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.0)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 1
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -3440,6 +3560,8 @@ TEST 4: pgfmanual-en-library-circuits-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3530,6 +3652,8 @@ TEST 4: pgfmanual-en-library-circuits-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3636,6 +3760,8 @@ TEST 5: pgfmanual-en-library-circuits-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3696,6 +3822,8 @@ TEST 5: pgfmanual-en-library-circuits-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3784,6 +3912,8 @@ TEST 6: pgfmanual-en-library-circuits-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3849,6 +3979,8 @@ TEST 6: pgfmanual-en-library-circuits-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3913,6 +4045,8 @@ TEST 6: pgfmanual-en-library-circuits-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3978,6 +4112,8 @@ TEST 6: pgfmanual-en-library-circuits-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4061,6 +4197,8 @@ TEST 7: pgfmanual-en-library-circuits-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4096,8 +4234,10 @@ TEST 7: pgfmanual-en-library-circuits-11
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4170,6 +4310,8 @@ TEST 8: pgfmanual-en-library-circuits-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4210,6 +4352,8 @@ TEST 8: pgfmanual-en-library-circuits-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4304,6 +4448,8 @@ TEST 9: pgfmanual-en-library-circuits-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4356,6 +4502,8 @@ TEST 9: pgfmanual-en-library-circuits-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4435,6 +4583,8 @@ TEST 10: pgfmanual-en-library-circuits-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4498,6 +4648,8 @@ TEST 10: pgfmanual-en-library-circuits-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4605,6 +4757,8 @@ TEST 11: pgfmanual-en-library-circuits-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4690,6 +4844,8 @@ TEST 12: pgfmanual-en-library-circuits-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4775,6 +4931,8 @@ TEST 13: pgfmanual-en-library-circuits-17
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4860,6 +5018,8 @@ TEST 14: pgfmanual-en-library-circuits-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4921,6 +5081,8 @@ TEST 15: pgfmanual-en-library-circuits-19
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4951,12 +5113,14 @@ TEST 15: pgfmanual-en-library-circuits-19
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 3
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5018,6 +5182,8 @@ TEST 16: pgfmanual-en-library-circuits-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5048,12 +5214,14 @@ TEST 16: pgfmanual-en-library-circuits-20
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 3
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5092,6 +5260,8 @@ TEST 16: pgfmanual-en-library-circuits-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5122,6 +5292,7 @@ TEST 16: pgfmanual-en-library-circuits-20
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+1.49998)x12.07903, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 R
@@ -5129,6 +5300,7 @@ TEST 16: pgfmanual-en-library-circuits-20
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5204,6 +5376,8 @@ TEST 17: pgfmanual-en-library-circuits-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5234,12 +5408,14 @@ TEST 17: pgfmanual-en-library-circuits-21
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 3
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5271,6 +5447,7 @@ TEST 17: pgfmanual-en-library-circuits-21
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+1.49998)x12.07903, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 R
@@ -5278,6 +5455,7 @@ TEST 17: pgfmanual-en-library-circuits-21
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5343,6 +5521,8 @@ TEST 17: pgfmanual-en-library-circuits-21
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5371,12 +5551,14 @@ TEST 17: pgfmanual-en-library-circuits-21
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 4
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5408,6 +5590,7 @@ TEST 17: pgfmanual-en-library-circuits-21
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+1.49998)x12.07903, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OML/cmm/m/it/10 R
@@ -5415,6 +5598,7 @@ TEST 17: pgfmanual-en-library-circuits-21
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5511,6 +5695,8 @@ TEST 18: pgfmanual-en-library-circuits-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5541,12 +5727,14 @@ TEST 18: pgfmanual-en-library-circuits-22
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 3
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5609,6 +5797,8 @@ TEST 18: pgfmanual-en-library-circuits-22
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5637,12 +5827,14 @@ TEST 18: pgfmanual-en-library-circuits-22
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 4
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5739,6 +5931,8 @@ TEST 19: pgfmanual-en-library-circuits-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5769,12 +5963,14 @@ TEST 19: pgfmanual-en-library-circuits-23
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 3
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5837,6 +6033,8 @@ TEST 19: pgfmanual-en-library-circuits-23
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5867,12 +6065,14 @@ TEST 19: pgfmanual-en-library-circuits-23
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\mathon
 ...........\OT1/cmr/m/n/10 4
 ...........\OT1/cmr/m/n/10 
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5974,6 +6174,8 @@ TEST 20: pgfmanual-en-library-circuits-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5999,11 +6201,13 @@ TEST 20: pgfmanual-en-library-circuits-24
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x12.77782, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x12.77782, direction TLT
 ............\OT1/cmr/m/n/10 3
 ............\OT1/cmr/m/n/10 O
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6100,6 +6304,8 @@ TEST 21: pgfmanual-en-library-circuits-26
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6189,6 +6395,8 @@ TEST 22: pgfmanual-en-library-circuits-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6274,6 +6482,8 @@ TEST 22: pgfmanual-en-library-circuits-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6400,6 +6610,8 @@ TEST 23: pgfmanual-en-library-circuits-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6425,11 +6637,13 @@ TEST 23: pgfmanual-en-library-circuits-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x12.22224, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6494,6 +6708,8 @@ TEST 23: pgfmanual-en-library-circuits-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6519,11 +6735,13 @@ TEST 23: pgfmanual-en-library-circuits-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x12.22224, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6630,6 +6848,8 @@ TEST 24: pgfmanual-en-library-circuits-29
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6693,8 +6913,10 @@ TEST 24: pgfmanual-en-library-circuits-29
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6799,6 +7021,8 @@ TEST 25: pgfmanual-en-library-circuits-30
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6861,6 +7085,8 @@ TEST 25: pgfmanual-en-library-circuits-30
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6966,6 +7192,8 @@ TEST 26: pgfmanual-en-library-circuits-31
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7024,6 +7252,8 @@ TEST 26: pgfmanual-en-library-circuits-31
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7130,6 +7360,8 @@ TEST 27: pgfmanual-en-library-circuits-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7173,6 +7405,8 @@ TEST 27: pgfmanual-en-library-circuits-32
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7271,6 +7505,8 @@ TEST 28: pgfmanual-en-library-circuits-33
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7316,6 +7552,8 @@ TEST 28: pgfmanual-en-library-circuits-33
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7404,6 +7642,8 @@ TEST 29: pgfmanual-en-library-circuits-36
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7482,6 +7722,8 @@ TEST 29: pgfmanual-en-library-circuits-36
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7542,6 +7784,8 @@ TEST 29: pgfmanual-en-library-circuits-36
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7644,7 +7888,9 @@ TEST 30: pgfmanual-en-library-circuits-37
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7728,6 +7974,8 @@ TEST 30: pgfmanual-en-library-circuits-37
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7741,11 +7989,13 @@ TEST 30: pgfmanual-en-library-circuits-37
 ..................\pdfliteral origin{q }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
 ...................\hbox(4.8611+0.0)x6.13892, direction TLT
+....................\begindir TLT
 ....................\pdfcolorstack 0 push {0 g 0 G}
 ....................\mathon
 ....................\OT1/cmr/m/n/7 &
 ....................\mathoff
 ....................\pdfcolorstack 0 pop
+....................\enddir TLT
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
 .................\glue 0.0 plus 1.0fil minus 1.0fil
@@ -7805,7 +8055,9 @@ TEST 30: pgfmanual-en-library-circuits-37
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7863,6 +8115,8 @@ TEST 30: pgfmanual-en-library-circuits-37
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7876,12 +8130,14 @@ TEST 30: pgfmanual-en-library-circuits-37
 ..................\pdfliteral origin{q }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
 ...................\hbox(4.79828+1.29828)x10.23615, direction TLT
+....................\begindir TLT
 ....................\pdfcolorstack 0 push {0 g 0 G}
 ....................\mathon
 ....................\OMS/cmsy/m/n/7 ^^U
 ....................\OT1/cmr/m/n/7 1
 ....................\mathoff
 ....................\pdfcolorstack 0 pop
+....................\enddir TLT
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
 .................\glue 0.0 plus 1.0fil minus 1.0fil
@@ -7956,6 +8212,8 @@ TEST 30: pgfmanual-en-library-circuits-37
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -7969,11 +8227,13 @@ TEST 30: pgfmanual-en-library-circuits-37
 ..................\pdfliteral origin{q }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
 ...................\hbox(4.8611+0.0)x6.13892, direction TLT
+....................\begindir TLT
 ....................\pdfcolorstack 0 push {0 g 0 G}
 ....................\mathon
 ....................\OT1/cmr/m/n/7 &
 ....................\mathoff
 ....................\pdfcolorstack 0 pop
+....................\enddir TLT
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
 .................\glue 0.0 plus 1.0fil minus 1.0fil
@@ -8033,7 +8293,9 @@ TEST 30: pgfmanual-en-library-circuits-37
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.0)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 1
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8195,7 +8457,9 @@ TEST 31: pgfmanual-en-library-circuits-39
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8281,6 +8545,8 @@ TEST 31: pgfmanual-en-library-circuits-39
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8334,7 +8600,9 @@ TEST 31: pgfmanual-en-library-circuits-39
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.22)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 0
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8396,6 +8664,8 @@ TEST 31: pgfmanual-en-library-circuits-39
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8464,6 +8734,8 @@ TEST 31: pgfmanual-en-library-circuits-39
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8517,7 +8789,9 @@ TEST 31: pgfmanual-en-library-circuits-39
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.66+0.0)x5.0, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 1
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -8654,9 +8928,11 @@ TEST 32: pgfmanual-en-library-circuits-40
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x7.50002, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 A
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8670,9 +8946,11 @@ TEST 32: pgfmanual-en-library-circuits-40
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(4.8611+0.0)x6.13892, direction TLT
+..........\begindir TLT
 ..........\mathon
 ..........\OT1/cmr/m/n/7 &
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -8734,9 +9012,11 @@ TEST 33: pgfmanual-en-library-circuits-41
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x7.50002, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 A
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8770,6 +9050,8 @@ TEST 33: pgfmanual-en-library-circuits-41
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8795,9 +9077,11 @@ TEST 33: pgfmanual-en-library-circuits-41
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x7.50002, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 A
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8874,6 +9158,8 @@ TEST 34: pgfmanual-en-library-circuits-42
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8887,9 +9173,11 @@ TEST 34: pgfmanual-en-library-circuits-42
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(4.8611+0.0)x6.13892, direction TLT
+..........\begindir TLT
 ..........\mathon
 ..........\OT1/cmr/m/n/7 &
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -8990,6 +9278,8 @@ TEST 35: pgfmanual-en-library-circuits-43
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9003,9 +9293,11 @@ TEST 35: pgfmanual-en-library-circuits-43
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.94444+0.0)x7.7778, direction TLT
+..........\begindir TLT
 ..........\mathon
 ..........\OT1/cmr/m/n/10 &
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -9107,6 +9399,8 @@ TEST 36: pgfmanual-en-library-circuits-44
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9217,7 +9511,9 @@ TEST 37: pgfmanual-en-library-circuits-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9269,7 +9565,9 @@ TEST 37: pgfmanual-en-library-circuits-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9376,7 +9674,9 @@ TEST 38: pgfmanual-en-library-circuits-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9390,9 +9690,11 @@ TEST 38: pgfmanual-en-library-circuits-46
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.94444+0.0)x7.7778, direction TLT
+..........\begindir TLT
 ..........\mathon
 ..........\OT1/cmr/m/n/10 &
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -9434,7 +9736,9 @@ TEST 38: pgfmanual-en-library-circuits-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9448,9 +9752,11 @@ TEST 38: pgfmanual-en-library-circuits-46
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.94444+0.0)x7.7778, direction TLT
+..........\begindir TLT
 ..........\mathon
 ..........\OT1/cmr/m/n/10 &
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -9672,8 +9978,10 @@ TEST 39: pgfmanual-en-library-circuits-47
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9981,6 +10289,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(56.9055+0.39809)x110.9945, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\TU/lmr/m/n/24.88 N
 ...........\TU/lmr/m/n/24.88 a
@@ -9993,6 +10302,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmr/m/n/24.88 e
 ...........\rule(56.9055+*)x1.0
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10030,6 +10340,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10041,6 +10352,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10078,6 +10390,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10087,6 +10400,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10121,6 +10435,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10128,6 +10443,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10165,6 +10481,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x26.01897, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10173,6 +10490,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 d
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10208,6 +10526,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x44.60394, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10221,6 +10540,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10258,6 +10578,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x44.60394, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10271,6 +10592,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10308,6 +10630,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10317,6 +10640,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 e
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10354,6 +10678,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x48.32094, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10368,6 +10693,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10403,6 +10729,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x48.32094, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10417,6 +10744,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10454,6 +10782,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10464,6 +10793,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10501,6 +10831,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10511,6 +10842,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10548,6 +10880,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10557,6 +10890,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10594,6 +10928,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10603,6 +10938,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10640,6 +10976,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10655,6 +10992,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10692,6 +11030,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10707,6 +11046,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10744,6 +11084,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10759,6 +11100,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10796,6 +11138,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10811,6 +11154,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10848,6 +11192,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10859,6 +11204,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10896,6 +11242,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x40.88695, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10908,6 +11255,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 1
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10945,6 +11293,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x40.88695, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -10957,6 +11306,7 @@ TEST 40: pgfmanual-en-library-circuits-48
 ...........\TU/lmtt/m/n/7 2
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11020,6 +11370,8 @@ TEST 41: pgfmanual-en-library-circuits-49
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11033,11 +11385,13 @@ TEST 41: pgfmanual-en-library-circuits-49
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.44444+1.35971)x15.55553, direction TLT
+..........\begindir TLT
 ..........\mathon
 ..........\OMS/cmsy/m/n/10 ^^U
 ..........\glue(\thickmuskip) 2.77771 plus 2.77771
 ..........\OT1/cmr/m/n/10 1
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -11072,6 +11426,8 @@ TEST 41: pgfmanual-en-library-circuits-49
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11085,11 +11441,13 @@ TEST 41: pgfmanual-en-library-circuits-49
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.44444+1.35971)x15.55553, direction TLT
+..........\begindir TLT
 ..........\mathon
 ..........\OMS/cmsy/m/n/10 ^^U
 ..........\glue(\thickmuskip) 2.77771 plus 2.77771
 ..........\OT1/cmr/m/n/10 1
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -11197,6 +11555,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(56.9055+0.39809)x110.9945, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\TU/lmr/m/n/24.88 N
 ...........\TU/lmr/m/n/24.88 a
@@ -11209,6 +11568,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmr/m/n/24.88 e
 ...........\rule(56.9055+*)x1.0
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11222,9 +11582,11 @@ TEST 42: pgfmanual-en-library-circuits-50
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(17.66481+0.39809)x17.9136, direction TLT
+..........\begindir TLT
 ..........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ..........\TU/lmr/m/n/24.88 &
 ..........\pdfcolorstack 0 pop
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -11269,6 +11631,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11280,6 +11643,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11317,6 +11681,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11326,6 +11691,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11361,6 +11727,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11368,6 +11735,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11405,6 +11773,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x26.01897, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11413,6 +11782,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 d
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11448,6 +11818,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x44.60394, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11461,6 +11832,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11498,6 +11870,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x44.60394, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11511,6 +11884,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11548,6 +11922,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11557,6 +11932,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 e
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11594,6 +11970,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x48.32094, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11608,6 +11985,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11643,6 +12021,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x48.32094, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11657,6 +12036,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11694,6 +12074,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11704,6 +12085,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11741,6 +12123,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11751,6 +12134,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11788,6 +12172,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11797,6 +12182,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11834,6 +12220,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11843,6 +12230,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11880,6 +12268,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11895,6 +12284,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11932,6 +12322,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11947,6 +12338,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11984,6 +12376,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -11999,6 +12392,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12036,6 +12430,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -12051,6 +12446,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12088,6 +12484,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -12099,6 +12496,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12136,6 +12534,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x40.88695, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -12148,6 +12547,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 1
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12185,6 +12585,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x40.88695, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -12197,6 +12598,7 @@ TEST 42: pgfmanual-en-library-circuits-50
 ...........\TU/lmtt/m/n/7 2
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12255,6 +12657,8 @@ TEST 43: pgfmanual-en-library-circuits-51
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12315,6 +12719,8 @@ TEST 44: pgfmanual-en-library-circuits-52
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12340,11 +12746,13 @@ TEST 44: pgfmanual-en-library-circuits-52
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x12.22224, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12405,6 +12813,8 @@ TEST 45: pgfmanual-en-library-circuits-53
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12430,11 +12840,13 @@ TEST 45: pgfmanual-en-library-circuits-53
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x12.22224, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12501,6 +12913,8 @@ TEST 46: pgfmanual-en-library-circuits-54
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12524,11 +12938,13 @@ TEST 46: pgfmanual-en-library-circuits-54
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x12.22224, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x12.22224, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12562,6 +12978,8 @@ TEST 46: pgfmanual-en-library-circuits-54
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12587,6 +13005,7 @@ TEST 46: pgfmanual-en-library-circuits-54
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+0.0)x22.50006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.94444+0.0)x22.50006, direction TLT
 ............\OT1/cmr/m/n/10 1
@@ -12594,6 +13013,7 @@ TEST 46: pgfmanual-en-library-circuits-54
 ............\OT1/cmr/m/n/10 k
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12675,8 +13095,10 @@ TEST 47: pgfmanual-en-library-circuits-55
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12739,6 +13161,8 @@ TEST 47: pgfmanual-en-library-circuits-55
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12762,12 +13186,14 @@ TEST 47: pgfmanual-en-library-circuits-55
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+1.94444)x18.24773, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+1.94444)x18.24773, direction TLT
 ............\OT1/cmr/m/n/10 2
 ............\OML/cmm/m/it/10 ^^V
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12867,6 +13293,8 @@ TEST 48: pgfmanual-en-library-circuits-56
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12890,12 +13318,14 @@ TEST 48: pgfmanual-en-library-circuits-56
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x21.38893, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x21.38893, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 M
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12991,6 +13421,8 @@ TEST 49: pgfmanual-en-library-circuits-57
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13016,12 +13448,14 @@ TEST 49: pgfmanual-en-library-circuits-57
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x21.38893, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x21.38893, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 M
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13117,6 +13551,8 @@ TEST 50: pgfmanual-en-library-circuits-58
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13140,12 +13576,14 @@ TEST 50: pgfmanual-en-library-circuits-58
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83331+0.0)x21.38893, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.83331+0.0)x21.38893, direction TLT
 ............\OT1/cmr/m/n/10 5
 ............\OT1/cmr/m/n/10 M
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13207,6 +13645,8 @@ TEST 50: pgfmanual-en-library-circuits-58
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13232,6 +13672,7 @@ TEST 50: pgfmanual-en-library-circuits-58
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+0.0)x16.0556, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.94444+0.0)x16.0556, direction TLT
 ............\OT1/cmr/m/n/10 6
@@ -13239,6 +13680,7 @@ TEST 50: pgfmanual-en-library-circuits-58
 ............\kern0.77779 (italic)
 ............\OT1/cmr/m/n/10 
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13360,6 +13802,8 @@ TEST 51: pgfmanual-en-library-circuits-59
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13508,6 +13952,8 @@ TEST 52: pgfmanual-en-library-circuits-60
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13561,6 +14007,7 @@ TEST 52: pgfmanual-en-library-circuits-60
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+2.06)x38.9, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 t
@@ -13571,6 +14018,7 @@ TEST 52: pgfmanual-en-library-circuits-60
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13666,6 +14114,8 @@ TEST 52: pgfmanual-en-library-circuits-60
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13719,6 +14169,7 @@ TEST 52: pgfmanual-en-library-circuits-60
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x26.42, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 b
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 e
@@ -13728,6 +14179,7 @@ TEST 52: pgfmanual-en-library-circuits-60
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13753,6 +14205,7 @@ TEST 52: pgfmanual-en-library-circuits-60
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+2.06)x41.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 s
@@ -13764,6 +14217,7 @@ TEST 52: pgfmanual-en-library-circuits-60
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13889,6 +14343,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -13900,6 +14355,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13935,6 +14391,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -13942,6 +14399,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13980,6 +14438,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -13990,6 +14449,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14028,6 +14488,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14038,6 +14499,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14073,6 +14535,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14082,6 +14545,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14120,6 +14584,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14129,6 +14594,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14166,6 +14632,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14181,6 +14648,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14219,6 +14687,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14234,6 +14703,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14271,6 +14741,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14286,6 +14757,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14324,6 +14796,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14339,6 +14812,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14375,6 +14849,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14385,6 +14860,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14422,6 +14898,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14433,6 +14910,7 @@ TEST 53: pgfmanual-en-library-circuits-62
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14539,6 +15017,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14549,6 +15028,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14587,6 +15067,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14597,6 +15078,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14634,6 +15116,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14645,6 +15128,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14681,6 +15165,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14691,6 +15176,7 @@ TEST 54: pgfmanual-en-library-circuits-63
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14768,6 +15254,7 @@ TEST 55: pgfmanual-en-library-circuits-64
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x50.03, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -14780,6 +15267,7 @@ TEST 55: pgfmanual-en-library-circuits-64
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14869,8 +15357,10 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14909,6 +15399,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14920,6 +15411,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14955,6 +15447,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -14962,6 +15455,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15000,6 +15494,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15010,6 +15505,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15048,6 +15544,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15058,6 +15555,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15093,6 +15591,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15102,6 +15601,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15140,6 +15640,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15149,6 +15650,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15186,6 +15688,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15201,6 +15704,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15239,6 +15743,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15254,6 +15759,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15291,6 +15797,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15306,6 +15813,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15344,6 +15852,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15359,6 +15868,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15395,6 +15905,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15405,6 +15916,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15442,6 +15954,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15453,6 +15966,7 @@ TEST 56: pgfmanual-en-library-circuits-65
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15546,6 +16060,8 @@ TEST 57: pgfmanual-en-library-circuits-66
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15650,8 +16166,10 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15690,6 +16208,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15701,6 +16220,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15736,6 +16256,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15743,6 +16264,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15781,6 +16303,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15791,6 +16314,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15829,6 +16353,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15839,6 +16364,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15874,6 +16400,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15883,6 +16410,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15921,6 +16449,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15930,6 +16459,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15967,6 +16497,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -15982,6 +16513,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16020,6 +16552,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16035,6 +16568,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16072,6 +16606,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16087,6 +16622,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16125,6 +16661,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16140,6 +16677,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16176,6 +16714,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16186,6 +16725,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16223,6 +16763,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16234,6 +16775,7 @@ TEST 58: pgfmanual-en-library-circuits-67
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16313,8 +16855,10 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16353,6 +16897,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16364,6 +16909,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16399,6 +16945,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16406,6 +16953,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16444,6 +16992,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16454,6 +17003,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16492,6 +17042,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16502,6 +17053,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16537,6 +17089,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16546,6 +17099,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16584,6 +17138,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16593,6 +17148,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16630,6 +17186,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16645,6 +17202,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16683,6 +17241,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16698,6 +17257,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16735,6 +17295,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16750,6 +17311,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16788,6 +17350,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16803,6 +17366,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16839,6 +17403,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16849,6 +17414,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16886,6 +17452,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -16897,6 +17464,7 @@ TEST 59: pgfmanual-en-library-circuits-68
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16970,8 +17538,10 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17009,6 +17579,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17020,6 +17591,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17055,6 +17627,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17062,6 +17635,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17100,6 +17674,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17110,6 +17685,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17148,6 +17724,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17158,6 +17735,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17193,6 +17771,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17202,6 +17781,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17240,6 +17820,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17249,6 +17830,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17286,6 +17868,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17301,6 +17884,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17339,6 +17923,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17354,6 +17939,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17391,6 +17977,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17406,6 +17993,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17444,6 +18032,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17459,6 +18048,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17495,6 +18085,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17505,6 +18096,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17542,6 +18134,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17553,6 +18146,7 @@ TEST 60: pgfmanual-en-library-circuits-69
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17628,8 +18222,10 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17668,6 +18264,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17679,6 +18276,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17714,6 +18312,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17721,6 +18320,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17759,6 +18359,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17769,6 +18370,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17807,6 +18409,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17817,6 +18420,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17852,6 +18456,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17861,6 +18466,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17899,6 +18505,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17908,6 +18515,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17945,6 +18553,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -17960,6 +18569,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -17998,6 +18608,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18013,6 +18624,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18050,6 +18662,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18065,6 +18678,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18103,6 +18717,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18118,6 +18733,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18154,6 +18770,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18164,6 +18781,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18201,6 +18819,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18212,6 +18831,7 @@ TEST 61: pgfmanual-en-library-circuits-70
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18287,8 +18907,10 @@ TEST 62: pgfmanual-en-library-circuits-71
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18367,8 +18989,10 @@ TEST 63: pgfmanual-en-library-circuits-72
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18436,8 +19060,10 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18475,6 +19101,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18486,6 +19113,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 r
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18521,6 +19149,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x22.30197, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18528,6 +19157,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 0
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18566,6 +19196,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18576,6 +19207,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18614,6 +19246,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18624,6 +19257,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 h
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18659,6 +19293,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18668,6 +19303,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18706,6 +19342,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x29.73596, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18715,6 +19352,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18752,6 +19390,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18767,6 +19406,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18805,6 +19445,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18820,6 +19461,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18857,6 +19499,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18872,6 +19515,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18910,6 +19554,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+0.581)x52.03793, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18925,6 +19570,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18961,6 +19607,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x33.45296, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -18971,6 +19618,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -19008,6 +19656,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.858+1.554)x37.16995, direction TLT
+...........\begindir TLT
 ...........\TU/lmtt/m/n/7 (
 ...........\TU/lmtt/m/n/7 s
 ...........\TU/lmtt/m/n/7 .
@@ -19019,6 +19668,7 @@ TEST 64: pgfmanual-en-library-circuits-73
 ...........\TU/lmtt/m/n/7 t
 ...........\TU/lmtt/m/n/7 )
 ...........\kern0.0 (italic)
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -19097,8 +19747,10 @@ TEST 65: pgfmanual-en-library-circuits-74
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -19172,8 +19824,10 @@ TEST 66: pgfmanual-en-library-circuits-75
 ..........\pdfliteral origin{0.7 G }
 ..........\pdfliteral origin{0.7 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.7 g 0.7 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

@@ -37,7 +37,9 @@ TEST 1: pgfmanual-en-library-chains-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -68,7 +70,9 @@ TEST 1: pgfmanual-en-library-chains-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -99,7 +103,9 @@ TEST 1: pgfmanual-en-library-chains-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -158,7 +164,9 @@ TEST 2: pgfmanual-en-library-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -189,7 +197,9 @@ TEST 2: pgfmanual-en-library-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -220,7 +230,9 @@ TEST 2: pgfmanual-en-library-chains-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -282,7 +294,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -315,7 +329,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -348,7 +364,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -381,7 +399,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -415,7 +435,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -449,7 +471,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -482,7 +506,9 @@ TEST 3: pgfmanual-en-library-chains-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.64, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 D
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -542,11 +568,13 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -579,12 +607,14 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -618,7 +648,9 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.06+1.93)x2.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 ,
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -652,10 +684,12 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x16.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -689,8 +723,10 @@ TEST 4: pgfmanual-en-library-chains-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.57+0.11)x6.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -751,7 +787,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -784,7 +822,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -817,7 +857,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -853,7 +895,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -887,7 +931,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -921,7 +967,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -957,7 +1005,9 @@ TEST 5: pgfmanual-en-library-chains-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.64, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 D
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1017,7 +1067,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1047,7 +1099,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1077,7 +1131,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1107,7 +1163,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.77+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1137,7 +1195,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1167,7 +1227,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1197,7 +1259,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.76+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1227,7 +1291,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1257,7 +1323,9 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1287,8 +1355,10 @@ TEST 6: pgfmanual-en-library-chains-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x10.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1358,6 +1428,8 @@ TEST 7: pgfmanual-en-library-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1390,11 +1462,13 @@ TEST 7: pgfmanual-en-library-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x23.06, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1427,11 +1501,13 @@ TEST 7: pgfmanual-en-library-chains-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x20.56, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1491,11 +1567,13 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1528,12 +1606,14 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1568,7 +1648,9 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.06+1.93)x2.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 ,
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1601,10 +1683,12 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x16.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1637,8 +1721,10 @@ TEST 8: pgfmanual-en-library-chains-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.57+0.11)x6.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1736,7 +1822,9 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1769,11 +1857,13 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1806,12 +1896,14 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1844,7 +1936,9 @@ TEST 9: pgfmanual-en-library-chains-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(1.06+0.0)x2.78, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1944,6 +2038,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(6.57+2.06)x33.67, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 x
@@ -1958,6 +2053,7 @@ TEST 10: pgfmanual-en-library-chains-10
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 g
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1992,11 +2088,13 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x22.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2030,12 +2128,14 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x26.70999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2111,10 +2211,12 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x16.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2165,8 +2267,10 @@ TEST 10: pgfmanual-en-library-chains-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.57+0.11)x6.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 s
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2269,12 +2373,14 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.94+0.22)x26.70999, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 W
 .....................\kern-0.83 (font)
 .....................\TU/lmr/m/n/10 o
 .....................\TU/lmr/m/n/10 r
 .....................\TU/lmr/m/n/10 l
 .....................\TU/lmr/m/n/10 d
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2317,12 +2423,14 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(4.48+1.94)x24.16, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 p
 .....................\kern0.28 (font)
 .....................\TU/lmr/m/n/10 e
 .....................\TU/lmr/m/n/10 a
 .....................\TU/lmr/m/n/10 c
 .....................\TU/lmr/m/n/10 e
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2367,9 +2475,11 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.94+0.11)x10.28, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 b
 .....................\kern0.28 (font)
 .....................\TU/lmr/m/n/10 e
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2409,12 +2519,14 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.94+0.11)x25.84, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 w
 .....................\kern-0.28 (font)
 .....................\TU/lmr/m/n/10 o
 .....................\TU/lmr/m/n/10 u
 .....................\TU/lmr/m/n/10 l
 .....................\TU/lmr/m/n/10 d
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2462,11 +2574,13 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.15+2.06)x22.25, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 g
 .....................\TU/lmr/m/n/10 r
 .....................\TU/lmr/m/n/10 e
 .....................\TU/lmr/m/n/10 a
 .....................\TU/lmr/m/n/10 t
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2507,7 +2621,9 @@ TEST 11: pgfmanual-en-library-chains-11
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(7.16+0.0)x2.78, direction TLT
+.....................\begindir TLT
 .....................\TU/lmr/m/n/10 !
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -2684,6 +2800,8 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2717,11 +2835,13 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x23.06, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2776,11 +2896,13 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.22)x20.56, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 W
 ...........\kern-0.83 (font)
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2838,10 +2960,12 @@ TEST 12: pgfmanual-en-library-chains-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.11)x13.34, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 f
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2946,7 +3070,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2978,7 +3104,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3033,7 +3161,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3083,7 +3213,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3133,7 +3265,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3190,10 +3324,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x6.43404, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^K
 ...........\kern0.03702 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3243,10 +3379,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+1.94444)x6.18402, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^L
 ...........\kern0.52777 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3296,10 +3434,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x5.73285, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 
 ...........\kern0.55554 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3352,7 +3492,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3441,9 +3583,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.65279+0.0)x5.00002, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ?
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3493,9 +3637,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.44444+0.0)x5.00002, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/10 ^^N
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3545,10 +3691,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.0556+3.05562)x6.66667, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(0.0+11.11122)x6.66667, shifted -8.0556, direction TLT
 ............\OMX/cmex/m/n/10 R
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3628,7 +3776,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3660,7 +3810,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3723,7 +3875,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3774,7 +3928,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3824,7 +3980,9 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3877,10 +4035,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x6.43404, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^K
 ...........\kern0.03702 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3930,10 +4090,12 @@ TEST 14: pgfmanual-en-library-chains-14
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+1.94444)x6.18402, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^L
 ...........\kern0.52777 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

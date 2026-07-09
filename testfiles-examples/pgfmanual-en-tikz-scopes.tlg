@@ -93,6 +93,7 @@ TEST 2: pgfmanual-en-tikz-scopes-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x26.98, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 w
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 o
@@ -100,6 +101,7 @@ TEST 2: pgfmanual-en-tikz-scopes-2
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 .
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -243,7 +245,9 @@ TEST 4: pgfmanual-en-tikz-scopes-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 X
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -271,7 +275,9 @@ TEST 4: pgfmanual-en-tikz-scopes-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 Y
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -523,6 +529,7 @@ TEST 7: pgfmanual-en-tikz-scopes-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x50.03, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -535,6 +542,7 @@ TEST 7: pgfmanual-en-tikz-scopes-9
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1020,9 +1028,11 @@ TEST 13: pgfmanual-en-tikz-scopes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x13.92, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1060,10 +1070,12 @@ TEST 13: pgfmanual-en-tikz-scopes-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x18.34, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 b
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1130,6 +1142,7 @@ TEST 14: pgfmanual-en-tikz-scopes-17
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.11)x30.29, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 e
 ...........\discretionary (penalty 50)
@@ -1139,6 +1152,7 @@ TEST 14: pgfmanual-en-tikz-scopes-17
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1176,10 +1190,12 @@ TEST 14: pgfmanual-en-tikz-scopes-17
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x18.34, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 b
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

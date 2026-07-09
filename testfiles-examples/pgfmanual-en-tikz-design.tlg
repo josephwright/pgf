@@ -79,10 +79,12 @@ TEST 2: pgfmanual-en-tikz-design-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.15+0.11)x17.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 x
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -138,11 +140,13 @@ TEST 3: pgfmanual-en-tikz-design-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.15+0.11)x18.09, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -173,10 +177,12 @@ TEST 3: pgfmanual-en-tikz-design-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+0.11)x14.17, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 l
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 f
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -219,12 +225,14 @@ TEST 3: pgfmanual-en-tikz-design-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.94+2.06)x20.87, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 i
 .............\TU/lmr/m/n/10 g
 .............\TU/lmr/m/n/10 h
 .............\kern-0.28 (font)
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -267,12 +275,14 @@ TEST 3: pgfmanual-en-tikz-design-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+0.11)x20.84, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 c
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 h
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 l
 ...............\TU/lmr/m/n/10 d
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -315,12 +325,14 @@ TEST 3: pgfmanual-en-tikz-design-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+0.11)x20.84, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 c
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 h
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 l
 ...............\TU/lmr/m/n/10 d
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -407,11 +419,13 @@ TEST 4: pgfmanual-en-tikz-design-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.15+0.11)x18.09, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -458,10 +472,12 @@ TEST 4: pgfmanual-en-tikz-design-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+0.11)x14.17, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 l
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 f
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -543,12 +559,14 @@ TEST 4: pgfmanual-en-tikz-design-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.94+2.06)x20.87, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 i
 .............\TU/lmr/m/n/10 g
 .............\TU/lmr/m/n/10 h
 .............\kern-0.28 (font)
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -616,12 +634,14 @@ TEST 4: pgfmanual-en-tikz-design-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+0.11)x20.84, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 c
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 h
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 l
 ...............\TU/lmr/m/n/10 d
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -691,12 +711,14 @@ TEST 4: pgfmanual-en-tikz-design-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+0.11)x20.84, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 c
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 h
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 l
 ...............\TU/lmr/m/n/10 d
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -782,8 +804,10 @@ TEST 5: pgfmanual-en-tikz-design-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -799,6 +823,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(6.15+0.11)x18.09, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 o
@@ -806,6 +831,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 t
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -839,8 +865,10 @@ TEST 5: pgfmanual-en-tikz-design-6
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -856,12 +884,14 @@ TEST 5: pgfmanual-en-tikz-design-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+0.11)x14.17, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/10 l
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 f
 .............\TU/lmr/m/n/10 t
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -909,8 +939,10 @@ TEST 5: pgfmanual-en-tikz-design-6
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
@@ -926,6 +958,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.94+2.06)x20.87, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 i
@@ -934,6 +967,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 .............\kern-0.28 (font)
 .............\TU/lmr/m/n/10 t
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -978,8 +1012,10 @@ TEST 5: pgfmanual-en-tikz-design-6
 ............\glue -50.1875
 ............\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .............\hbox(100.375+0.0)x100.375, direction TLT
+..............\begindir TLT
 ..............\hbox(100.375+0.0)x100.375, direction TLT
 ...............\box(100.375+0.0)x100.375
+..............\enddir TLT
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
@@ -995,6 +1031,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.94+0.11)x20.84, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 c
 ...............\kern-0.28 (font)
@@ -1003,6 +1040,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 ...............\TU/lmr/m/n/10 l
 ...............\TU/lmr/m/n/10 d
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1050,8 +1088,10 @@ TEST 5: pgfmanual-en-tikz-design-6
 ............\glue -50.1875
 ............\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .............\hbox(100.375+0.0)x100.375, direction TLT
+..............\begindir TLT
 ..............\hbox(100.375+0.0)x100.375, direction TLT
 ...............\box(100.375+0.0)x100.375
+..............\enddir TLT
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
@@ -1067,6 +1107,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(6.94+0.11)x20.84, direction TLT
+...............\begindir TLT
 ...............\pdfcolorstack 0 push {1 g 1 G}
 ...............\TU/lmr/m/n/10 c
 ...............\kern-0.28 (font)
@@ -1075,6 +1116,7 @@ TEST 5: pgfmanual-en-tikz-design-6
 ...............\TU/lmr/m/n/10 l
 ...............\TU/lmr/m/n/10 d
 ...............\pdfcolorstack 0 pop
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1162,11 +1204,13 @@ TEST 6: pgfmanual-en-tikz-design-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.15+0.11)x18.09, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 o
 .............\kern0.28 (font)
 .............\TU/lmr/m/n/10 o
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1210,10 +1254,12 @@ TEST 6: pgfmanual-en-tikz-design-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+0.11)x14.17, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 l
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 f
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1255,12 +1301,14 @@ TEST 6: pgfmanual-en-tikz-design-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.94+2.06)x20.87, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 i
 .............\TU/lmr/m/n/10 g
 .............\TU/lmr/m/n/10 h
 .............\kern-0.28 (font)
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1304,12 +1352,14 @@ TEST 6: pgfmanual-en-tikz-design-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.94+0.11)x20.84, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 c
 .............\kern-0.28 (font)
 .............\TU/lmr/m/n/10 h
 .............\TU/lmr/m/n/10 i
 .............\TU/lmr/m/n/10 l
 .............\TU/lmr/m/n/10 d
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0

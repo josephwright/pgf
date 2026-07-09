@@ -37,6 +37,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+2.05)x119.18, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 m
@@ -72,6 +73,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...........\TU/lmr/m/n/10 t
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 y
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -102,6 +104,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+1.94)x109.68, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 C
 .............\TU/lmr/m/n/10 o
 .............\TU/lmr/m/n/10 m
@@ -132,6 +135,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 m
 .............\TU/lmr/m/n/10 s
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -174,6 +178,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+0.11)x80.58, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 P
 ...............\TU/lmr/m/n/10 r
 ...............\TU/lmr/m/n/10 o
@@ -194,6 +199,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 r
 ...............\TU/lmr/m/n/10 e
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -236,6 +242,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.16+1.94)x74.16, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 P
 ...............\TU/lmr/m/n/10 r
 ...............\TU/lmr/m/n/10 o
@@ -256,6 +263,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 c
 ...............\TU/lmr/m/n/10 t
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -298,6 +306,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+0.11)x78.42, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 P
 ...............\TU/lmr/m/n/10 r
 ...............\TU/lmr/m/n/10 o
@@ -317,6 +326,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 n
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -359,6 +369,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+2.05)x61.61, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 K
 ...............\TU/lmr/m/n/10 e
 ...............\TU/lmr/m/n/10 y
@@ -373,6 +384,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 e
 ...............\TU/lmr/m/n/10 m
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -417,6 +429,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+1.94)x100.06999, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 C
 .............\TU/lmr/m/n/10 o
 .............\TU/lmr/m/n/10 m
@@ -446,6 +459,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 l
 .............\TU/lmr/m/n/10 s
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -488,6 +502,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+2.06)x73.15, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 T
 ...............\kern-0.83 (font)
 ...............\TU/lmr/m/n/10 u
@@ -509,6 +524,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 n
 ...............\TU/lmr/m/n/10 e
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -551,6 +567,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.16+0.22)x112.50002, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 R
 ...............\TU/lmr/m/n/10 a
 ...............\TU/lmr/m/n/10 n
@@ -579,6 +596,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 n
 ...............\TU/lmr/m/n/10 e
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -621,6 +639,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+0.22)x34.53, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 C
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 r
@@ -631,6 +650,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 t
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -673,6 +693,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.83+2.06)x114.47, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 B
 ...............\TU/lmr/m/n/10 i
 ...............\discretionary (penalty 50)
@@ -707,6 +728,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 a
 ...............\TU/lmr/m/n/10 m
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -749,6 +771,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+0.22)x72.3, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 O
 ...............\TU/lmr/m/n/10 r
 ...............\discretionary (penalty 50)
@@ -771,6 +794,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 n
 ...............\TU/lmr/m/n/10 e
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -813,6 +837,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.83+2.06)x98.12, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 P
 ...............\TU/lmr/m/n/10 r
 ...............\TU/lmr/m/n/10 o
@@ -837,6 +862,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 g
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 c
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -881,6 +907,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+2.06)x98.98, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 M
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 a
@@ -910,6 +937,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 .............\TU/lmr/m/n/10 t
 .............\kern-0.28 (font)
 .............\TU/lmr/m/n/10 y
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -952,6 +980,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+2.05)x94.02, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 C
 ...............\TU/lmr/m/n/10 o
 ...............\TU/lmr/m/n/10 m
@@ -978,6 +1007,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 r
 ...............\TU/lmr/m/n/10 e
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1020,6 +1050,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+2.06)x100.95, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 C
 ...............\TU/lmr/m/n/10 l
 ...............\TU/lmr/m/n/10 a
@@ -1053,6 +1084,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 t
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 y
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1095,6 +1127,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+2.06)x101.98, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 C
 ...............\TU/lmr/m/n/10 o
 ...............\TU/lmr/m/n/10 m
@@ -1124,6 +1157,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 t
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 y
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1166,6 +1200,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+2.06)x99.67, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 D
 ...............\TU/lmr/m/n/10 e
 ...............\discretionary (penalty 50)
@@ -1196,6 +1231,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 t
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 y
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1240,6 +1276,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+2.06)x76.06999, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 S
 .............\TU/lmr/m/n/10 o
 .............\TU/lmr/m/n/10 l
@@ -1260,6 +1297,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 .............\TU/lmr/m/n/10 e
 .............\TU/lmr/m/n/10 m
 .............\TU/lmr/m/n/10 s
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1302,6 +1340,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.16+2.06)x77.45, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 E
 ...............\TU/lmr/m/n/10 x
 ...............\discretionary (penalty 50)
@@ -1324,6 +1363,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 h
 ...............\TU/lmr/m/n/10 m
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1366,6 +1406,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(6.94+0.22)x66.26, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 R
 ...............\TU/lmr/m/n/10 a
 ...............\TU/lmr/m/n/10 n
@@ -1385,6 +1426,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 o
 ...............\TU/lmr/m/n/10 n
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1427,6 +1469,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.16+2.06)x125.42, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 F
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 x
@@ -1460,6 +1503,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 h
 ...............\TU/lmr/m/n/10 m
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1502,6 +1546,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+1.94)x94.34999, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 P
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 a
@@ -1533,6 +1578,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 o
 ...............\TU/lmr/m/n/10 n
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1575,6 +1621,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.05+0.22)x73.29999, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 P
 ...............\kern-0.28 (font)
 ...............\TU/lmr/m/n/10 a
@@ -1599,6 +1646,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 o
 ...............\TU/lmr/m/n/10 n
 ...............\TU/lmr/m/n/10 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1641,6 +1689,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(7.16+1.94)x65.87999, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/10 A
 ...............\TU/lmr/m/n/10 p
 ...............\discretionary (penalty 50)
@@ -1663,6 +1712,7 @@ TEST 1: pgfmanual-en-tutorial-map-1
 ...............\TU/lmr/m/n/10 i
 ...............\TU/lmr/m/n/10 o
 ...............\TU/lmr/m/n/10 n
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1734,6 +1784,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.632+1.632)x101.24803, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/8 C
 ...........\TU/lmr/m/n/8 o
 ...........\TU/lmr/m/n/8 m
@@ -1769,6 +1820,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...........\TU/lmr/m/n/8 t
 ...........\kern-0.24 (font)
 ...........\TU/lmr/m/n/8 y
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1799,6 +1851,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.632+1.552)x93.16002, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 C
 .............\TU/lmr/m/n/8 o
 .............\TU/lmr/m/n/8 m
@@ -1829,6 +1882,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 .............\TU/lmr/m/n/8 e
 .............\TU/lmr/m/n/8 m
 .............\TU/lmr/m/n/8 s
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1871,6 +1925,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+0.08)x68.432, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 P
 ...............\TU/lmr/m/n/8 r
 ...............\TU/lmr/m/n/8 o
@@ -1891,6 +1946,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 r
 ...............\TU/lmr/m/n/8 e
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1933,6 +1989,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+1.552)x63.00002, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 P
 ...............\TU/lmr/m/n/8 r
 ...............\TU/lmr/m/n/8 o
@@ -1953,6 +2010,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 c
 ...............\TU/lmr/m/n/8 t
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -1995,6 +2053,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+0.08)x66.60802, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 P
 ...............\TU/lmr/m/n/8 r
 ...............\TU/lmr/m/n/8 o
@@ -2014,6 +2073,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 n
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2056,6 +2116,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+1.632)x52.32802, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 K
 ...............\TU/lmr/m/n/8 e
 ...............\TU/lmr/m/n/8 y
@@ -2070,6 +2131,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 e
 ...............\TU/lmr/m/n/8 m
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2114,6 +2176,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.632+1.552)x85.00803, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 C
 .............\TU/lmr/m/n/8 o
 .............\TU/lmr/m/n/8 m
@@ -2143,6 +2206,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 .............\TU/lmr/m/n/8 e
 .............\TU/lmr/m/n/8 l
 .............\TU/lmr/m/n/8 s
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2185,6 +2249,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+1.64)x62.112, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 T
 ...............\kern-0.712 (font)
 ...............\TU/lmr/m/n/8 u
@@ -2206,6 +2271,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 n
 ...............\TU/lmr/m/n/8 e
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2248,6 +2314,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+0.168)x95.59201, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 R
 ...............\TU/lmr/m/n/8 a
 ...............\TU/lmr/m/n/8 n
@@ -2276,6 +2343,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 n
 ...............\TU/lmr/m/n/8 e
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2318,6 +2386,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+0.168)x29.32, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 C
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 r
@@ -2328,6 +2397,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 t
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2370,6 +2440,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+1.64)x97.22404, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 B
 ...............\TU/lmr/m/n/8 i
 ...............\discretionary (penalty 50)
@@ -2404,6 +2475,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 a
 ...............\TU/lmr/m/n/8 m
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2446,6 +2518,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+0.168)x61.408, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 O
 ...............\TU/lmr/m/n/8 r
 ...............\discretionary (penalty 50)
@@ -2468,6 +2541,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 n
 ...............\TU/lmr/m/n/8 e
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2510,6 +2584,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+1.64)x83.328, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 P
 ...............\TU/lmr/m/n/8 r
 ...............\TU/lmr/m/n/8 o
@@ -2534,6 +2609,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 g
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 c
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2578,6 +2654,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.632+1.64)x84.07202, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 M
 .............\TU/lmr/m/n/8 e
 .............\TU/lmr/m/n/8 a
@@ -2607,6 +2684,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 .............\TU/lmr/m/n/8 t
 .............\kern-0.24 (font)
 .............\TU/lmr/m/n/8 y
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2649,6 +2727,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+1.632)x79.87202, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 C
 ...............\TU/lmr/m/n/8 o
 ...............\TU/lmr/m/n/8 m
@@ -2675,6 +2754,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 r
 ...............\TU/lmr/m/n/8 e
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2717,6 +2797,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+1.64)x85.77605, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 C
 ...............\TU/lmr/m/n/8 l
 ...............\TU/lmr/m/n/8 a
@@ -2750,6 +2831,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 t
 ...............\kern-0.24 (font)
 ...............\TU/lmr/m/n/8 y
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2792,6 +2874,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+1.64)x86.62402, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 C
 ...............\TU/lmr/m/n/8 o
 ...............\TU/lmr/m/n/8 m
@@ -2821,6 +2904,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 t
 ...............\kern-0.24 (font)
 ...............\TU/lmr/m/n/8 y
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2863,6 +2947,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+1.64)x84.66403, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 D
 ...............\TU/lmr/m/n/8 e
 ...............\discretionary (penalty 50)
@@ -2893,6 +2978,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 t
 ...............\kern-0.24 (font)
 ...............\TU/lmr/m/n/8 y
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -2937,6 +3023,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.632+1.64)x64.60802, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 S
 .............\TU/lmr/m/n/8 o
 .............\TU/lmr/m/n/8 l
@@ -2957,6 +3044,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 .............\TU/lmr/m/n/8 e
 .............\TU/lmr/m/n/8 m
 .............\TU/lmr/m/n/8 s
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2999,6 +3087,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+1.64)x65.78401, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 E
 ...............\TU/lmr/m/n/8 x
 ...............\discretionary (penalty 50)
@@ -3021,6 +3110,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 h
 ...............\TU/lmr/m/n/8 m
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3063,6 +3153,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+0.168)x56.28801, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 R
 ...............\TU/lmr/m/n/8 a
 ...............\TU/lmr/m/n/8 n
@@ -3082,6 +3173,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 o
 ...............\TU/lmr/m/n/8 n
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3124,6 +3216,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+1.64)x106.50401, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 F
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 x
@@ -3157,6 +3250,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 h
 ...............\TU/lmr/m/n/8 m
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3199,6 +3293,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+1.552)x80.128, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 P
 ...............\kern-0.24 (font)
 ...............\TU/lmr/m/n/8 a
@@ -3230,6 +3325,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 o
 ...............\TU/lmr/m/n/8 n
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3272,6 +3368,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+0.168)x62.24, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 P
 ...............\kern-0.24 (font)
 ...............\TU/lmr/m/n/8 a
@@ -3296,6 +3393,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 o
 ...............\TU/lmr/m/n/8 n
 ...............\TU/lmr/m/n/8 s
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3338,6 +3436,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+1.552)x55.936, direction TLT
+...............\begindir TLT
 ...............\TU/lmr/m/n/8 A
 ...............\TU/lmr/m/n/8 p
 ...............\discretionary (penalty 50)
@@ -3360,6 +3459,7 @@ TEST 2: pgfmanual-en-tutorial-map-2
 ...............\TU/lmr/m/n/8 i
 ...............\TU/lmr/m/n/8 o
 ...............\TU/lmr/m/n/8 n
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3431,6 +3531,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.97+14.0)x76.82234, direction TLT
+...........\begindir TLT
 ...........\vbox(6.97+14.0)x76.82234, direction TLT
 ............\hbox(6.97+1.94)x76.82234, glue set 0.88118fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -3483,6 +3584,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3513,6 +3615,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+12.11)x76.82234, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+12.11)x76.82234, direction TLT
 ..............\hbox(7.05+1.94)x76.82234, glue set 5.62617fil, direction TLT
 ...............\glue(\leftskip) 0.0 plus 1.0fil
@@ -3560,6 +3663,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 1.0fil
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3602,6 +3706,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.58)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x56.9055, direction TLT
 ................\hbox(5.552+0.08)x56.9055, glue set 12.81276fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -3639,6 +3744,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3681,6 +3787,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+11.052)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+11.052)x56.9055, direction TLT
 ................\hbox(5.552+0.08)x56.9055, glue set 12.81276fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -3718,6 +3825,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3760,6 +3868,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.58)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x56.9055, direction TLT
 ................\hbox(5.552+0.08)x56.9055, glue set 12.81276fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -3796,6 +3905,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3838,6 +3948,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+1.632)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+1.632)x56.9055, direction TLT
 ................\hbox(5.552+1.632)x56.9055, glue set 2.28874fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -3865,6 +3976,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -3909,6 +4021,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+12.11)x76.82234, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+12.11)x76.82234, direction TLT
 ..............\hbox(7.05+1.94)x76.82234, glue set 5.62617fil, direction TLT
 ...............\glue(\leftskip) 0.0 plus 1.0fil
@@ -3955,6 +4068,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 1.0fil
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3997,6 +4111,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.408+9.58)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.408+9.58)x56.9055, direction TLT
 ................\hbox(5.408+1.64)x56.9055, glue set 16.06076fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4035,6 +4150,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4077,6 +4193,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+19.08)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+19.08)x56.9055, direction TLT
 ................\hbox(5.552+0.168)x56.9055, glue set 11.40076fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4126,6 +4243,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4168,6 +4286,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+0.168)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+0.168)x56.9055, direction TLT
 ................\hbox(5.632+0.168)x56.9055, glue set 13.79276fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4191,6 +4310,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4233,6 +4353,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+20.64)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+20.64)x56.9055, direction TLT
 ................\hbox(5.464+1.632)x56.9055, glue set 15.88075fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4288,6 +4409,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4330,6 +4452,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+9.58)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+9.58)x56.9055, direction TLT
 ................\hbox(5.632+0.168)x56.9055, glue set 16.41275fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4369,6 +4492,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4411,6 +4535,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+11.14)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+11.14)x56.9055, direction TLT
 ................\hbox(5.464+1.64)x56.9055, glue set 3.13275fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4452,6 +4577,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4496,6 +4622,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.83+14.05)x76.82234, direction TLT
+.............\begindir TLT
 .............\vbox(6.83+14.05)x76.82234, direction TLT
 ..............\hbox(6.83+2.06)x76.82234, glue set 15.72618fil, direction TLT
 ...............\glue(\leftskip) 0.0 plus 1.0fil
@@ -4542,6 +4669,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 1.0fil
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4584,6 +4712,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+9.58)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+9.58)x56.9055, direction TLT
 ................\hbox(5.632+1.632)x56.9055, glue set 7.09274fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4627,6 +4756,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4669,6 +4799,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+11.132)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+11.132)x56.9055, direction TLT
 ................\hbox(5.632+1.64)x56.9055, glue set 8.34074fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4719,6 +4850,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4761,6 +4893,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+11.132)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+11.132)x56.9055, direction TLT
 ................\hbox(5.632+1.64)x56.9055, glue set 7.91675fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4807,6 +4940,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4849,6 +4983,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+11.132)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+11.132)x56.9055, direction TLT
 ................\hbox(5.552+1.64)x56.9055, glue set 8.89674fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -4896,6 +5031,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -4940,6 +5076,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(7.05+2.06)x76.82234, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+2.06)x76.82234, direction TLT
 ..............\hbox(7.05+2.06)x76.82234, glue set 0.37617fil, direction TLT
 ...............\glue(\leftskip) 0.0 plus 1.0fil
@@ -4973,6 +5110,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 1.0fil
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5015,6 +5153,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.44+11.14)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.44+11.14)x56.9055, direction TLT
 ................\hbox(5.44+0.08)x56.9055, glue set 17.65276fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -5054,6 +5193,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5096,6 +5236,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+0.168)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+0.168)x56.9055, direction TLT
 ................\hbox(5.552+0.168)x56.9055, glue set 0.30875fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -5128,6 +5269,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5170,6 +5312,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+20.64)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+20.64)x56.9055, direction TLT
 ................\hbox(5.552+0.08)x56.9055, glue set 16.59274fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -5224,6 +5367,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5266,6 +5410,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+11.052)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+11.052)x56.9055, direction TLT
 ................\hbox(5.552+0.08)x56.9055, glue set 14.34875fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -5314,6 +5459,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5356,6 +5502,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.668)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.668)x56.9055, direction TLT
 ................\hbox(5.552+0.08)x56.9055, glue set 15.76476fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -5397,6 +5544,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5439,6 +5587,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+1.552)x56.9055, direction TLT
+...............\begindir TLT
 ...............\vbox(5.712+1.552)x56.9055, direction TLT
 ................\hbox(5.712+1.552)x56.9055, glue set 0.48476fil, direction TLT
 .................\glue(\leftskip) 0.0 plus 1.0fil
@@ -5474,6 +5623,7 @@ TEST 3: pgfmanual-en-tutorial-map-3
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 1.0fil
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5556,6 +5706,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.448+16.448)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.448+16.448)x99.58464, direction TLT
 ............\hbox(8.448+2.328)x99.58464, glue set 0.46944, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -5608,6 +5759,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5648,6 +5800,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+11.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+11.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -5697,6 +5850,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5783,6 +5937,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -5820,6 +5975,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -5908,6 +6064,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+11.052)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+11.052)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -5945,6 +6102,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6033,6 +6191,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -6069,6 +6228,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6157,6 +6317,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+9.58)x42.67912, direction TLT
 ................\hbox(5.464+1.632)x42.67912, glue set 0.86922, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -6188,6 +6349,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6279,6 +6441,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+11.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+11.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -6327,6 +6490,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6413,6 +6577,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.408+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.408+9.58)x42.67912, direction TLT
 ................\hbox(5.408+1.64)x42.67912, glue set 0.55922, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -6451,6 +6616,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6539,6 +6705,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+19.08)x42.67912, direction TLT
 ................\hbox(5.552+0.168)x42.67912, glue set 0.26797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -6588,6 +6755,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6676,6 +6844,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+0.168)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+0.168)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.41747, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -6699,6 +6868,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6787,6 +6957,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+20.64)x42.67912, direction TLT
 ................\hbox(5.464+1.632)x42.67912, glue set 0.54797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -6842,6 +7013,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -6930,6 +7102,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+9.58)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.58122, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -6969,6 +7142,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -7057,6 +7231,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+11.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+11.14)x42.67912, direction TLT
 ................\hbox(5.464+1.64)x42.67912, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -7100,6 +7275,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -7191,6 +7367,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.147+12.845)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.147+12.845)x56.9055, direction TLT
 ..............\hbox(6.147+1.854)x56.9055, glue set 0.4152, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -7237,6 +7414,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7323,6 +7501,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+19.08)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.69948, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -7371,6 +7550,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -7459,6 +7639,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+20.632)x42.67912, direction TLT
 ................\hbox(5.632+1.64)x42.67912, glue set 0.07672, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -7514,6 +7695,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -7602,6 +7784,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+20.632)x42.67912, direction TLT
 ................\hbox(5.632+1.64)x42.67912, glue set 0.05022, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -7653,6 +7836,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -7741,6 +7925,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+20.632)x42.67912, direction TLT
 ................\hbox(5.552+1.64)x42.67912, glue set 0.11147, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -7793,6 +7978,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -7884,6 +8070,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+11.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+11.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.854)x56.9055, glue set 0.7597, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -7921,6 +8108,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -8007,6 +8195,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.44+11.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.44+11.14)x42.67912, direction TLT
 ................\hbox(5.44+0.08)x42.67912, glue set 0.65872, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -8046,6 +8235,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -8134,6 +8324,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+0.168)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+0.168)x42.67912, direction TLT
 ................\hbox(5.552+0.168)x42.67912, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -8168,6 +8359,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -8256,6 +8448,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+20.64)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.59247, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -8310,6 +8503,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -8398,6 +8592,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+19.08)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.45222, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -8451,6 +8646,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -8539,6 +8735,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.668)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.668)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.54073, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -8580,6 +8777,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -8668,6 +8866,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+1.552)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.712+1.552)x42.67912, direction TLT
 ................\hbox(5.712+1.552)x42.67912, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -8705,6 +8904,7 @@ TEST 4: pgfmanual-en-tutorial-map-4
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -8835,6 +9035,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.448+16.448)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.448+16.448)x99.58464, direction TLT
 ............\hbox(8.448+2.328)x99.58464, glue set 0.46944, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -8888,6 +9089,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8928,6 +9130,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+22.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+22.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, glue set 0.68146, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -8981,6 +9184,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -9067,6 +9271,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -9105,6 +9310,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -9193,6 +9399,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+11.052)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+11.052)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -9231,6 +9438,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -9319,6 +9527,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -9356,6 +9565,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -9444,6 +9654,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+9.58)x42.67912, direction TLT
 ................\hbox(5.464+1.632)x42.67912, glue set 0.86922, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -9476,6 +9687,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -9567,6 +9779,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+11.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+11.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, glue set 0.45296, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -9615,6 +9828,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -9701,6 +9915,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.408+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.408+9.58)x42.67912, direction TLT
 ................\hbox(5.408+1.64)x42.67912, glue set 0.55922, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -9740,6 +9955,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -9828,6 +10044,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+19.08)x42.67912, direction TLT
 ................\hbox(5.552+0.168)x42.67912, glue set 0.26797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -9878,6 +10095,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -9966,6 +10184,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+0.168)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+0.168)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.41747, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -9990,6 +10209,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -10078,6 +10298,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+20.64)x42.67912, direction TLT
 ................\hbox(5.464+1.632)x42.67912, glue set 0.54797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -10134,6 +10355,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -10222,6 +10444,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+9.58)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.58122, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -10262,6 +10485,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -10350,6 +10574,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.464+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+20.64)x42.67912, direction TLT
 ................\hbox(5.464+1.64)x42.67912, glue set 0.23798, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -10397,6 +10622,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -10488,6 +10714,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.147+12.845)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.147+12.845)x56.9055, direction TLT
 ..............\hbox(6.147+1.854)x56.9055, glue set 0.4152, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -10535,6 +10762,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -10621,6 +10849,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+19.08)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.69948, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -10670,6 +10899,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -10758,6 +10988,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+20.632)x42.67912, direction TLT
 ................\hbox(5.632+1.64)x42.67912, glue set 0.07672, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -10814,6 +11045,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -10902,6 +11134,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.632+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+20.632)x42.67912, direction TLT
 ................\hbox(5.632+1.64)x42.67912, glue set 0.05022, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -10954,6 +11187,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -11042,6 +11276,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+20.632)x42.67912, direction TLT
 ................\hbox(5.552+1.64)x42.67912, glue set 0.11147, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -11095,6 +11330,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -11186,6 +11422,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.345+11.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+11.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.854)x56.9055, glue set 0.7597, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -11224,6 +11461,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -11310,6 +11548,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.44+11.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.44+11.14)x42.67912, direction TLT
 ................\hbox(5.44+0.08)x42.67912, glue set 0.65872, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -11350,6 +11589,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -11438,6 +11678,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.168)x42.67912, glue set 0.26797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -11476,6 +11717,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -11564,6 +11806,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+20.64)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.59247, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -11619,6 +11862,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -11707,6 +11951,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+19.08)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.45222, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -11761,6 +12006,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -11849,6 +12095,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.552+9.668)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.668)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.54073, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -11891,6 +12138,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -11979,6 +12227,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(5.712+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.712+9.58)x42.67912, direction TLT
 ................\hbox(5.712+1.552)x42.67912, glue set 0.38222, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -12020,6 +12269,7 @@ TEST 5: pgfmanual-en-tutorial-map-5
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -12158,6 +12408,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.448+16.448)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.448+16.448)x99.58464, direction TLT
 ............\hbox(8.448+2.328)x99.58464, glue set 0.46944, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -12213,6 +12464,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12253,6 +12505,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.345+22.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+22.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, glue set 0.68146, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -12308,6 +12561,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -12402,8 +12656,10 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -12443,6 +12699,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -12483,6 +12740,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -12571,6 +12829,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+11.052)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+11.052)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -12611,6 +12870,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -12699,6 +12959,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.35622, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -12738,6 +12999,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -12826,6 +13088,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.464+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+9.58)x42.67912, direction TLT
 ................\hbox(5.464+1.632)x42.67912, glue set 0.86922, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -12860,6 +13123,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -12950,6 +13214,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.345+11.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+11.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.746)x56.9055, glue set 0.45296, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -13000,6 +13265,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -13094,8 +13360,10 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -13135,6 +13403,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.408+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.408+9.58)x42.67912, direction TLT
 ................\hbox(5.408+1.64)x42.67912, glue set 0.55922, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -13176,6 +13445,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -13264,6 +13534,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+19.08)x42.67912, direction TLT
 ................\hbox(5.552+0.168)x42.67912, glue set 0.26797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -13316,6 +13587,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -13404,6 +13676,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.632+0.168)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+0.168)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.41747, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -13430,6 +13703,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -13518,6 +13792,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.464+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+20.64)x42.67912, direction TLT
 ................\hbox(5.464+1.632)x42.67912, glue set 0.54797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -13576,6 +13851,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -13664,6 +13940,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.632+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+9.58)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.58122, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -13706,6 +13983,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -13794,6 +14072,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.464+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.464+20.64)x42.67912, direction TLT
 ................\hbox(5.464+1.64)x42.67912, glue set 0.23798, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -13843,6 +14122,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -13933,6 +14213,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.147+12.845)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.147+12.845)x56.9055, direction TLT
 ..............\hbox(6.147+1.854)x56.9055, glue set 0.4152, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -13982,6 +14263,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -14076,8 +14358,10 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -14117,6 +14401,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.632+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+19.08)x42.67912, direction TLT
 ................\hbox(5.632+0.168)x42.67912, glue set 0.69948, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -14168,6 +14453,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -14256,6 +14542,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.632+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+20.632)x42.67912, direction TLT
 ................\hbox(5.632+1.64)x42.67912, glue set 0.07672, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -14314,6 +14601,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -14402,6 +14690,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.632+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.632+20.632)x42.67912, direction TLT
 ................\hbox(5.632+1.64)x42.67912, glue set 0.05022, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -14456,6 +14745,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -14544,6 +14834,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+20.632)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+20.632)x42.67912, direction TLT
 ................\hbox(5.552+1.64)x42.67912, glue set 0.11147, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -14599,6 +14890,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -14689,6 +14981,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.345+11.099)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.345+11.099)x56.9055, direction TLT
 ..............\hbox(6.345+1.854)x56.9055, glue set 0.7597, direction TLT
 ...............\glue(\leftskip) 0.0 plus 18.0
@@ -14729,6 +15022,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 18.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -14823,8 +15117,10 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -14864,6 +15160,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.44+11.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.44+11.14)x42.67912, direction TLT
 ................\hbox(5.44+0.08)x42.67912, glue set 0.65872, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -14906,6 +15203,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -14994,6 +15292,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.58)x42.67912, direction TLT
 ................\hbox(5.552+0.168)x42.67912, glue set 0.26797, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -15034,6 +15333,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -15122,6 +15422,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+20.64)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+20.64)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.59247, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -15179,6 +15480,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -15267,6 +15569,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+19.08)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+19.08)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.45222, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -15323,6 +15626,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -15411,6 +15715,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.552+9.668)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.552+9.668)x42.67912, direction TLT
 ................\hbox(5.552+0.08)x42.67912, glue set 0.54073, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -15455,6 +15760,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -15543,6 +15849,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(5.712+9.58)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(5.712+9.58)x42.67912, direction TLT
 ................\hbox(5.712+1.552)x42.67912, glue set 0.38222, direction TLT
 .................\glue(\leftskip) 0.0 plus 16.0
@@ -15586,6 +15893,7 @@ TEST 6: pgfmanual-en-tutorial-map-6
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 16.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -15736,6 +16044,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.46+14.264)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.46+14.264)x99.58464, direction TLT
 ............\hbox(8.46+0.264)x99.58464, glue set 0.15518, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -15792,6 +16101,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15851,6 +16161,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+24.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+24.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.49313, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -15909,6 +16220,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -16004,8 +16316,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -16064,6 +16378,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -16104,6 +16419,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -16211,6 +16527,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+9.358)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+9.358)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -16251,6 +16568,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -16358,6 +16676,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -16397,6 +16716,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -16491,8 +16811,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -16552,6 +16874,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+1.428)x42.67912, glue set 0.24568, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -16587,6 +16910,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -16696,6 +17020,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+24.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+24.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.49313, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -16751,6 +17076,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -16847,8 +17173,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -16907,6 +17235,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.732+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.732+8.07)x42.67912, direction TLT
 ................\hbox(4.732+1.435)x42.67912, glue set 0.69325, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -16948,6 +17277,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -17055,6 +17385,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+16.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+16.07)x42.67912, direction TLT
 ................\hbox(4.858+0.14)x42.67912, glue set 0.386, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -17107,6 +17438,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -17201,8 +17533,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -17262,6 +17596,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+0.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+0.14)x42.67912, direction TLT
 ................\hbox(4.921+0.14)x42.67912, glue set 0.53775, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -17288,6 +17623,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -17395,6 +17731,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.781+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.781+17.435)x42.67912, direction TLT
 ................\hbox(4.781+1.428)x42.67912, glue set 0.68225, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -17453,6 +17790,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -17547,8 +17885,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -17608,6 +17948,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+8.07)x42.67912, direction TLT
 ................\hbox(4.921+0.14)x42.67912, glue set 0.7165, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -17650,6 +17991,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -17757,6 +18099,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.781+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.781+17.435)x42.67912, direction TLT
 ................\hbox(4.781+1.435)x42.67912, glue set 0.3515, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -17806,6 +18149,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -17915,6 +18259,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.83+24.0)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.83+24.0)x56.9055, direction TLT
 ..............\hbox(6.83+0.14)x56.9055, glue set 0.0754, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -17968,6 +18313,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -18063,8 +18409,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -18123,6 +18471,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+8.07)x42.67912, direction TLT
 ................\hbox(4.921+1.428)x42.67912, glue set 0.09326, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -18169,6 +18518,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -18276,6 +18626,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.928+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.928+9.428)x42.67912, direction TLT
 ................\hbox(4.928+1.435)x42.67912, glue set 0.17076, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -18329,6 +18680,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -18436,6 +18788,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+9.428)x42.67912, direction TLT
 ................\hbox(4.921+1.435)x42.67912, glue set 0.151, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -18485,6 +18838,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -18592,6 +18946,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+9.428)x42.67912, direction TLT
 ................\hbox(4.858+1.435)x42.67912, glue set 0.21126, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -18642,6 +18997,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -18736,8 +19092,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -18799,6 +19157,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+12.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+12.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.46263, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -18841,6 +19200,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -18935,8 +19295,10 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -18995,6 +19357,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.753+9.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.753+9.435)x42.67912, direction TLT
 ................\hbox(4.753+0.07)x42.67912, glue set 0.8015, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -19037,6 +19400,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -19144,6 +19508,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.14)x42.67912, glue set 0.386, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -19184,6 +19549,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -19291,6 +19657,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+17.435)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.72826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -19348,6 +19715,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -19455,6 +19823,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+16.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+16.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.57475, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -19511,6 +19880,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -19618,6 +19988,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.14)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.671, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -19662,6 +20033,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -19769,6 +20141,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.991+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.991+8.07)x42.67912, direction TLT
 ................\hbox(4.991+1.358)x42.67912, glue set 0.50575, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -19812,6 +20185,7 @@ TEST 7: pgfmanual-en-tutorial-map-7
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -19973,6 +20347,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.46+14.264)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.46+14.264)x99.58464, direction TLT
 ............\hbox(8.46+0.264)x99.58464, glue set 0.15518, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -20029,6 +20404,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -20089,6 +20465,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+24.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+24.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.49313, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -20147,6 +20524,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -20242,8 +20620,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -20303,6 +20683,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -20343,6 +20724,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -20451,6 +20833,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+9.358)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+9.358)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -20491,6 +20874,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -20599,6 +20983,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -20638,6 +21023,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -20732,8 +21118,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -20794,6 +21182,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+1.428)x42.67912, glue set 0.24568, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -20829,6 +21218,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -20939,6 +21329,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+24.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+24.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.49313, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -20994,6 +21385,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -21090,8 +21482,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -21151,6 +21545,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.732+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.732+8.07)x42.67912, direction TLT
 ................\hbox(4.732+1.435)x42.67912, glue set 0.69325, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -21192,6 +21587,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -21300,6 +21696,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+16.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+16.07)x42.67912, direction TLT
 ................\hbox(4.858+0.14)x42.67912, glue set 0.386, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -21352,6 +21749,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -21446,8 +21844,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -21508,6 +21908,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+0.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+0.14)x42.67912, direction TLT
 ................\hbox(4.921+0.14)x42.67912, glue set 0.53775, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -21534,6 +21935,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -21642,6 +22044,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.781+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.781+17.435)x42.67912, direction TLT
 ................\hbox(4.781+1.428)x42.67912, glue set 0.68225, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -21700,6 +22103,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -21794,8 +22198,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -21856,6 +22262,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+8.07)x42.67912, direction TLT
 ................\hbox(4.921+0.14)x42.67912, glue set 0.7165, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -21898,6 +22305,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -22006,6 +22414,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.781+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.781+17.435)x42.67912, direction TLT
 ................\hbox(4.781+1.435)x42.67912, glue set 0.3515, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -22055,6 +22464,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -22165,6 +22575,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.83+24.0)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.83+24.0)x56.9055, direction TLT
 ..............\hbox(6.83+0.14)x56.9055, glue set 0.0754, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -22218,6 +22629,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -22313,8 +22725,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -22374,6 +22788,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+8.07)x42.67912, direction TLT
 ................\hbox(4.921+1.428)x42.67912, glue set 0.09326, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -22420,6 +22835,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -22528,6 +22944,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.928+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.928+9.428)x42.67912, direction TLT
 ................\hbox(4.928+1.435)x42.67912, glue set 0.17076, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -22581,6 +22998,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -22689,6 +23107,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+9.428)x42.67912, direction TLT
 ................\hbox(4.921+1.435)x42.67912, glue set 0.151, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -22738,6 +23157,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -22846,6 +23266,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+9.428)x42.67912, direction TLT
 ................\hbox(4.858+1.435)x42.67912, glue set 0.21126, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -22896,6 +23317,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -22990,8 +23412,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -23054,6 +23478,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+12.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+12.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.46263, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -23096,6 +23521,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -23190,8 +23616,10 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -23251,6 +23679,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.753+9.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.753+9.435)x42.67912, direction TLT
 ................\hbox(4.753+0.07)x42.67912, glue set 0.8015, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -23293,6 +23722,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -23401,6 +23831,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.14)x42.67912, glue set 0.386, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -23441,6 +23872,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -23549,6 +23981,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+17.435)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.72826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -23606,6 +24039,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -23714,6 +24148,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+16.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+16.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.57475, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -23770,6 +24205,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -23878,6 +24314,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.14)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.671, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -23922,6 +24359,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -24030,6 +24468,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.991+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.991+8.07)x42.67912, direction TLT
 ................\hbox(4.991+1.358)x42.67912, glue set 0.50575, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -24073,6 +24512,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -24171,6 +24611,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.525+66.97)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(3.525+66.97)x99.58464, direction TLT
 ............\hbox(3.525+0.97)x99.58464, glue set 21.57298fil, direction TLT
 .............\localpar
@@ -24444,6 +24885,7 @@ TEST 8: pgfmanual-en-tutorial-map-9
 .............\glue(\parfillskip) 0.0 plus 1.0fil
 .............\glue(\rightskip) 0.0 plus 1.0fil
 ............\penalty -51
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24556,6 +24998,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.46+14.264)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.46+14.264)x99.58464, direction TLT
 ............\hbox(8.46+0.264)x99.58464, glue set 0.15518, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -24612,6 +25055,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -24672,6 +25116,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+24.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+24.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.49313, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -24730,6 +25175,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -24825,8 +25271,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -24886,6 +25334,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -24926,6 +25375,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -25034,6 +25484,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+9.358)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+9.358)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -25074,6 +25525,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -25182,6 +25634,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.47826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -25221,6 +25674,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -25315,8 +25769,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -25377,6 +25833,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+1.428)x42.67912, glue set 0.24568, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -25412,6 +25869,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -25522,6 +25980,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+24.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+24.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.49313, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -25577,6 +26036,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -25673,8 +26133,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -25734,6 +26196,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.732+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.732+8.07)x42.67912, direction TLT
 ................\hbox(4.732+1.435)x42.67912, glue set 0.69325, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -25775,6 +26238,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -25883,6 +26347,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+16.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+16.07)x42.67912, direction TLT
 ................\hbox(4.858+0.14)x42.67912, glue set 0.386, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -25935,6 +26400,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -26029,8 +26495,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -26091,6 +26559,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+0.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+0.14)x42.67912, direction TLT
 ................\hbox(4.921+0.14)x42.67912, glue set 0.53775, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -26117,6 +26586,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -26225,6 +26695,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.781+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.781+17.435)x42.67912, direction TLT
 ................\hbox(4.781+1.428)x42.67912, glue set 0.68225, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -26283,6 +26754,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -26377,8 +26849,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -26439,6 +26913,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+8.07)x42.67912, direction TLT
 ................\hbox(4.921+0.14)x42.67912, glue set 0.7165, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -26481,6 +26956,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -26589,6 +27065,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.781+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.781+17.435)x42.67912, direction TLT
 ................\hbox(4.781+1.435)x42.67912, glue set 0.3515, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -26638,6 +27115,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -26748,6 +27226,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(6.83+24.0)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(6.83+24.0)x56.9055, direction TLT
 ..............\hbox(6.83+0.14)x56.9055, glue set 0.0754, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -26801,6 +27280,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -26896,8 +27376,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -26957,6 +27439,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+8.07)x42.67912, direction TLT
 ................\hbox(4.921+1.428)x42.67912, glue set 0.09326, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -27003,6 +27486,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -27111,6 +27595,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.928+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.928+9.428)x42.67912, direction TLT
 ................\hbox(4.928+1.435)x42.67912, glue set 0.17076, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -27164,6 +27649,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -27272,6 +27758,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.921+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.921+9.428)x42.67912, direction TLT
 ................\hbox(4.921+1.435)x42.67912, glue set 0.151, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -27321,6 +27808,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -27429,6 +27917,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+9.428)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+9.428)x42.67912, direction TLT
 ................\hbox(4.858+1.435)x42.67912, glue set 0.21126, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -27479,6 +27968,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -27573,8 +28063,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..........\glue -50.1875
 ..........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 ...........\hbox(100.375+0.0)x100.375, direction TLT
+............\begindir TLT
 ............\hbox(100.375+0.0)x100.375, direction TLT
 .............\box(100.375+0.0)x100.375
+............\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 ........\glue(\spaceskip) 0.0
@@ -27637,6 +28129,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(7.05+12.14)x56.9055, direction TLT
+.............\begindir TLT
 .............\vbox(7.05+12.14)x56.9055, direction TLT
 ..............\hbox(7.05+0.22)x56.9055, glue set 0.46263, direction TLT
 ...............\glue(\leftskip) 0.0 plus 20.0
@@ -27679,6 +28172,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ...............\penalty 10000
 ...............\glue(\parfillskip) 0.0
 ...............\glue(\rightskip) 0.0 plus 20.0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -27773,8 +28267,10 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\glue(\spaceskip) 0.0
@@ -27834,6 +28330,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.753+9.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.753+9.435)x42.67912, direction TLT
 ................\hbox(4.753+0.07)x42.67912, glue set 0.8015, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -27876,6 +28373,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -27984,6 +28482,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.07)x42.67912, direction TLT
 ................\hbox(4.858+0.14)x42.67912, glue set 0.386, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -28024,6 +28523,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -28132,6 +28632,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+17.435)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+17.435)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.72826, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -28189,6 +28690,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -28297,6 +28799,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+16.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+16.07)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.57475, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -28353,6 +28856,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -28461,6 +28965,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.858+8.14)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.858+8.14)x42.67912, direction TLT
 ................\hbox(4.858+0.07)x42.67912, glue set 0.671, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -28505,6 +29010,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -28613,6 +29119,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..............\pdfliteral origin{1 G }
 ..............\pdfliteral origin{1 g }
 ..............\hbox(4.991+8.07)x42.67912, direction TLT
+...............\begindir TLT
 ...............\vbox(4.991+8.07)x42.67912, direction TLT
 ................\hbox(4.991+1.358)x42.67912, glue set 0.50575, direction TLT
 .................\glue(\leftskip) 0.0 plus 14.0
@@ -28656,6 +29163,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .................\penalty 10000
 .................\glue(\parfillskip) 0.0
 .................\glue(\rightskip) 0.0 plus 14.0
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -28752,6 +29260,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.515+27.03)x113.81102, direction TLT
+...........\begindir TLT
 ...........\vbox(3.515+27.03)x113.81102, direction TLT
 ............\hbox(3.515+0.97)x113.81102, glue set 30.90436fil, direction TLT
 .............\localpar
@@ -29011,6 +29520,7 @@ TEST 9: pgfmanual-en-tutorial-map-11
 .............\glue(\parfillskip) 0.0 plus 1.0fil
 .............\glue(\rightskip) 0.0 plus 1.0fil
 ............\penalty -51
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29138,8 +29648,10 @@ TEST 10: pgfmanual-en-tutorial-map-12
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -29163,8 +29675,10 @@ TEST 10: pgfmanual-en-tutorial-map-12
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -29188,8 +29702,10 @@ TEST 10: pgfmanual-en-tutorial-map-12
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -29213,8 +29729,10 @@ TEST 10: pgfmanual-en-tutorial-map-12
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -29288,6 +29806,7 @@ TEST 10: pgfmanual-en-tutorial-map-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.46+14.264)x99.58464, direction TLT
+...........\begindir TLT
 ...........\vbox(8.46+14.264)x99.58464, direction TLT
 ............\hbox(8.46+0.264)x99.58464, glue set 0.15518, direction TLT
 .............\glue(\leftskip) 0.0 plus 24.0
@@ -29343,6 +29862,7 @@ TEST 10: pgfmanual-en-tutorial-map-12
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 24.0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29401,7 +29921,9 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29430,7 +29952,9 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29459,7 +29983,9 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29488,9 +30014,11 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.385+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 4
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29519,9 +30047,11 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 5
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29550,7 +30080,9 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29579,7 +30111,9 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.38+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29608,7 +30142,9 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29637,7 +30173,9 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29666,8 +30204,10 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29696,10 +30236,12 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 1
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29728,10 +30270,12 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 2
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29760,8 +30304,10 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29790,8 +30336,10 @@ TEST 11: pgfmanual-en-tutorial-map-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.385+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29852,7 +30400,9 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29881,7 +30431,9 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29910,7 +30462,9 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29939,9 +30493,11 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.385+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 4
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -29970,9 +30526,11 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 5
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30001,7 +30559,9 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30030,7 +30590,9 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.38+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30059,7 +30621,9 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30088,7 +30652,9 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30117,8 +30683,10 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30147,10 +30715,12 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 1
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30179,10 +30749,12 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 2
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30211,8 +30783,10 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30241,8 +30815,10 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.385+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30272,6 +30848,7 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.515+0.97)x83.13002, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0.5 0 rg 1 0.5 0 RG}
 ...........\TU/lmr/bx/n/5 C
 ...........\TU/lmr/bx/n/5 o
@@ -30305,6 +30882,7 @@ TEST 12: pgfmanual-en-tutorial-map-15
 ...........\TU/lmr/bx/n/5 s
 ...........\kern0.0 (italic)
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30364,6 +30942,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.444+1.746)x42.43504, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/9 A
 ...........\TU/lmr/m/n/9 p
 ...........\TU/lmr/m/n/9 r
@@ -30374,6 +30953,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ...........\TU/lmr/m/n/9 0
 ...........\TU/lmr/m/n/9 0
 ...........\TU/lmr/m/n/9 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30399,7 +30979,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30428,7 +31010,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30457,7 +31041,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30486,9 +31072,11 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.385+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 4
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30517,9 +31105,11 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 5
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30548,7 +31138,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30577,7 +31169,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.38+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30606,7 +31200,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30635,7 +31231,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30664,8 +31262,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30694,10 +31294,12 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 1
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30726,10 +31328,12 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 2
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30758,8 +31362,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30788,8 +31394,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.385+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30818,8 +31426,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30848,8 +31458,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30878,8 +31490,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.38+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30908,10 +31522,12 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 8
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30940,10 +31556,12 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 1
 ...........\TU/lmr/m/n/5 9
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -30972,8 +31590,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31002,8 +31622,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31032,8 +31654,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31062,8 +31686,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31092,8 +31718,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.385+0.0)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31122,10 +31750,12 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 5
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31154,10 +31784,12 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0.75 G }
 ..........\pdfliteral origin{0.75 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0.75 g 0.75 G}
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 6
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31186,8 +31818,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.38+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31216,8 +31850,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31246,8 +31882,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 2
 ...........\TU/lmr/m/n/5 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31276,8 +31914,10 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.11)x6.81, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 3
 ...........\TU/lmr/m/n/5 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31308,6 +31948,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.147+1.845)x39.31204, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/9 M
 ...........\TU/lmr/m/n/9 a
 ...........\kern-0.261 (font)
@@ -31317,6 +31958,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ...........\TU/lmr/m/n/9 0
 ...........\TU/lmr/m/n/9 0
 ...........\TU/lmr/m/n/9 9
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31342,7 +31984,9 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.33+0.0)x3.405, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/5 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31372,6 +32016,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.515+0.97)x83.13002, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0.5 0 rg 1 0.5 0 RG}
 ...........\TU/lmr/bx/n/5 C
 ...........\TU/lmr/bx/n/5 o
@@ -31405,6 +32050,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ...........\TU/lmr/bx/n/5 s
 ...........\kern0.0 (italic)
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -31432,6 +32078,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(3.515+0.97)x75.895, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0.5 0 rg 1 0.5 0 RG}
 ...........\TU/lmr/bx/n/5 C
 ...........\TU/lmr/bx/n/5 o
@@ -31464,6 +32111,7 @@ TEST 13: pgfmanual-en-tutorial-map-16
 ...........\TU/lmr/bx/n/5 s
 ...........\kern0.0 (italic)
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

@@ -42,6 +42,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -67,11 +69,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -111,8 +115,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -157,8 +163,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -197,6 +205,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -222,6 +232,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.44444+1.94444)x27.85062, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
@@ -231,6 +242,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OT1/cmr/m/n/10 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -300,6 +312,8 @@ TEST 2: pgfmanual-en-library-petri-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -339,8 +353,10 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -385,8 +401,10 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -431,8 +449,10 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -477,8 +497,10 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -523,8 +545,10 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -569,8 +593,10 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -615,8 +641,10 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -647,11 +675,13 @@ TEST 2: pgfmanual-en-library-petri-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -693,6 +723,8 @@ TEST 2: pgfmanual-en-library-petri-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -732,9 +764,11 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -779,9 +813,11 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -826,9 +862,11 @@ TEST 2: pgfmanual-en-library-petri-2
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 9
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -859,6 +897,7 @@ TEST 2: pgfmanual-en-library-petri-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.44444+1.94444)x27.85062, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
@@ -868,6 +907,7 @@ TEST 2: pgfmanual-en-library-petri-2
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OT1/cmr/m/n/10 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -928,6 +968,8 @@ TEST 3: pgfmanual-en-library-petri-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -967,8 +1009,10 @@ TEST 3: pgfmanual-en-library-petri-3
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1013,8 +1057,10 @@ TEST 3: pgfmanual-en-library-petri-3
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1045,11 +1091,13 @@ TEST 3: pgfmanual-en-library-petri-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1083,6 +1131,8 @@ TEST 3: pgfmanual-en-library-petri-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1108,6 +1158,7 @@ TEST 3: pgfmanual-en-library-petri-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.44444+1.94444)x27.85062, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
@@ -1117,6 +1168,7 @@ TEST 3: pgfmanual-en-library-petri-3
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OT1/cmr/m/n/10 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1150,6 +1202,8 @@ TEST 3: pgfmanual-en-library-petri-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1175,11 +1229,13 @@ TEST 3: pgfmanual-en-library-petri-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.15079+1.49998)x8.09724, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 t
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1234,7 +1290,9 @@ TEST 3: pgfmanual-en-library-petri-3
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 2
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1297,6 +1355,8 @@ TEST 4: pgfmanual-en-library-petri-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1322,11 +1382,13 @@ TEST 4: pgfmanual-en-library-petri-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1362,8 +1424,10 @@ TEST 4: pgfmanual-en-library-petri-4
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1397,6 +1461,8 @@ TEST 4: pgfmanual-en-library-petri-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1422,11 +1488,13 @@ TEST 4: pgfmanual-en-library-petri-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1462,12 +1530,14 @@ TEST 4: pgfmanual-en-library-petri-4
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(2.15277+0.97221)x3.8322, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\mathon
 ...........\OML/cmm/m/it/5 y
 ...........\kern0.17938 (italic)
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1528,6 +1598,8 @@ TEST 5: pgfmanual-en-library-petri-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1553,11 +1625,13 @@ TEST 5: pgfmanual-en-library-petri-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1597,9 +1671,11 @@ TEST 5: pgfmanual-en-library-petri-5
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1644,9 +1720,11 @@ TEST 5: pgfmanual-en-library-petri-5
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1691,9 +1769,11 @@ TEST 5: pgfmanual-en-library-petri-5
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1759,6 +1839,8 @@ TEST 6: pgfmanual-en-library-petri-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1784,11 +1866,13 @@ TEST 6: pgfmanual-en-library-petri-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1828,9 +1912,11 @@ TEST 6: pgfmanual-en-library-petri-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1877,9 +1963,11 @@ TEST 6: pgfmanual-en-library-petri-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1926,9 +2014,11 @@ TEST 6: pgfmanual-en-library-petri-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1973,9 +2063,11 @@ TEST 6: pgfmanual-en-library-petri-6
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2041,6 +2133,8 @@ TEST 7: pgfmanual-en-library-petri-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2066,11 +2160,13 @@ TEST 7: pgfmanual-en-library-petri-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2110,8 +2206,10 @@ TEST 7: pgfmanual-en-library-petri-7
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2159,8 +2257,10 @@ TEST 7: pgfmanual-en-library-petri-7
 ............\pdfliteral origin{1 0 0 RG }
 ............\pdfliteral origin{1 0 0 rg }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2209,8 +2309,10 @@ TEST 7: pgfmanual-en-library-petri-7
 ............\pdfliteral origin{0 0 1 RG }
 ............\pdfliteral origin{0 0 1 rg }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2256,8 +2358,10 @@ TEST 7: pgfmanual-en-library-petri-7
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2321,6 +2425,8 @@ TEST 8: pgfmanual-en-library-petri-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2360,8 +2466,10 @@ TEST 8: pgfmanual-en-library-petri-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2406,8 +2514,10 @@ TEST 8: pgfmanual-en-library-petri-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2452,8 +2562,10 @@ TEST 8: pgfmanual-en-library-petri-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2506,6 +2618,8 @@ TEST 8: pgfmanual-en-library-petri-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2545,8 +2659,10 @@ TEST 8: pgfmanual-en-library-petri-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2591,8 +2707,10 @@ TEST 8: pgfmanual-en-library-petri-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2637,8 +2755,10 @@ TEST 8: pgfmanual-en-library-petri-8
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2703,6 +2823,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2742,8 +2864,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2780,6 +2904,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2819,8 +2945,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2865,8 +2993,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2903,6 +3033,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2942,8 +3074,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2988,8 +3122,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3034,8 +3170,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3072,6 +3210,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3111,8 +3251,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3157,8 +3299,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3203,8 +3347,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3249,8 +3395,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3287,6 +3435,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3326,8 +3476,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3372,8 +3524,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3418,8 +3572,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3464,8 +3620,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3510,8 +3668,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3548,6 +3708,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3587,8 +3749,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3633,8 +3797,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3679,8 +3845,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3725,8 +3893,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3771,8 +3941,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3817,8 +3989,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3855,6 +4029,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3894,8 +4070,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3940,8 +4118,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3986,8 +4166,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4032,8 +4214,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4078,8 +4262,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4124,8 +4310,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4170,8 +4358,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4208,6 +4398,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4247,8 +4439,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4293,8 +4487,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4339,8 +4535,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4385,8 +4583,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4431,8 +4631,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4477,8 +4679,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4523,8 +4727,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4569,8 +4775,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4607,6 +4815,8 @@ TEST 9: pgfmanual-en-library-petri-9
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4646,8 +4856,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4692,8 +4904,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4738,8 +4952,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4784,8 +5000,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4830,8 +5048,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4876,8 +5096,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4922,8 +5144,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -4968,8 +5192,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5014,8 +5240,10 @@ TEST 9: pgfmanual-en-library-petri-9
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5080,6 +5308,8 @@ TEST 10: pgfmanual-en-library-petri-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5122,8 +5352,10 @@ TEST 10: pgfmanual-en-library-petri-10
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5172,8 +5404,10 @@ TEST 10: pgfmanual-en-library-petri-10
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5222,8 +5456,10 @@ TEST 10: pgfmanual-en-library-petri-10
 ............\pdfliteral origin{1 0 0 RG }
 ............\pdfliteral origin{1 0 0 rg }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5272,8 +5508,10 @@ TEST 10: pgfmanual-en-library-petri-10
 ............\pdfliteral origin{0 0 1 RG }
 ............\pdfliteral origin{0 0 1 rg }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5338,6 +5576,8 @@ TEST 11: pgfmanual-en-library-petri-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5377,11 +5617,13 @@ TEST 11: pgfmanual-en-library-petri-11
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(2.15277+0.0)x3.95836, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\mathon
 .............\OML/cmm/m/it/5 x
 .............\mathoff
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5426,12 +5668,14 @@ TEST 11: pgfmanual-en-library-petri-11
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(2.15277+0.97221)x3.8322, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\mathon
 .............\OML/cmm/m/it/5 y
 .............\kern0.17938 (italic)
 .............\mathoff
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5476,12 +5720,14 @@ TEST 11: pgfmanual-en-library-petri-11
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(2.15277+0.0)x3.62848, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\mathon
 .............\OML/cmm/m/it/5 z
 .............\kern0.18517 (italic)
 .............\mathoff
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5546,6 +5792,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5585,9 +5833,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5624,6 +5874,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5663,9 +5915,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5710,9 +5964,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5749,6 +6005,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5788,9 +6046,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5835,9 +6095,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5882,9 +6144,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5921,6 +6185,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5960,9 +6226,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6007,9 +6275,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6054,9 +6324,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6101,9 +6373,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.385+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 4
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6140,6 +6414,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6179,9 +6455,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6226,9 +6504,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6273,9 +6553,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6320,9 +6602,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.385+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 4
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6367,9 +6651,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 5
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6406,6 +6692,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6445,9 +6733,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6492,9 +6782,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6539,9 +6831,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6586,9 +6880,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.385+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 4
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6633,9 +6929,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 5
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6680,9 +6978,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 6
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6719,6 +7019,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6758,9 +7060,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6805,9 +7109,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6852,9 +7158,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6899,9 +7207,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.385+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 4
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6946,9 +7256,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 5
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -6993,9 +7305,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 6
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7040,9 +7354,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.38+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 7
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7079,6 +7395,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7118,9 +7436,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7165,9 +7485,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7212,9 +7534,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7259,9 +7583,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.385+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 4
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7306,9 +7632,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 5
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7353,9 +7681,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 6
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7400,9 +7730,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.38+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 7
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7447,9 +7779,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 8
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7486,6 +7820,8 @@ TEST 12: pgfmanual-en-library-petri-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7525,9 +7861,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 1
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7572,9 +7910,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 2
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7619,9 +7959,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 3
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7666,9 +8008,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.385+0.0)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 4
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7713,9 +8057,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 5
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7760,9 +8106,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 6
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7807,9 +8155,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.38+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 7
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7854,9 +8204,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 8
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7901,9 +8253,11 @@ TEST 12: pgfmanual-en-library-petri-12
 ............\pdfliteral origin{1 G }
 ............\pdfliteral origin{1 g }
 ............\hbox(3.33+0.11)x3.405, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 g 1 G}
 .............\TU/lmr/m/n/5 9
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7979,6 +8333,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8002,11 +8358,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8046,6 +8404,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8071,11 +8431,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8116,6 +8478,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8139,11 +8503,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8183,6 +8549,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8208,11 +8576,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8253,6 +8623,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8276,11 +8648,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8320,6 +8694,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8345,11 +8721,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8390,6 +8768,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8413,11 +8793,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 4
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8457,6 +8839,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8482,11 +8866,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 4
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8527,6 +8913,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8550,11 +8938,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8594,6 +8984,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8619,11 +9011,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8664,6 +9058,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8687,11 +9083,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.51738, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 p
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 6
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8731,6 +9129,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8756,11 +9156,13 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 6
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8802,6 +9204,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8827,6 +9231,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+1.94444)x32.57175, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 m
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
@@ -8837,6 +9242,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ...........\OML/cmm/m/it/10 f
 ...........\kern1.0764 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8875,6 +9281,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8900,6 +9308,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.15079+1.49998)x30.2106, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 m
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
@@ -8909,6 +9318,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OML/cmm/m/it/10 t
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8949,6 +9359,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8974,6 +9386,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+1.94444)x32.57175, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 m
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
@@ -8984,6 +9397,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ...........\OML/cmm/m/it/10 f
 ...........\kern1.0764 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9022,6 +9436,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9047,6 +9463,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.15079+1.49998)x30.2106, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 m
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
@@ -9056,6 +9473,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OML/cmm/m/it/10 t
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9096,6 +9514,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9121,6 +9541,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+0.0)x39.68707, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.94444+0.0)x21.35384, direction TLT
 ............\OT1/cmr/m/it/10 h
@@ -9136,6 +9557,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OT1/cmr/m/n/10 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9174,6 +9596,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9199,6 +9623,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+0.0)x39.68707, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\hbox(6.94444+0.0)x21.35384, direction TLT
 ............\OT1/cmr/m/it/10 h
@@ -9214,6 +9639,7 @@ TEST 13: pgfmanual-en-library-petri-13
 ...........\glue(\thickmuskip) 2.77771 plus 2.77771
 ...........\OT1/cmr/m/n/10 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9250,8 +9676,10 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9287,8 +9715,10 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9324,8 +9754,10 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9361,8 +9793,10 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9398,8 +9832,10 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9435,6 +9871,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9500,6 +9938,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9591,6 +10031,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9672,6 +10114,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9763,6 +10207,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9844,6 +10290,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9925,6 +10373,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10016,6 +10466,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10080,6 +10532,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10143,6 +10597,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10234,6 +10690,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10315,6 +10773,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10406,6 +10866,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10487,6 +10949,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10568,6 +11032,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10659,6 +11125,8 @@ TEST 13: pgfmanual-en-library-petri-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

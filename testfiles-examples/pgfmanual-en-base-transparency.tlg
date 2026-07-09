@@ -790,6 +790,7 @@ TEST 12: pgfmanual-en-base-transparency-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(55.35144+0.0)x55.35144, direction TLT
+...........\begindir TLT
 ...........\hbox(55.35144+0.0)x55.35144, direction TLT
 ............\glue -1.55405
 ............\hbox(0.0+0.0)x0.0, shifted -27.67572, direction TLT
@@ -811,6 +812,7 @@ TEST 12: pgfmanual-en-base-transparency-12
 .............\pdfliteral origin{n }
 .............\pdfliteral origin{Q }
 .............\glue 0.0 plus 1.0fil minus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

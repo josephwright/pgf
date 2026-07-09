@@ -1802,10 +1802,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1923,10 +1925,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2123,9 +2127,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2243,9 +2249,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2373,9 +2381,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2491,9 +2501,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2609,9 +2621,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2727,9 +2741,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2845,9 +2861,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 4
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2963,9 +2981,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5240,10 +5260,12 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5359,10 +5381,12 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.83337)x10.86127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OMS/cmsy/m/n/8 ^^@
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5478,9 +5502,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5596,9 +5622,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5714,9 +5742,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6230,9 +6260,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6346,9 +6378,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6462,9 +6496,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6578,9 +6614,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 4
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6694,9 +6732,11 @@ TEST 2: pgfmanual-en-dv-introduction-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(5.15556+0.0)x4.25006, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OT1/cmr/m/n/8 5
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

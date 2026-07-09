@@ -82,6 +82,8 @@ TEST 1: pgfmanual-en-library-fit-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -117,6 +119,8 @@ TEST 1: pgfmanual-en-library-fit-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -152,6 +156,8 @@ TEST 1: pgfmanual-en-library-fit-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -187,6 +193,8 @@ TEST 1: pgfmanual-en-library-fit-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -222,6 +230,8 @@ TEST 1: pgfmanual-en-library-fit-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -256,6 +266,7 @@ TEST 1: pgfmanual-en-library-fit-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(26.74115+26.85115)x32.25273, direction TLT
+...........\begindir TLT
 ...........\vbox(6.94+0.11)x32.25273, direction TLT
 ............\hbox(6.94+0.11)x32.25273, glue set 8.20638fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -274,6 +285,7 @@ TEST 1: pgfmanual-en-library-fit-1
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -306,6 +318,7 @@ TEST 1: pgfmanual-en-library-fit-1
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(26.79614+26.79616)x32.25273, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x32.25273, direction TLT
 ............\hbox(0.0+0.0)x32.25273, glue set 16.12637fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -319,6 +332,7 @@ TEST 1: pgfmanual-en-library-fit-1
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -421,6 +435,8 @@ TEST 2: pgfmanual-en-library-fit-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -456,6 +472,8 @@ TEST 2: pgfmanual-en-library-fit-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -491,6 +509,8 @@ TEST 2: pgfmanual-en-library-fit-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -526,6 +546,8 @@ TEST 2: pgfmanual-en-library-fit-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -561,6 +583,8 @@ TEST 2: pgfmanual-en-library-fit-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -595,6 +619,7 @@ TEST 2: pgfmanual-en-library-fit-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(26.79614+26.79616)x32.25273, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x32.25273, direction TLT
 ............\hbox(0.0+0.0)x32.25273, glue set 16.12637fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -608,6 +633,7 @@ TEST 2: pgfmanual-en-library-fit-2
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -636,11 +662,13 @@ TEST 2: pgfmanual-en-library-fit-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x15.84, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 b
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -702,6 +730,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -737,6 +767,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -779,6 +811,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..............\pdfliteral origin{0 G }
 ..............\pdfliteral origin{0 g }
 ..............\hbox(0.0+0.0)x0.0, direction TLT
+...............\begindir TLT
+...............\enddir TLT
 ..............\glue(\spaceskip) 0.0
 ............\pdfliteral origin{Q }
 ............\glue(\spaceskip) 0.0
@@ -822,6 +856,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(0.0+0.0)x0.0, direction TLT
+.................\begindir TLT
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -864,6 +900,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..................\pdfliteral origin{0 G }
 ..................\pdfliteral origin{0 g }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
+...................\begindir TLT
+...................\enddir TLT
 ..................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
@@ -908,6 +946,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -933,9 +973,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(6.94444+0.0)x5.20486, direction TLT
+.....................\begindir TLT
 .....................\mathon
 .....................\OML/cmm/m/it/10 d
 .....................\mathoff
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -981,6 +1023,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(0.0+0.0)x0.0, direction TLT
+.....................\begindir TLT
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -1006,9 +1050,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ....................\pdfliteral origin{0 G }
 ....................\pdfliteral origin{0 g }
 ....................\hbox(4.30554+0.0)x4.65627, direction TLT
+.....................\begindir TLT
 .....................\mathon
 .....................\OML/cmm/m/it/10 e
 .....................\mathoff
+.....................\enddir TLT
 ....................\glue(\spaceskip) 0.0
 ..................\pdfliteral origin{Q }
 ..................\glue(\spaceskip) 0.0
@@ -1056,6 +1102,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..................\pdfliteral origin{0 G }
 ..................\pdfliteral origin{0 g }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
+...................\begindir TLT
+...................\enddir TLT
 ..................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
@@ -1081,9 +1129,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..................\pdfliteral origin{0 G }
 ..................\pdfliteral origin{0 g }
 ..................\hbox(6.94444+0.0)x4.29166, direction TLT
+...................\begindir TLT
 ...................\mathon
 ...................\OML/cmm/m/it/10 b
 ...................\mathoff
+...................\enddir TLT
 ..................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
@@ -1131,6 +1181,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(0.0+0.0)x0.0, direction TLT
+.................\begindir TLT
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -1156,9 +1208,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(4.30554+0.0)x5.28589, direction TLT
+.................\begindir TLT
 .................\mathon
 .................\OML/cmm/m/it/10 a
 .................\mathoff
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -1222,6 +1276,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ................\pdfliteral origin{0 G }
 ................\pdfliteral origin{0 g }
 ................\hbox(0.0+0.0)x0.0, direction TLT
+.................\begindir TLT
+.................\enddir TLT
 ................\glue(\spaceskip) 0.0
 ..............\pdfliteral origin{Q }
 ..............\glue(\spaceskip) 0.0
@@ -1266,6 +1322,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..................\pdfliteral origin{0 G }
 ..................\pdfliteral origin{0 g }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
+...................\begindir TLT
+...................\enddir TLT
 ..................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
@@ -1291,9 +1349,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..................\pdfliteral origin{0 G }
 ..................\pdfliteral origin{0 g }
 ..................\hbox(4.30554+0.0)x4.32756, direction TLT
+...................\begindir TLT
 ...................\mathon
 ...................\OML/cmm/m/it/10 c
 ...................\mathoff
+...................\enddir TLT
 ..................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
@@ -1339,6 +1399,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..................\pdfliteral origin{0 G }
 ..................\pdfliteral origin{0 g }
 ..................\hbox(0.0+0.0)x0.0, direction TLT
+...................\begindir TLT
+...................\enddir TLT
 ..................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
@@ -1364,10 +1426,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..................\pdfliteral origin{0 G }
 ..................\pdfliteral origin{0 g }
 ..................\hbox(6.94444+1.94444)x5.97226, direction TLT
+...................\begindir TLT
 ...................\mathon
 ...................\OML/cmm/m/it/10 f
 ...................\kern1.0764 (italic)
 ...................\mathoff
+...................\enddir TLT
 ..................\glue(\spaceskip) 0.0
 ................\pdfliteral origin{Q }
 ................\glue(\spaceskip) 0.0
@@ -1405,9 +1469,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(4.30554+1.94444)x5.17015, direction TLT
+.............\begindir TLT
 .............\mathon
 .............\OML/cmm/m/it/10 ^^Z
 .............\mathoff
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1457,6 +1523,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(33.2586+33.2586)x75.83287, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x75.83287, direction TLT
 ............\hbox(0.0+0.0)x75.83287, glue set 37.91644fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -1470,6 +1537,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1495,6 +1563,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.87892+0.0)x26.52124, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 F
 ...........\kern1.3889 (italic)
@@ -1506,6 +1575,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\kern0.03583 (italic)
 ............\OT1/cmr/m/n/7 )
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1549,6 +1619,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(23.56105+23.56107)x54.89497, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x54.89497, direction TLT
 ............\hbox(0.0+0.0)x54.89497, glue set 27.4475fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -1562,6 +1633,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1585,6 +1657,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(8.87892+0.0)x26.57832, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 F
 ...........\kern1.3889 (italic)
@@ -1596,6 +1669,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\kern0.03583 (italic)
 ............\OT1/cmr/m/n/7 )
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1698,6 +1772,8 @@ TEST 4: pgfmanual-en-library-fit-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1733,6 +1809,8 @@ TEST 4: pgfmanual-en-library-fit-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1768,6 +1846,8 @@ TEST 4: pgfmanual-en-library-fit-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1803,6 +1883,8 @@ TEST 4: pgfmanual-en-library-fit-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1838,6 +1920,8 @@ TEST 4: pgfmanual-en-library-fit-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1868,6 +1952,7 @@ TEST 4: pgfmanual-en-library-fit-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(26.79614+26.79616)x32.25273, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x32.25273, direction TLT
 ............\hbox(0.0+0.0)x32.25273, glue set 16.12637fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -1881,6 +1966,7 @@ TEST 4: pgfmanual-en-library-fit-4
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1919,6 +2005,7 @@ TEST 4: pgfmanual-en-library-fit-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(24.9845+24.98451)x46.66771, direction TLT
+...........\begindir TLT
 ...........\vbox(0.0+0.0)x46.66771, direction TLT
 ............\hbox(0.0+0.0)x46.66771, glue set 23.33386fil, direction TLT
 .............\glue(\leftskip) 0.0 plus 1.0fil
@@ -1932,6 +2019,7 @@ TEST 4: pgfmanual-en-library-fit-4
 .............\penalty 10000
 .............\glue(\parfillskip) 0.0
 .............\glue(\rightskip) 0.0 plus 1.0fil
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

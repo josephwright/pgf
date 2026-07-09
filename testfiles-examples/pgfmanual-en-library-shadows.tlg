@@ -435,6 +435,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.11)x32.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 r
@@ -442,6 +443,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ...........\TU/lmr/m/n/10 t
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -585,6 +587,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.11)x32.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 r
@@ -592,6 +595,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ...........\TU/lmr/m/n/10 t
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -735,6 +739,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.22)x32.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 r
@@ -742,6 +747,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ...........\TU/lmr/m/n/10 t
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -885,6 +891,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.11)x32.72, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 r
@@ -892,6 +899,7 @@ TEST 5: pgfmanual-en-library-shadows-6
 ...........\TU/lmr/m/n/10 t
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1212,6 +1220,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1225,6 +1234,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1273,6 +1283,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1286,6 +1297,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1350,6 +1362,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1363,6 +1376,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1400,8 +1414,10 @@ TEST 8: pgfmanual-en-library-shadows-10
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1426,8 +1442,10 @@ TEST 8: pgfmanual-en-library-shadows-10
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1446,6 +1464,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1459,6 +1478,7 @@ TEST 8: pgfmanual-en-library-shadows-10
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1545,6 +1565,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1558,6 +1579,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1617,6 +1639,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1630,6 +1653,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1716,6 +1740,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1729,6 +1754,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1766,8 +1792,10 @@ TEST 9: pgfmanual-en-library-shadows-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1796,8 +1824,10 @@ TEST 9: pgfmanual-en-library-shadows-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1822,8 +1852,10 @@ TEST 9: pgfmanual-en-library-shadows-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1842,6 +1874,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x55.31999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
@@ -1855,6 +1888,7 @@ TEST 9: pgfmanual-en-library-shadows-11
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1942,6 +1976,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -1952,6 +1987,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2010,6 +2046,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2020,6 +2057,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2078,6 +2116,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2088,6 +2127,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2146,6 +2186,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2156,6 +2197,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2214,6 +2256,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2224,6 +2267,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2282,6 +2326,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2292,6 +2337,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2350,6 +2396,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2360,6 +2407,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2418,6 +2466,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2428,6 +2477,7 @@ TEST 10: pgfmanual-en-library-shadows-13
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2514,6 +2564,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2524,6 +2575,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2582,6 +2634,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2592,6 +2645,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2650,6 +2704,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2660,6 +2715,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2718,6 +2774,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2728,6 +2785,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2786,6 +2844,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2796,6 +2855,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2854,6 +2914,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2864,6 +2925,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2922,6 +2984,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -2932,6 +2995,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2990,6 +3054,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3000,6 +3065,7 @@ TEST 11: pgfmanual-en-library-shadows-15
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3087,6 +3153,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3097,6 +3164,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3156,6 +3224,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3166,6 +3235,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3225,6 +3295,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3235,6 +3306,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3294,6 +3366,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3304,6 +3377,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3363,6 +3437,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3373,6 +3448,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3432,6 +3508,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3442,6 +3519,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3501,6 +3579,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3511,6 +3590,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3570,6 +3650,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -3580,6 +3661,7 @@ TEST 12: pgfmanual-en-library-shadows-16
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3663,6 +3745,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -3675,6 +3758,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 1
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3730,6 +3814,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -3742,6 +3827,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 2
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3797,6 +3883,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -3809,6 +3896,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 3
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3864,6 +3952,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -3876,6 +3965,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 4
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3931,6 +4021,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -3943,6 +4034,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 5
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3998,6 +4090,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -4010,6 +4103,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 6
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4065,6 +4159,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -4077,6 +4172,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 7
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4132,6 +4228,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
@@ -4144,6 +4241,7 @@ TEST 13: pgfmanual-en-library-shadows-17
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 8
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4215,6 +4313,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4225,6 +4324,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4268,6 +4368,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4278,6 +4379,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4321,6 +4423,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4331,6 +4434,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4374,6 +4478,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4384,6 +4489,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4427,6 +4533,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4437,6 +4544,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 5
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4480,6 +4588,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4490,6 +4599,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 6
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4533,6 +4643,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4543,6 +4654,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 7
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4586,6 +4698,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x33.91, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 r
@@ -4596,6 +4709,7 @@ TEST 14: pgfmanual-en-library-shadows-18
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 8
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

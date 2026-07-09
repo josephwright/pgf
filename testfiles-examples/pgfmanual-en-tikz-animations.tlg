@@ -55,9 +55,11 @@ Package pgf Warning: Your graphic driver pgfsys-luatex.def does not support anim
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x16.68, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 n
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -97,11 +99,13 @@ Package pgf Warning: Your graphic driver pgfsys-luatex.def does not support anim
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x25.18, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 E
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 t
 ...........\TU/lmr/m/n/10 h
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -139,11 +143,13 @@ Package pgf Warning: Your graphic driver pgfsys-luatex.def does not support anim
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.11)x25.01, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 M
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 o
 ...........\TU/lmr/m/n/10 n
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -263,6 +269,7 @@ TEST 3: pgfmanual-en-tikz-animations-3
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -274,6 +281,7 @@ TEST 3: pgfmanual-en-tikz-animations-3
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -339,6 +347,7 @@ TEST 4: pgfmanual-en-tikz-animations-4
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -350,6 +359,7 @@ TEST 4: pgfmanual-en-tikz-animations-4
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -441,12 +451,14 @@ TEST 5: pgfmanual-en-tikz-animations-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x25.56, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 k
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -527,11 +539,13 @@ TEST 5: pgfmanual-en-tikz-animations-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x35.15, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 S
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 A
 ...........\TU/lmr/m/n/10 K
 ...........\TU/lmr/m/n/10 E
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -599,6 +613,7 @@ TEST 6: pgfmanual-en-tikz-animations-6
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -610,6 +625,7 @@ TEST 6: pgfmanual-en-tikz-animations-6
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -676,6 +692,7 @@ TEST 7: pgfmanual-en-tikz-animations-7
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -687,6 +704,7 @@ TEST 7: pgfmanual-en-tikz-animations-7
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -758,6 +776,7 @@ TEST 8: pgfmanual-en-tikz-animations-8
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(6.94+0.11)x31.11, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 N
 ...........\TU/lmr/m/n/10 o
@@ -767,6 +786,7 @@ TEST 8: pgfmanual-en-tikz-animations-8
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 1
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -805,6 +825,7 @@ TEST 8: pgfmanual-en-tikz-animations-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x31.11, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 N
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
@@ -812,6 +833,7 @@ TEST 8: pgfmanual-en-tikz-animations-8
 ...........\TU/lmr/m/n/10 e
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -876,9 +898,11 @@ TEST 9: pgfmanual-en-tikz-animations-9
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(4.48+0.11)x5.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 a
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -910,9 +934,11 @@ TEST 9: pgfmanual-en-tikz-animations-9
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(6.94+0.11)x5.56, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 b
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -942,9 +968,11 @@ TEST 9: pgfmanual-en-tikz-animations-9
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(4.48+0.11)x4.44, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 c
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1097,6 +1125,7 @@ TEST 11: pgfmanual-en-tikz-animations-11
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(6.94+0.11)x41.39, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 T
 ...........\TU/lmr/m/n/10 h
@@ -1108,6 +1137,7 @@ TEST 11: pgfmanual-en-tikz-animations-11
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1190,6 +1220,7 @@ TEST 12: pgfmanual-en-tikz-animations-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x41.39, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 T
 ...........\TU/lmr/m/n/10 h
 ...........\TU/lmr/m/n/10 e
@@ -1199,6 +1230,7 @@ TEST 12: pgfmanual-en-tikz-animations-12
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 d
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1285,6 +1317,7 @@ TEST 13: pgfmanual-en-tikz-animations-13
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -1294,6 +1327,7 @@ TEST 13: pgfmanual-en-tikz-animations-13
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1382,6 +1416,7 @@ TEST 14: pgfmanual-en-tikz-animations-15
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -1393,6 +1428,7 @@ TEST 14: pgfmanual-en-tikz-animations-15
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1478,6 +1514,7 @@ TEST 15: pgfmanual-en-tikz-animations-20
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -1487,6 +1524,7 @@ TEST 15: pgfmanual-en-tikz-animations-20
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1562,11 +1600,13 @@ TEST 16: pgfmanual-en-tikz-animations-27
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1651,11 +1691,13 @@ TEST 17: pgfmanual-en-tikz-animations-28
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1740,11 +1782,13 @@ TEST 18: pgfmanual-en-tikz-animations-29
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1828,11 +1872,13 @@ TEST 19: pgfmanual-en-tikz-animations-30
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1900,9 +1946,11 @@ TEST 20: pgfmanual-en-tikz-animations-37
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 A
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1932,9 +1980,11 @@ TEST 20: pgfmanual-en-tikz-animations-37
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 B
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1968,9 +2018,11 @@ TEST 20: pgfmanual-en-tikz-animations-37
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x7.22, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2038,9 +2090,11 @@ TEST 21: pgfmanual-en-tikz-animations-38
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 A
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2079,9 +2133,11 @@ TEST 21: pgfmanual-en-tikz-animations-38
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 B
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2149,9 +2205,11 @@ TEST 22: pgfmanual-en-tikz-animations-39
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 A
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2181,9 +2239,11 @@ TEST 22: pgfmanual-en-tikz-animations-39
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 B
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2259,6 +2319,7 @@ TEST 23: pgfmanual-en-tikz-animations-40
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2269,6 +2330,7 @@ TEST 23: pgfmanual-en-tikz-animations-40
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2344,6 +2406,7 @@ TEST 24: pgfmanual-en-tikz-animations-41
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2354,6 +2417,7 @@ TEST 24: pgfmanual-en-tikz-animations-41
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2431,6 +2495,7 @@ TEST 25: pgfmanual-en-tikz-animations-42
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2441,6 +2506,7 @@ TEST 25: pgfmanual-en-tikz-animations-42
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2517,6 +2583,7 @@ TEST 26: pgfmanual-en-tikz-animations-43
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2527,6 +2594,7 @@ TEST 26: pgfmanual-en-tikz-animations-43
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2564,6 +2632,7 @@ TEST 26: pgfmanual-en-tikz-animations-43
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.11)x25.41, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 E
 ...........\discretionary (penalty 50)
 ............< \TU/lmr/m/n/10 f
@@ -2573,6 +2642,7 @@ TEST 26: pgfmanual-en-tikz-animations-43
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 c
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2648,6 +2718,7 @@ TEST 27: pgfmanual-en-tikz-animations-44
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2658,6 +2729,7 @@ TEST 27: pgfmanual-en-tikz-animations-44
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2733,6 +2805,7 @@ TEST 28: pgfmanual-en-tikz-animations-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2743,6 +2816,7 @@ TEST 28: pgfmanual-en-tikz-animations-45
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2818,6 +2892,7 @@ TEST 29: pgfmanual-en-tikz-animations-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2828,6 +2903,7 @@ TEST 29: pgfmanual-en-tikz-animations-46
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2905,6 +2981,7 @@ TEST 30: pgfmanual-en-tikz-animations-47
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -2915,6 +2992,7 @@ TEST 30: pgfmanual-en-tikz-animations-47
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2990,6 +3068,7 @@ TEST 31: pgfmanual-en-tikz-animations-48
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3000,6 +3079,7 @@ TEST 31: pgfmanual-en-tikz-animations-48
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3075,6 +3155,7 @@ TEST 32: pgfmanual-en-tikz-animations-49
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3085,6 +3166,7 @@ TEST 32: pgfmanual-en-tikz-animations-49
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3153,6 +3235,7 @@ TEST 33: pgfmanual-en-tikz-animations-53
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3163,6 +3246,7 @@ TEST 33: pgfmanual-en-tikz-animations-53
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3242,6 +3326,7 @@ TEST 34: pgfmanual-en-tikz-animations-54
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3252,6 +3337,7 @@ TEST 34: pgfmanual-en-tikz-animations-54
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3327,6 +3413,7 @@ TEST 35: pgfmanual-en-tikz-animations-55
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3337,6 +3424,7 @@ TEST 35: pgfmanual-en-tikz-animations-55
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3412,6 +3500,7 @@ TEST 36: pgfmanual-en-tikz-animations-56
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3422,6 +3511,7 @@ TEST 36: pgfmanual-en-tikz-animations-56
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3497,6 +3587,7 @@ TEST 37: pgfmanual-en-tikz-animations-57
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3507,6 +3598,7 @@ TEST 37: pgfmanual-en-tikz-animations-57
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3583,6 +3675,7 @@ TEST 38: pgfmanual-en-tikz-animations-58
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3593,6 +3686,7 @@ TEST 38: pgfmanual-en-tikz-animations-58
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3670,6 +3764,7 @@ TEST 39: pgfmanual-en-tikz-animations-59
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3680,6 +3775,7 @@ TEST 39: pgfmanual-en-tikz-animations-59
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3757,6 +3853,7 @@ TEST 40: pgfmanual-en-tikz-animations-60
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -3767,6 +3864,7 @@ TEST 40: pgfmanual-en-tikz-animations-60
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3890,12 +3988,14 @@ TEST 41: pgfmanual-en-tikz-animations-61
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x22.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 c
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 k
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4019,12 +4119,14 @@ TEST 42: pgfmanual-en-tikz-animations-62
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x22.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 c
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 k
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4134,6 +4236,7 @@ TEST 43: pgfmanual-en-tikz-animations-63
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -4143,6 +4246,7 @@ TEST 43: pgfmanual-en-tikz-animations-63
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4252,6 +4356,7 @@ TEST 44: pgfmanual-en-tikz-animations-64
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -4261,6 +4366,7 @@ TEST 44: pgfmanual-en-tikz-animations-64
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4373,6 +4479,7 @@ TEST 45: pgfmanual-en-tikz-animations-65
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -4382,6 +4489,7 @@ TEST 45: pgfmanual-en-tikz-animations-65
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4492,6 +4600,7 @@ TEST 46: pgfmanual-en-tikz-animations-66
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -4501,6 +4610,7 @@ TEST 46: pgfmanual-en-tikz-animations-66
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4612,6 +4722,7 @@ TEST 47: pgfmanual-en-tikz-animations-67
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -4621,6 +4732,7 @@ TEST 47: pgfmanual-en-tikz-animations-67
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4751,12 +4863,14 @@ TEST 48: pgfmanual-en-tikz-animations-69
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x22.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 c
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 k
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -4887,12 +5001,14 @@ TEST 49: pgfmanual-en-tikz-animations-70
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x22.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 c
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 k
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5023,12 +5139,14 @@ TEST 50: pgfmanual-en-tikz-animations-71
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.22)x22.22, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 c
 ...........\kern-0.28 (font)
 ...........\TU/lmr/m/n/10 k
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5098,6 +5216,7 @@ TEST 51: pgfmanual-en-tikz-animations-72
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -5108,6 +5227,7 @@ TEST 51: pgfmanual-en-tikz-animations-72
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5187,11 +5307,13 @@ TEST 51: pgfmanual-en-tikz-animations-72
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(3.47+0.055)x9.515, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/5 r
 ...........\TU/lmr/m/n/5 e
 ...........\TU/lmr/m/n/5 d
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5267,6 +5389,7 @@ TEST 52: pgfmanual-en-tikz-animations-73
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -5278,6 +5401,7 @@ TEST 52: pgfmanual-en-tikz-animations-73
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5349,6 +5473,7 @@ TEST 53: pgfmanual-en-tikz-animations-74
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -5360,6 +5485,7 @@ TEST 53: pgfmanual-en-tikz-animations-74
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5431,6 +5557,7 @@ TEST 54: pgfmanual-en-tikz-animations-75
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -5442,6 +5569,7 @@ TEST 54: pgfmanual-en-tikz-animations-75
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5512,6 +5640,7 @@ TEST 55: pgfmanual-en-tikz-animations-76
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -5523,6 +5652,7 @@ TEST 55: pgfmanual-en-tikz-animations-76
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5592,6 +5722,7 @@ TEST 56: pgfmanual-en-tikz-animations-77
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -5603,6 +5734,7 @@ TEST 56: pgfmanual-en-tikz-animations-77
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5673,6 +5805,7 @@ TEST 57: pgfmanual-en-tikz-animations-78
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(7.05+0.22)x38.32, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
@@ -5684,6 +5817,7 @@ TEST 57: pgfmanual-en-tikz-animations-78
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5750,7 +5884,9 @@ TEST 58: pgfmanual-en-tikz-animations-79
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5788,7 +5924,9 @@ TEST 58: pgfmanual-en-tikz-animations-79
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5833,10 +5971,12 @@ TEST 58: pgfmanual-en-tikz-animations-79
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x24.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 m
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5874,7 +6014,9 @@ TEST 58: pgfmanual-en-tikz-animations-79
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5912,7 +6054,9 @@ TEST 58: pgfmanual-en-tikz-animations-79
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.77+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -5979,7 +6123,9 @@ TEST 59: pgfmanual-en-tikz-animations-80
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6017,7 +6163,9 @@ TEST 59: pgfmanual-en-tikz-animations-80
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 2
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6062,10 +6210,12 @@ TEST 59: pgfmanual-en-tikz-animations-80
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x24.17, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
 ...........\TU/lmr/m/n/10 n
 ...........\TU/lmr/m/n/10 i
 ...........\TU/lmr/m/n/10 m
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6103,7 +6253,9 @@ TEST 59: pgfmanual-en-tikz-animations-80
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 3
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6141,7 +6293,9 @@ TEST 59: pgfmanual-en-tikz-animations-80
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.77+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 4
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6217,11 +6371,13 @@ TEST 60: pgfmanual-en-tikz-animations-81
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6297,11 +6453,13 @@ TEST 61: pgfmanual-en-tikz-animations-82
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6377,11 +6535,13 @@ TEST 62: pgfmanual-en-tikz-animations-83
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6457,11 +6617,13 @@ TEST 63: pgfmanual-en-tikz-animations-84
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6537,11 +6699,13 @@ TEST 64: pgfmanual-en-tikz-animations-85
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6617,11 +6781,13 @@ TEST 65: pgfmanual-en-tikz-animations-86
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6707,11 +6873,13 @@ TEST 66: pgfmanual-en-tikz-animations-87
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6798,11 +6966,13 @@ TEST 67: pgfmanual-en-tikz-animations-88
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6891,11 +7061,13 @@ TEST 68: pgfmanual-en-tikz-animations-89
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6973,11 +7145,13 @@ TEST 69: pgfmanual-en-tikz-animations-90
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7054,11 +7228,13 @@ TEST 70: pgfmanual-en-tikz-animations-91
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.11)x23.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 H
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 r
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7135,6 +7311,7 @@ TEST 71: pgfmanual-en-tikz-animations-92
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7145,6 +7322,7 @@ TEST 71: pgfmanual-en-tikz-animations-92
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7221,6 +7399,7 @@ TEST 72: pgfmanual-en-tikz-animations-93
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7231,6 +7410,7 @@ TEST 72: pgfmanual-en-tikz-animations-93
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7307,6 +7487,7 @@ TEST 73: pgfmanual-en-tikz-animations-94
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7317,6 +7498,7 @@ TEST 73: pgfmanual-en-tikz-animations-94
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7393,6 +7575,7 @@ TEST 74: pgfmanual-en-tikz-animations-95
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7403,6 +7586,7 @@ TEST 74: pgfmanual-en-tikz-animations-95
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7479,6 +7663,7 @@ TEST 75: pgfmanual-en-tikz-animations-96
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7489,6 +7674,7 @@ TEST 75: pgfmanual-en-tikz-animations-96
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7619,6 +7805,7 @@ TEST 76: pgfmanual-en-tikz-animations-99
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7629,6 +7816,7 @@ TEST 76: pgfmanual-en-tikz-animations-99
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7760,6 +7948,7 @@ TEST 77: pgfmanual-en-tikz-animations-100
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7770,6 +7959,7 @@ TEST 77: pgfmanual-en-tikz-animations-100
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7902,6 +8092,7 @@ TEST 78: pgfmanual-en-tikz-animations-101
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -7912,6 +8103,7 @@ TEST 78: pgfmanual-en-tikz-animations-101
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8039,6 +8231,7 @@ TEST 79: pgfmanual-en-tikz-animations-102
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -8049,6 +8242,7 @@ TEST 79: pgfmanual-en-tikz-animations-102
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8180,6 +8374,7 @@ TEST 80: pgfmanual-en-tikz-animations-103
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -8190,6 +8385,7 @@ TEST 80: pgfmanual-en-tikz-animations-103
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8321,6 +8517,7 @@ TEST 81: pgfmanual-en-tikz-animations-104
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.22)x41.1, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 C
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 i
@@ -8331,6 +8528,7 @@ TEST 81: pgfmanual-en-tikz-animations-104
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 !
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

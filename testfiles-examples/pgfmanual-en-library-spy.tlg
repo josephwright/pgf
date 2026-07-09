@@ -1823,8 +1823,10 @@ TEST 1: pgfmanual-en-library-spy-1
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1885,6 +1887,7 @@ TEST 1: pgfmanual-en-library-spy-1
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -3672,6 +3675,7 @@ TEST 1: pgfmanual-en-library-spy-1
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -3704,8 +3708,10 @@ TEST 1: pgfmanual-en-library-spy-1
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3757,8 +3763,10 @@ TEST 1: pgfmanual-en-library-spy-1
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3819,6 +3827,7 @@ TEST 1: pgfmanual-en-library-spy-1
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -5606,6 +5615,7 @@ TEST 1: pgfmanual-en-library-spy-1
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -5638,8 +5648,10 @@ TEST 1: pgfmanual-en-library-spy-1
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6511,10 +6523,12 @@ TEST 2: pgfmanual-en-library-spy-2
 ..........\pdfliteral origin{0 1 0 RG }
 ..........\pdfliteral origin{0 1 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 1 0 rg 0 1 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -6579,6 +6593,7 @@ TEST 2: pgfmanual-en-library-spy-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfliteral origin{/pgf@ca1 gs }
 .............\pdfliteral origin{/pgf@CA1 gs }
 .............\pdfcolorstack 0 push {0 g 0 G}
@@ -7381,6 +7396,7 @@ TEST 2: pgfmanual-en-library-spy-2
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -7405,10 +7421,12 @@ TEST 2: pgfmanual-en-library-spy-2
 ..........\pdfliteral origin{0 1 0 RG }
 ..........\pdfliteral origin{0 1 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 1 0 rg 0 1 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7455,10 +7473,12 @@ TEST 2: pgfmanual-en-library-spy-2
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -7523,6 +7543,7 @@ TEST 2: pgfmanual-en-library-spy-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfliteral origin{/pgf@ca1 gs }
 .............\pdfliteral origin{/pgf@CA1 gs }
 .............\pdfcolorstack 0 push {0 g 0 G}
@@ -8325,6 +8346,7 @@ TEST 2: pgfmanual-en-library-spy-2
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -8349,10 +8371,12 @@ TEST 2: pgfmanual-en-library-spy-2
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8399,10 +8423,12 @@ TEST 2: pgfmanual-en-library-spy-2
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -8467,6 +8493,7 @@ TEST 2: pgfmanual-en-library-spy-2
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfliteral origin{/pgf@ca1 gs }
 .............\pdfliteral origin{/pgf@CA1 gs }
 .............\pdfcolorstack 0 push {0 g 0 G}
@@ -9269,6 +9296,7 @@ TEST 2: pgfmanual-en-library-spy-2
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -9293,10 +9321,12 @@ TEST 2: pgfmanual-en-library-spy-2
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -9776,8 +9806,10 @@ TEST 3: pgfmanual-en-library-spy-3
 ...........\pdfliteral origin{0 0 1 RG }
 ...........\pdfliteral origin{0 0 1 rg }
 ...........\hbox(0.0+0.0)x0.0, direction TLT
+............\begindir TLT
 ............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ............\pdfcolorstack 0 pop
+............\enddir TLT
 ...........\glue(\spaceskip) 0.0
 .........\pdfliteral origin{Q }
 .........\glue(\spaceskip) 0.0
@@ -9838,6 +9870,7 @@ TEST 3: pgfmanual-en-library-spy-3
 .............\pdfliteral origin{0 G }
 .............\pdfliteral origin{0 g }
 .............\hbox(0.0+0.0)x0.0, direction TLT
+..............\begindir TLT
 ..............\pdfcolorstack 0 push {0 g 0 G}
 ..............\hbox(0.0+0.0)x0.0, direction TLT
 ...............\glue 0.0
@@ -10247,6 +10280,7 @@ TEST 3: pgfmanual-en-library-spy-3
 ................\pdfliteral origin{Q }
 ................\glue 0.0 plus 1.0fil minus 1.0fil
 ..............\pdfcolorstack 0 pop
+..............\enddir TLT
 .............\glue(\spaceskip) 0.0
 ...........\pdfliteral origin{Q }
 ...........\glue(\spaceskip) 0.0
@@ -10279,8 +10313,10 @@ TEST 3: pgfmanual-en-library-spy-3
 ...........\pdfliteral origin{0 0 1 RG }
 ...........\pdfliteral origin{0 0 1 rg }
 ...........\hbox(0.0+0.0)x0.0, direction TLT
+............\begindir TLT
 ............\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ............\pdfcolorstack 0 pop
+............\enddir TLT
 ...........\glue(\spaceskip) 0.0
 .........\pdfliteral origin{Q }
 .........\glue(\spaceskip) 0.0
@@ -10342,8 +10378,10 @@ TEST 3: pgfmanual-en-library-spy-3
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -10407,6 +10445,7 @@ TEST 3: pgfmanual-en-library-spy-3
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -10854,8 +10893,10 @@ TEST 3: pgfmanual-en-library-spy-3
 .......................\pdfliteral origin{0 0 1 RG }
 .......................\pdfliteral origin{0 0 1 rg }
 .......................\hbox(0.0+0.0)x0.0, direction TLT
+........................\begindir TLT
 ........................\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ........................\pdfcolorstack 0 pop
+........................\enddir TLT
 .......................\glue(\spaceskip) 0.0
 .....................\pdfliteral origin{Q }
 .....................\glue(\spaceskip) 0.0
@@ -10916,6 +10957,7 @@ TEST 3: pgfmanual-en-library-spy-3
 .........................\pdfliteral origin{0 G }
 .........................\pdfliteral origin{0 g }
 .........................\hbox(0.0+0.0)x0.0, direction TLT
+..........................\begindir TLT
 ..........................\pdfcolorstack 0 push {0 g 0 G}
 ..........................\hbox(0.0+0.0)x0.0, direction TLT
 ...........................\glue 0.0
@@ -11325,6 +11367,7 @@ TEST 3: pgfmanual-en-library-spy-3
 ............................\pdfliteral origin{Q }
 ............................\glue 0.0 plus 1.0fil minus 1.0fil
 ..........................\pdfcolorstack 0 pop
+..........................\enddir TLT
 .........................\glue(\spaceskip) 0.0
 .......................\pdfliteral origin{Q }
 .......................\glue(\spaceskip) 0.0
@@ -11357,8 +11400,10 @@ TEST 3: pgfmanual-en-library-spy-3
 .......................\pdfliteral origin{0 0 1 RG }
 .......................\pdfliteral origin{0 0 1 rg }
 .......................\hbox(0.0+0.0)x0.0, direction TLT
+........................\begindir TLT
 ........................\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ........................\pdfcolorstack 0 pop
+........................\enddir TLT
 .......................\glue(\spaceskip) 0.0
 .....................\pdfliteral origin{Q }
 .....................\glue(\spaceskip) 0.0
@@ -11389,6 +11434,7 @@ TEST 3: pgfmanual-en-library-spy-3
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -11415,8 +11461,10 @@ TEST 3: pgfmanual-en-library-spy-3
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11862,8 +11910,10 @@ TEST 4: pgfmanual-en-library-spy-4
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -11924,6 +11974,7 @@ TEST 4: pgfmanual-en-library-spy-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -12297,6 +12348,7 @@ TEST 4: pgfmanual-en-library-spy-4
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -12329,8 +12381,10 @@ TEST 4: pgfmanual-en-library-spy-4
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12374,8 +12428,10 @@ TEST 4: pgfmanual-en-library-spy-4
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -12436,6 +12492,7 @@ TEST 4: pgfmanual-en-library-spy-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -12809,6 +12866,7 @@ TEST 4: pgfmanual-en-library-spy-4
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -12841,8 +12899,10 @@ TEST 4: pgfmanual-en-library-spy-4
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13277,8 +13337,10 @@ TEST 5: pgfmanual-en-library-spy-5
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13339,6 +13401,7 @@ TEST 5: pgfmanual-en-library-spy-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -13712,6 +13775,7 @@ TEST 5: pgfmanual-en-library-spy-5
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -13744,8 +13808,10 @@ TEST 5: pgfmanual-en-library-spy-5
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13797,8 +13863,10 @@ TEST 5: pgfmanual-en-library-spy-5
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -13859,6 +13927,7 @@ TEST 5: pgfmanual-en-library-spy-5
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -14232,6 +14301,7 @@ TEST 5: pgfmanual-en-library-spy-5
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -14264,8 +14334,10 @@ TEST 5: pgfmanual-en-library-spy-5
 ..........\pdfliteral origin{0 0 1 RG }
 ..........\pdfliteral origin{0 0 1 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0 1 rg 0 0 1 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14722,8 +14794,10 @@ TEST 6: pgfmanual-en-library-spy-7
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -14786,6 +14860,7 @@ TEST 6: pgfmanual-en-library-spy-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -15157,6 +15232,7 @@ TEST 6: pgfmanual-en-library-spy-7
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -15183,8 +15259,10 @@ TEST 6: pgfmanual-en-library-spy-7
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15628,8 +15706,10 @@ TEST 7: pgfmanual-en-library-spy-8
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -15690,6 +15770,7 @@ TEST 7: pgfmanual-en-library-spy-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -16061,6 +16142,7 @@ TEST 7: pgfmanual-en-library-spy-8
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -16093,8 +16175,10 @@ TEST 7: pgfmanual-en-library-spy-8
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16534,10 +16618,12 @@ TEST 8: pgfmanual-en-library-spy-9
 ..........\pdfliteral origin{0 1 0 RG }
 ..........\pdfliteral origin{0 1 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 1 0 rg 0 1 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -16606,6 +16692,7 @@ TEST 8: pgfmanual-en-library-spy-9
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfliteral origin{/pgf@ca1 gs }
 .............\pdfliteral origin{/pgf@CA1 gs }
 .............\pdfcolorstack 0 push {0 g 0 G}
@@ -16979,6 +17066,7 @@ TEST 8: pgfmanual-en-library-spy-9
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -17003,10 +17091,12 @@ TEST 8: pgfmanual-en-library-spy-9
 ..........\pdfliteral origin{0 1 0 RG }
 ..........\pdfliteral origin{0 1 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 1 0 rg 0 1 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18348,10 +18438,12 @@ TEST 9: pgfmanual-en-library-spy-10
 ..........\pdfliteral origin{0 1 0 RG }
 ..........\pdfliteral origin{0 1 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 1 0 rg 0 1 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -18420,6 +18512,7 @@ TEST 9: pgfmanual-en-library-spy-10
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfliteral origin{/pgf@ca1 gs }
 .............\pdfliteral origin{/pgf@CA1 gs }
 .............\pdfcolorstack 0 push {0 g 0 G}
@@ -19695,6 +19788,7 @@ TEST 9: pgfmanual-en-library-spy-10
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -19719,10 +19813,12 @@ TEST 9: pgfmanual-en-library-spy-10
 ..........\pdfliteral origin{0 1 0 RG }
 ..........\pdfliteral origin{0 1 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 1 0 rg 0 1 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -19766,10 +19862,12 @@ TEST 9: pgfmanual-en-library-spy-10
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -19838,6 +19936,7 @@ TEST 9: pgfmanual-en-library-spy-10
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfliteral origin{/pgf@ca1 gs }
 .............\pdfliteral origin{/pgf@CA1 gs }
 .............\pdfcolorstack 0 push {0 g 0 G}
@@ -21113,6 +21212,7 @@ TEST 9: pgfmanual-en-library-spy-10
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -21137,10 +21237,12 @@ TEST 9: pgfmanual-en-library-spy-10
 ..........\pdfliteral origin{1 0 0 RG }
 ..........\pdfliteral origin{1 0 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -22481,10 +22583,12 @@ TEST 10: pgfmanual-en-library-spy-11
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfliteral origin{/pgf@ca1 gs }
 ...........\pdfliteral origin{/pgf@CA1 gs }
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -22578,6 +22682,7 @@ TEST 10: pgfmanual-en-library-spy-11
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -23849,6 +23954,7 @@ TEST 10: pgfmanual-en-library-spy-11
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -23897,8 +24003,10 @@ TEST 10: pgfmanual-en-library-spy-11
 ..........\pdfliteral origin{0 0.5 0 RG }
 ..........\pdfliteral origin{0 0.5 0 rg }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 0.5 0 rg 0 0.5 0 RG}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -23971,6 +24079,7 @@ TEST 10: pgfmanual-en-library-spy-11
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -25242,6 +25351,7 @@ TEST 10: pgfmanual-en-library-spy-11
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -26591,8 +26701,10 @@ TEST 11: pgfmanual-en-library-spy-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 g 0 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -26684,6 +26796,7 @@ TEST 11: pgfmanual-en-library-spy-12
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -27955,6 +28068,7 @@ TEST 11: pgfmanual-en-library-spy-12
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -28003,8 +28117,10 @@ TEST 11: pgfmanual-en-library-spy-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {0 g 0 G}
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -28077,6 +28193,7 @@ TEST 11: pgfmanual-en-library-spy-12
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {0 g 0 G}
 .............\hbox(0.0+0.0)x0.0, direction TLT
 ..............\glue 0.0
@@ -29348,6 +29465,7 @@ TEST 11: pgfmanual-en-library-spy-12
 ...............\pdfliteral origin{Q }
 ...............\glue 0.0 plus 1.0fil minus 1.0fil
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0

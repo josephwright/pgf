@@ -231,8 +231,10 @@ TEST 5: pgfmanual-en-tikz-paths-5
 ......\glue -50.1875
 ......\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .......\hbox(100.375+0.0)x100.375, direction TLT
+........\begindir TLT
 ........\hbox(100.375+0.0)x100.375, direction TLT
 .........\box(100.375+0.0)x100.375
+........\enddir TLT
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
@@ -351,10 +353,12 @@ TEST 7: pgfmanual-en-tikz-paths-7
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.11)x13.34, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 f
 ...........\TU/lmr/m/n/10 o
 ...........\kern0.28 (font)
 ...........\TU/lmr/m/n/10 o
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -595,7 +599,9 @@ TEST 12: pgfmanual-en-tikz-paths-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.16+0.0)x7.5, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 A
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -623,7 +629,9 @@ TEST 12: pgfmanual-en-tikz-paths-12
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.83+0.0)x7.08, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 B
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1391,10 +1399,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+0.0)x6.43404, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^K
 ...........\kern0.03702 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1422,10 +1432,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94444+1.94444)x6.18402, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 ^^L
 ...........\kern0.52777 (italic)
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2330,6 +2342,7 @@ TEST 36: pgfmanual-en-tikz-paths-37
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+1.94)x42.81999, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 u
 ...........\TU/lmr/m/n/10 p
 ...........\discretionary (penalty 50)
@@ -2343,6 +2356,7 @@ TEST 36: pgfmanual-en-tikz-paths-37
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 f
 ...........\TU/lmr/m/n/10 t
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2509,7 +2523,9 @@ TEST 37: pgfmanual-en-tikz-paths-38
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.48+0.11)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 a
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2603,7 +2619,9 @@ TEST 38: pgfmanual-en-tikz-paths-39
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2637,7 +2655,9 @@ TEST 38: pgfmanual-en-tikz-paths-39
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2696,7 +2716,9 @@ TEST 39: pgfmanual-en-tikz-paths-40
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2730,7 +2752,9 @@ TEST 39: pgfmanual-en-tikz-paths-40
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2789,7 +2813,9 @@ TEST 40: pgfmanual-en-tikz-paths-41
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2848,7 +2874,9 @@ TEST 41: pgfmanual-en-tikz-paths-42
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2874,7 +2902,9 @@ TEST 41: pgfmanual-en-tikz-paths-42
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+2.05)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 y
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2998,7 +3028,9 @@ TEST 44: pgfmanual-en-tikz-paths-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.48+0.11)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 a
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3026,7 +3058,9 @@ TEST 44: pgfmanual-en-tikz-paths-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.94+0.11)x5.56, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 b
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3054,7 +3088,9 @@ TEST 44: pgfmanual-en-tikz-paths-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.48+0.11)x4.44, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 c
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3095,7 +3131,9 @@ TEST 44: pgfmanual-en-tikz-paths-45
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3156,11 +3194,13 @@ TEST 45: pgfmanual-en-tikz-paths-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.30177, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(3.01389+0.0)x4.83765, shifted 1.49998, direction TLT
 ............\OML/cmm/m/it/7 a
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3192,11 +3232,13 @@ TEST 45: pgfmanual-en-tikz-paths-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.48079, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.8611+0.0)x4.01666, shifted 1.49998, direction TLT
 ............\OML/cmm/m/it/7 b
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3236,7 +3278,9 @@ TEST 45: pgfmanual-en-tikz-paths-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.0)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 1
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3260,7 +3304,9 @@ TEST 45: pgfmanual-en-tikz-paths-46
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(6.66+0.22)x5.0, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 0
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -3684,7 +3730,9 @@ TEST 50: pgfmanual-en-tikz-paths-51
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.31+0.0)x5.28, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 x
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

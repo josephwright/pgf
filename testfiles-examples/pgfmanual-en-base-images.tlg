@@ -25,7 +25,9 @@ TEST 1: pgfmanual-en-base-images-2
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(28.45274+0.0)x28.45274, direction TLT
+........\begindir TLT
 ........\image(28.45274+0.0)x28.45274
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -38,7 +40,9 @@ TEST 1: pgfmanual-en-base-images-2
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(32.19652+0.0)x28.45274, direction TLT
+........\begindir TLT
 ........\image(32.19652+0.0)x28.45274
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -51,7 +55,9 @@ TEST 1: pgfmanual-en-base-images-2
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(28.45274+0.0)x25.14429, direction TLT
+........\begindir TLT
 ........\image(28.45274+0.0)x25.14429
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -99,7 +105,9 @@ TEST 2: pgfmanual-en-base-images-3
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(28.45274+0.0)x28.45274, direction TLT
+........\begindir TLT
 ........\image(28.45274+0.0)x28.45274
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -112,7 +120,9 @@ TEST 2: pgfmanual-en-base-images-3
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(32.19652+0.0)x28.45274, direction TLT
+........\begindir TLT
 ........\image(32.19652+0.0)x28.45274
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -125,7 +135,9 @@ TEST 2: pgfmanual-en-base-images-3
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(28.45274+0.0)x25.14429, direction TLT
+........\begindir TLT
 ........\image(28.45274+0.0)x25.14429
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -172,7 +184,9 @@ TEST 3: pgfmanual-en-base-images-4
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(28.45274+0.0)x28.45274, direction TLT
+........\begindir TLT
 ........\image(28.45274+0.0)x28.45274
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -185,7 +199,9 @@ TEST 3: pgfmanual-en-base-images-4
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(32.19652+0.0)x28.45274, direction TLT
+........\begindir TLT
 ........\image(32.19652+0.0)x28.45274
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -198,7 +214,9 @@ TEST 3: pgfmanual-en-base-images-4
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(28.45274+0.0)x25.14429, direction TLT
+........\begindir TLT
 ........\image(28.45274+0.0)x25.14429
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil

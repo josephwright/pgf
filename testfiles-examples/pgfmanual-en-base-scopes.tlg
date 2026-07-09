@@ -308,6 +308,7 @@ TEST 5: pgfmanual-en-base-scopes-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+0.11)x26.98, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 w
 ........\kern-0.28 (font)
 ........\TU/lmr/m/n/10 o
@@ -315,6 +316,7 @@ TEST 5: pgfmanual-en-base-scopes-5
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 d
 ........\TU/lmr/m/n/10 .
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -454,6 +456,7 @@ TEST 8: pgfmanual-en-base-scopes-8
 ....\hbox(0.0+0.0)x0.0, direction TLT
 .....\hbox(28.85274+1.94)x64.87999, direction TLT
 ......\glue(\spaceskip) 0.0
+......\begindir TLT
 ......\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ......\TU/lmr/m/n/10 S
 ......\TU/lmr/m/n/10 u
@@ -488,6 +491,7 @@ TEST 8: pgfmanual-en-base-scopes-8
 ......\TU/lmr/m/n/10 e
 ......\TU/lmr/m/n/10 .
 ......\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+......\enddir TLT
 ......\glue(\spaceskip) 0.0
 ....\pdfliteral origin{Q }
 ....\glue(\spaceskip) 0.0
@@ -554,6 +558,7 @@ TEST 9: pgfmanual-en-base-scopes-9
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -562,6 +567,7 @@ TEST 9: pgfmanual-en-base-scopes-9
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -627,6 +633,7 @@ TEST 10: pgfmanual-en-base-scopes-10
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -635,6 +642,7 @@ TEST 10: pgfmanual-en-base-scopes-10
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -700,6 +708,7 @@ TEST 11: pgfmanual-en-base-scopes-11
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -708,6 +717,7 @@ TEST 11: pgfmanual-en-base-scopes-11
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -773,6 +783,7 @@ TEST 12: pgfmanual-en-base-scopes-12
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -781,6 +792,7 @@ TEST 12: pgfmanual-en-base-scopes-12
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -846,6 +858,7 @@ TEST 13: pgfmanual-en-base-scopes-13
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -854,6 +867,7 @@ TEST 13: pgfmanual-en-base-scopes-13
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -919,6 +933,7 @@ TEST 14: pgfmanual-en-base-scopes-14
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -927,6 +942,7 @@ TEST 14: pgfmanual-en-base-scopes-14
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -992,6 +1008,7 @@ TEST 15: pgfmanual-en-base-scopes-15
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -1000,6 +1017,7 @@ TEST 15: pgfmanual-en-base-scopes-15
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1065,6 +1083,7 @@ TEST 16: pgfmanual-en-base-scopes-16
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -1073,6 +1092,7 @@ TEST 16: pgfmanual-en-base-scopes-16
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1138,6 +1158,7 @@ TEST 17: pgfmanual-en-base-scopes-17
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -1146,6 +1167,7 @@ TEST 17: pgfmanual-en-base-scopes-17
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1211,6 +1233,7 @@ TEST 18: pgfmanual-en-base-scopes-18
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -1219,6 +1242,7 @@ TEST 18: pgfmanual-en-base-scopes-18
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1284,6 +1308,7 @@ TEST 19: pgfmanual-en-base-scopes-19
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+2.05)x25.0, direction TLT
+........\begindir TLT
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 o
 ........\kern-0.28 (font)
@@ -1292,6 +1317,7 @@ TEST 19: pgfmanual-en-base-scopes-19
 ........\TU/lmr/m/n/10 e
 ........\TU/lmr/m/n/10 l
 ........\TU/lmr/m/n/10 y
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil

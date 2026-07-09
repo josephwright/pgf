@@ -1061,8 +1061,10 @@ TEST 9: pgfmanual-en-tikz-pics-11
 ........\glue -50.1875
 ........\hbox(100.375+0.0)x100.375, shifted 50.1875, direction TLT
 .........\hbox(100.375+0.0)x100.375, direction TLT
+..........\begindir TLT
 ..........\hbox(100.375+0.0)x100.375, direction TLT
 ...........\box(100.375+0.0)x100.375
+..........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 ......\pdfliteral origin{Q }
@@ -1751,10 +1753,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(4.30554+0.0)x6.43404, direction TLT
+.............\begindir TLT
 .............\mathon
 .............\OML/cmm/m/it/10 ^^K
 .............\kern0.03702 (italic)
 .............\mathoff
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0

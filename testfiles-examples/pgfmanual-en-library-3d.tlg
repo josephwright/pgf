@@ -334,6 +334,7 @@ TEST 4: pgfmanual-en-library-3d-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+2.06)x61.11, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 m
 ...........\TU/lmr/m/n/10 a
 ...........\TU/lmr/m/n/10 g
@@ -349,6 +350,7 @@ TEST 4: pgfmanual-en-library-3d-4
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -598,6 +600,7 @@ TEST 4: pgfmanual-en-library-3d-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(7.05+0.11)x52.8, direction TLT
+...........\begindir TLT
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 e
@@ -613,6 +616,7 @@ TEST 4: pgfmanual-en-library-3d-4
 ...........\TU/lmr/m/n/10 e
 ...........\TU/lmr/m/n/10 l
 ...........\TU/lmr/m/n/10 d
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0

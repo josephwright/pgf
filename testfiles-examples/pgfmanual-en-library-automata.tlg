@@ -79,11 +79,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -125,11 +127,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.15+0.11)x20.64, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 s
 .............\TU/lmr/m/n/10 t
 .............\TU/lmr/m/n/10 a
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -163,11 +167,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -199,11 +205,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -250,11 +258,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -293,7 +303,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -330,7 +342,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -367,7 +381,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -408,7 +424,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -447,7 +465,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -488,7 +508,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -587,11 +609,13 @@ TEST 2: pgfmanual-en-library-automata-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -630,11 +654,13 @@ TEST 2: pgfmanual-en-library-automata-2
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -648,12 +674,14 @@ TEST 2: pgfmanual-en-library-automata-2
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.44444+0.0)x10.00003, direction TLT
+..........\begindir TLT
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\mathon
 ..........\OT1/cmr/m/n/10 0
 ..........\OT1/cmr/m/n/10 0
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -719,11 +747,13 @@ TEST 3: pgfmanual-en-library-automata-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -737,12 +767,14 @@ TEST 3: pgfmanual-en-library-automata-3
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.44444+0.0)x10.00003, direction TLT
+..........\begindir TLT
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\mathon
 ..........\OT1/cmr/m/n/10 1
 ..........\OT1/cmr/m/n/10 1
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -780,11 +812,13 @@ TEST 3: pgfmanual-en-library-automata-3
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -798,12 +832,14 @@ TEST 3: pgfmanual-en-library-automata-3
 ........\pdfliteral origin{q }
 ........\hbox(0.0+0.0)x0.0, direction TLT
 .........\hbox(6.44444+0.0)x10.00003, direction TLT
+..........\begindir TLT
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\mathon
 ..........\OT1/cmr/m/n/10 0
 ..........\OT1/cmr/m/n/10 0
 ..........\mathoff
+..........\enddir TLT
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
 .......\glue 0.0 plus 1.0fil minus 1.0fil
@@ -870,11 +906,13 @@ TEST 4: pgfmanual-en-library-automata-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -924,11 +962,13 @@ TEST 4: pgfmanual-en-library-automata-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.15+0.11)x20.64, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 s
 .............\TU/lmr/m/n/10 t
 .............\TU/lmr/m/n/10 a
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -970,11 +1010,13 @@ TEST 4: pgfmanual-en-library-automata-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1014,11 +1056,13 @@ TEST 4: pgfmanual-en-library-automata-4
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1057,7 +1101,9 @@ TEST 4: pgfmanual-en-library-automata-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1094,7 +1140,9 @@ TEST 4: pgfmanual-en-library-automata-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1135,7 +1183,9 @@ TEST 4: pgfmanual-en-library-automata-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1176,7 +1226,9 @@ TEST 4: pgfmanual-en-library-automata-4
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1238,11 +1290,13 @@ TEST 5: pgfmanual-en-library-automata-5
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1281,6 +1335,7 @@ TEST 5: pgfmanual-en-library-automata-5
 ............\pdfliteral origin{1 0 0 RG }
 ............\pdfliteral origin{1 0 0 rg }
 ............\hbox(6.15+0.11)x20.64, direction TLT
+.............\begindir TLT
 .............\pdfcolorstack 0 push {1 0 0 rg 1 0 0 RG}
 .............\TU/lmr/m/n/10 s
 .............\TU/lmr/m/n/10 t
@@ -1288,6 +1343,7 @@ TEST 5: pgfmanual-en-library-automata-5
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 t
 .............\pdfcolorstack 0 pop
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1357,11 +1413,13 @@ TEST 6: pgfmanual-en-library-automata-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 0
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1396,6 +1454,8 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1437,11 +1497,13 @@ TEST 6: pgfmanual-en-library-automata-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1481,11 +1543,13 @@ TEST 6: pgfmanual-en-library-automata-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1525,11 +1589,13 @@ TEST 6: pgfmanual-en-library-automata-6
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.51111+0.0)x4.48613, shifted 1.49998, direction TLT
 ............\OT1/cmr/m/n/7 3
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1566,6 +1632,8 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(0.0+0.0)x0.0, direction TLT
+.............\begindir TLT
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1606,7 +1674,9 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1643,7 +1713,9 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1680,7 +1752,9 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1721,7 +1795,9 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1760,7 +1836,9 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1801,7 +1879,9 @@ TEST 6: pgfmanual-en-library-automata-6
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -1893,6 +1973,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
@@ -1900,6 +1981,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\OT1/cmr/m/n/7 0
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -1957,6 +2039,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
@@ -1964,6 +2047,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\OT1/cmr/m/n/7 1
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2020,6 +2104,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
@@ -2027,6 +2112,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\OT1/cmr/m/n/7 2
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2086,6 +2172,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ..........\pdfliteral origin{1 G }
 ..........\pdfliteral origin{1 g }
 ..........\hbox(4.30554+1.94444)x8.95026, direction TLT
+...........\begindir TLT
 ...........\pdfcolorstack 0 push {1 g 1 G}
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
@@ -2093,6 +2180,7 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\OT1/cmr/m/n/7 3
 ...........\mathoff
 ...........\pdfcolorstack 0 pop
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2148,7 +2236,9 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2185,7 +2275,9 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2222,7 +2314,9 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2263,7 +2357,9 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2302,7 +2398,9 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.22)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 0
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2343,7 +2441,9 @@ TEST 7: pgfmanual-en-library-automata-7
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.66+0.0)x5.0, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 1
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2406,11 +2506,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.30177, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(3.01389+0.0)x4.83765, shifted 1.49998, direction TLT
 ............\OML/cmm/m/it/7 a
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2460,11 +2562,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(6.15+0.11)x20.64, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/10 s
 .............\TU/lmr/m/n/10 t
 .............\TU/lmr/m/n/10 a
 .............\TU/lmr/m/n/10 r
 .............\TU/lmr/m/n/10 t
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2498,11 +2602,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.48079, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.8611+0.0)x4.01666, shifted 1.49998, direction TLT
 ............\OML/cmm/m/it/7 b
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2534,11 +2640,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x9.127, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(4.8611+0.0)x4.66287, shifted 1.49998, direction TLT
 ............\OML/cmm/m/it/7 d
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2570,11 +2678,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.53787, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(3.01389+0.0)x4.07375, shifted 1.49998, direction TLT
 ............\OML/cmm/m/it/7 c
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2606,11 +2716,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ..........\pdfliteral origin{0 G }
 ..........\pdfliteral origin{0 g }
 ..........\hbox(4.30554+1.94444)x8.75824, direction TLT
+...........\begindir TLT
 ...........\mathon
 ...........\OML/cmm/m/it/10 q
 ...........\hbox(3.01389+0.0)x4.29411, shifted 1.49998, direction TLT
 ............\OML/cmm/m/it/7 e
 ...........\mathoff
+...........\enddir TLT
 ..........\glue(\spaceskip) 0.0
 ........\pdfliteral origin{Q }
 ........\glue(\spaceskip) 0.0
@@ -2649,11 +2761,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x18.528, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 0
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 L
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2692,11 +2806,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x19.472, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 R
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2737,11 +2853,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x18.528, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 L
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2778,11 +2896,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x18.528, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 0
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 L
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2821,11 +2941,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x18.528, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 0
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 L
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2867,11 +2989,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x19.472, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 0
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 R
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2912,11 +3036,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x19.472, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 R
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2953,11 +3079,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x19.472, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 0
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 R
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0
@@ -2997,11 +3125,13 @@ TEST 8: pgfmanual-en-library-automata-8
 ............\pdfliteral origin{0 G }
 ............\pdfliteral origin{0 g }
 ............\hbox(5.464+1.552)x19.472, direction TLT
+.............\begindir TLT
 .............\TU/lmr/m/n/8 1
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 0
 .............\TU/lmr/m/n/8 ,
 .............\TU/lmr/m/n/8 R
+.............\enddir TLT
 ............\glue(\spaceskip) 0.0
 ..........\pdfliteral origin{Q }
 ..........\glue(\spaceskip) 0.0

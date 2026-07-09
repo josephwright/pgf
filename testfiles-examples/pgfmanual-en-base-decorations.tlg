@@ -97,9 +97,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(7.05+0.22)x5.56, direction TLT
 ........\hbox(7.05+0.22)x5.56, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 S
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -113,9 +115,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.48+0.11)x5.0, direction TLT
 ........\hbox(4.48+0.11)x5.0, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 o
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -129,9 +133,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.42+0.0)x8.33, direction TLT
 ........\hbox(4.42+0.0)x8.33, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 m
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -145,9 +151,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.48+0.11)x4.44, direction TLT
 ........\hbox(4.48+0.11)x4.44, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 e
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -161,9 +169,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x3.33, direction TLT
 ........\hbox(0.0+0.0)x3.33, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -177,9 +187,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.15+0.11)x3.89, direction TLT
 ........\hbox(6.15+0.11)x3.89, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 t
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -193,9 +205,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.48+0.11)x4.44, direction TLT
 ........\hbox(4.48+0.11)x4.44, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 e
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -209,9 +223,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.31+0.0)x5.28, direction TLT
 ........\hbox(4.31+0.0)x5.28, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 x
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -225,9 +241,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.15+0.11)x3.89, direction TLT
 ........\hbox(6.15+0.11)x3.89, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 t
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -241,9 +259,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x3.33, direction TLT
 ........\hbox(0.0+0.0)x3.33, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -257,9 +277,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.48+0.11)x5.0, direction TLT
 ........\hbox(4.48+0.11)x5.0, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 a
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -273,9 +295,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+0.0)x2.78, direction TLT
 ........\hbox(6.94+0.0)x2.78, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 l
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -289,9 +313,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.48+0.11)x5.0, direction TLT
 ........\hbox(4.48+0.11)x5.0, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 o
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -305,9 +331,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.42+0.0)x5.56, direction TLT
 ........\hbox(4.42+0.0)x5.56, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 n
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -321,9 +349,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.53+2.06)x5.0, direction TLT
 ........\hbox(4.53+2.06)x5.0, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 g
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -337,9 +367,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x3.33, direction TLT
 ........\hbox(0.0+0.0)x3.33, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -353,9 +385,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.48+0.11)x5.0, direction TLT
 ........\hbox(4.48+0.11)x5.0, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 a
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -369,9 +403,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x3.33, direction TLT
 ........\hbox(0.0+0.0)x3.33, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -385,9 +421,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.42+1.94)x5.56, direction TLT
 ........\hbox(4.42+1.94)x5.56, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 p
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -401,9 +439,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(4.48+0.11)x5.0, direction TLT
 ........\hbox(4.48+0.11)x5.0, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 a
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -417,9 +457,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.15+0.11)x3.89, direction TLT
 ........\hbox(6.15+0.11)x3.89, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 t
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -433,9 +475,11 @@ TEST 2: pgfmanual-en-base-decorations-2
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(6.94+0.0)x5.56, direction TLT
 ........\hbox(6.94+0.0)x5.56, direction TLT
+.........\begindir TLT
 .........\pdfliteral origin{0 G }
 .........\pdfliteral origin{0 g }
 .........\TU/lmr/m/n/10 h
+.........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -756,6 +800,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -786,6 +832,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -816,6 +864,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -846,6 +896,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -876,6 +928,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -906,6 +960,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -936,6 +992,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -966,6 +1024,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -996,6 +1056,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1026,6 +1088,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1056,6 +1120,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1086,6 +1152,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1116,6 +1184,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1146,6 +1216,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1176,6 +1248,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1206,6 +1280,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1236,6 +1312,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1266,6 +1344,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1296,6 +1376,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1326,6 +1408,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1356,6 +1440,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1386,6 +1472,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1416,6 +1504,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1446,6 +1536,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1476,6 +1568,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1506,6 +1600,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
@@ -1536,6 +1632,8 @@ TEST 4: pgfmanual-en-base-decorations-5
 ......\pdfliteral origin{q }
 ......\hbox(0.0+0.0)x0.0, direction TLT
 .......\hbox(0.0+0.0)x0.0, direction TLT
+........\begindir TLT
+........\enddir TLT
 ......\pdfliteral origin{Q }
 ......\glue(\spaceskip) 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
