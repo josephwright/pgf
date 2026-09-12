@@ -11,7 +11,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..\special{color push rgb 1 0 0}
 ..\glue(\parskip) 0.0
 ..\glue(\parskip) 0.0
-..\hbox(6.94444+1.94444)x99.58464, glue set 9.39005fil
+..\hbox(6.94444+1.94444)x99.58464, glue set 6.05672fil
 ...\hbox(0.0+0.0)x0.0
 ...\OT1/cmr/m/n/10 R
 ...\OT1/cmr/m/n/10 e
@@ -22,6 +22,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...\OT1/cmr/m/n/10 x
 ...\OT1/cmr/m/n/10 t
 ...\OT1/cmr/m/n/10 ,
+...\glue 3.33333 plus 2.08331 minus 0.88889
 ...\special{color push rgb 1 0.75 0.75}
 ...\OT1/cmr/m/n/10 w
 ...\kern-0.27779
@@ -142,9 +143,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...\OT1/cmr/m/n/10 x
 ...\OT1/cmr/m/n/10 t
 ...\OT1/cmr/m/n/10 ,
-...\special{color pop}
-...\special{color pop}
 ...\glue 3.33333 plus 2.08331 minus 0.88889
+...\special{color pop}
+...\special{color pop}
 ...\OT1/cmr/m/n/10 b
 ...\OT1/cmr/m/n/10 a
 ...\OT1/cmr/m/n/10 c
@@ -179,12 +180,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...\OT1/cmr/m/n/10 x
 ...\OT1/cmr/m/n/10 t
 ...\OT1/cmr/m/n/10 ,
-...\special{color pop}
-...\special{color pop}
 ...\glue(\rightskip) 0.0 plus 1.0fil
 ..\penalty 150
 ..\glue(\baselineskip) 3.11111
 ..\hbox(6.94444+0.0)x99.58464, glue set 13.94504fil
+...\special{color pop}
+...\special{color pop}
 ...\OT1/cmr/m/n/10 a
 ...\OT1/cmr/m/n/10 n
 ...\OT1/cmr/m/n/10 d
