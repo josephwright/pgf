@@ -11,11 +11,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..\special{color push rgb 1 0 0}
 ..\glue(\parskip) 0.0
 ..\glue(\parskip) 0.0
-..\hbox(6.94+1.92998)x99.58464, glue set 9.39464fil
+..\hbox(6.94+1.92998)x99.58464, glue set 6.06464fil
 ...\hbox(0.0+0.0)x0.0
 ...\TU/lmr/m/n/10 Red
 ...\glue 3.33 plus 1.665 minus 1.11
 ...\TU/lmr/m/n/10 text,
+...\glue 3.33 plus 2.08124 minus 0.888
 ...\special{color push rgb 1 0.75 0.75}
 ...\TU/lmr/m/n/10 washed-out
 ...\glue(\rightskip) 0.0 plus 1.0fil
@@ -58,9 +59,9 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ..\glue(\baselineskip) 3.00002
 ..\hbox(6.94+1.92998)x99.58464, glue set 43.75464fil
 ...\TU/lmr/m/n/10 text,
-...\special{color pop}
-...\special{color pop}
 ...\glue 3.33 plus 2.08124 minus 0.888
+...\special{color pop}
+...\special{color pop}
 ...\TU/lmr/m/n/10 back
 ...\glue 3.33 plus 1.665 minus 1.11
 ...\TU/lmr/m/n/10 to
@@ -72,12 +73,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line ....
 ...\TU/lmr/m/n/10 blue
 ...\glue 3.33 plus 1.665 minus 1.11
 ...\TU/lmr/m/n/10 text,
-...\special{color pop}
-...\special{color pop}
 ...\glue(\rightskip) 0.0 plus 1.0fil
 ..\penalty 150
 ..\glue(\baselineskip) 3.13002
 ..\hbox(6.94+0.10999)x99.58464, glue set 13.94232fil
+...\special{color pop}
+...\special{color pop}
 ...\TU/lmr/m/n/10 and
 ...\glue 3.33 plus 1.665 minus 1.11
 ...\TU/lmr/m/n/10 back
